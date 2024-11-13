@@ -74,6 +74,18 @@ runCohortDiagnostics(executionSettings = executionSettings,
                      con = con,
                      cohortManifest = diagCohorts,
                      outputFolder = outputFolder)
+# Run CohortDiagnostics with cohort characterization
+CohortDiagnostics::runCohortDiagnostics(
+  connectionDetails = connectionDetails,
+  cdmDatabaseSchema = cdmDatabaseSchema,
+  cohortDatabaseSchema = cohortDatabaseSchema,
+  cohortTable = cohortTable,
+  cohortDefinitionSet = cohortsToCreate,
+  exportFolder = outputFolder,
+  runInclusionStatistics = TRUE,       # Generates statistics on inclusion rules
+  runCharacterization = TRUE,          # Enables cohort characterization
+  runTemporalCohortCharacterization = FALSE  # Set to TRUE if you need time-series characterization
+)
 
 createMergedResultsFile('results', sqliteDbPath = "MyCohortDiagnosticsResults.sqlite", overwrite = TRUE)
 # F. Disconnect ------------------------
