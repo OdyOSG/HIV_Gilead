@@ -185,6 +185,9 @@ runCohortDiagnostics <- function(con,
     runTimeSeries = TRUE,
     runOrphanConcepts = FALSE,
     runBreakdownIndexEvents = TRUE,
+    runInclusionStatistics = TRUE,
+    runIncidenceRate = TRUE,
+    runTimeSeries = TRUE,
     minCellCount = 5
   )
 
