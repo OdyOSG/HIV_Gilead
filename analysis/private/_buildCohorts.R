@@ -182,6 +182,7 @@ runCohortDiagnostics <- function(con,
     databaseId = executionSettings$databaseName,
     connection = con,
     incremental = TRUE,
+    runTimeSeries = TRUE,
     runOrphanConcepts = FALSE,
     runBreakdownIndexEvents = TRUE,
     minCellCount = 5
