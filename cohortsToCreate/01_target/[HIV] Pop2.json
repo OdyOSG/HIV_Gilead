@@ -8096,7 +8096,7 @@
       }
     ],
     "ObservationWindow": {
-      "PriorDays": 365,
+      "PriorDays": 0,
       "PostDays": 0
     },
     "PrimaryCriteriaLimit": {
@@ -8349,40 +8349,6 @@
             "Occurrence": {
               "Type": 0,
               "Count": 0
-            }
-          }
-        ],
-        "DemographicCriteriaList": [],
-        "Groups": []
-      }
-    },
-    {
-      "name": "24 month observation period prior to analysis year",
-      "description": "24 month observation period prior to analysis year Jan 1",
-      "expression": {
-        "Type": "ALL",
-        "CriteriaList": [
-          {
-            "Criteria": {
-              "ObservationPeriod": {
-                "PeriodStartDate": {
-                  "Value": "2014-01-01",
-                  "Op": "lt"
-                }
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
             }
           }
         ],
