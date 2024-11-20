@@ -18926,7 +18926,7 @@
           "CodesetId": 17,
           "OccurrenceStartDate": {
             "Value": "2016-01-01",
-            "Extent": "2017-12-31",
+            "Extent": "2016-12-31",
             "Op": "bt"
           }
         }
@@ -19489,66 +19489,6 @@
           },
           {
             "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 31
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Measurement": {
-                "CodesetId": 32
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Observation": {
-                "CodesetId": 33
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
               "ProcedureOccurrence": {
                 "CodesetId": 28
               }
@@ -19649,7 +19589,76 @@
           }
         ],
         "DemographicCriteriaList": [],
-        "Groups": []
+        "Groups": [
+          {
+            "Type": "AT_LEAST",
+            "Count": 1,
+            "CriteriaList": [
+              {
+                "Criteria": {
+                  "ConditionOccurrence": {
+                    "CodesetId": 31
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "Measurement": {
+                    "CodesetId": 32
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "Observation": {
+                    "CodesetId": 33
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              }
+            ],
+            "DemographicCriteriaList": [],
+            "Groups": []
+          }
+        ]
       }
     },
     {
@@ -20080,66 +20089,6 @@
           },
           {
             "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 31
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Measurement": {
-                "CodesetId": 32
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Observation": {
-                "CodesetId": 33
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
               "ProcedureOccurrence": {
                 "CodesetId": 28
               }
@@ -20240,7 +20189,76 @@
           }
         ],
         "DemographicCriteriaList": [],
-        "Groups": []
+        "Groups": [
+          {
+            "Type": "AT_LEAST",
+            "Count": 1,
+            "CriteriaList": [
+              {
+                "Criteria": {
+                  "ConditionOccurrence": {
+                    "CodesetId": 31
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "Measurement": {
+                    "CodesetId": 32
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "Observation": {
+                    "CodesetId": 33
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              }
+            ],
+            "DemographicCriteriaList": [],
+            "Groups": []
+          }
+        ]
       }
     }
   ],

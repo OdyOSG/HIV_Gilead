@@ -5444,7 +5444,7 @@
           "CodesetId": 4,
           "OccurrenceStartDate": {
             "Value": "2016-01-01",
-            "Extent": "2023-12-31",
+            "Extent": "2016-12-31",
             "Op": "bt"
           }
         }
@@ -5462,7 +5462,7 @@
     "Type": "First"
   },
   "ExpressionLimit": {
-    "Type": "All"
+    "Type": "First"
   },
   "InclusionRules": [
     {
@@ -5700,37 +5700,6 @@
             "Occurrence": {
               "Type": 0,
               "Count": 0
-            }
-          }
-        ],
-        "DemographicCriteriaList": [],
-        "Groups": []
-      }
-    },
-    {
-      "name": "24 month observation period prior to analysis",
-      "description": "24 month observation period before cohort entry to confirm HIV negative",
-      "expression": {
-        "Type": "ALL",
-        "CriteriaList": [
-          {
-            "Criteria": {
-              "ObservationPeriod": {}
-            },
-            "StartWindow": {
-              "Start": {
-                "Days": 730,
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1,
-              "CountColumn": "DOMAIN_CONCEPT"
             }
           }
         ],
