@@ -19190,6 +19190,30 @@
       }
     },
     {
+      "name": "Female",
+      "description": "Female",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [],
+        "DemographicCriteriaList": [
+          {
+            "Gender": [
+              {
+                "CONCEPT_CODE": "M",
+                "CONCEPT_ID": 8507,
+                "CONCEPT_NAME": "MALE",
+                "DOMAIN_ID": "Gender",
+                "INVALID_REASON_CAPTION": "Unknown",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "VOCABULARY_ID": "Gender"
+              }
+            ]
+          }
+        ],
+        "Groups": []
+      }
+    },
+    {
       "name": "High Risk Behavior",
       "description": "High Risk Behavior",
       "expression": {
@@ -19203,9 +19227,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19223,9 +19249,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19243,9 +19271,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19263,9 +19293,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19283,9 +19315,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19303,9 +19337,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19323,29 +19359,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Measurement": {
-                "CodesetId": 32
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19366,6 +19384,29 @@
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Measurement": {
+                "CodesetId": 32
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19383,9 +19424,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19403,9 +19446,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19423,9 +19468,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19443,9 +19490,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19475,9 +19524,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19495,9 +19546,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19515,9 +19568,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19535,9 +19590,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19555,6 +19612,7 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
@@ -19575,9 +19633,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19602,9 +19662,11 @@
                 },
                 "StartWindow": {
                   "Start": {
+                    "Days": 365,
                     "Coeff": -1
                   },
                   "End": {
+                    "Days": 365,
                     "Coeff": 1
                   },
                   "UseEventEnd": false
@@ -19622,9 +19684,11 @@
                 },
                 "StartWindow": {
                   "Start": {
+                    "Days": 365,
                     "Coeff": -1
                   },
                   "End": {
+                    "Days": 365,
                     "Coeff": 1
                   },
                   "UseEventEnd": false
@@ -19642,9 +19706,11 @@
                 },
                 "StartWindow": {
                   "Start": {
+                    "Days": 365,
                     "Coeff": -1
                   },
                   "End": {
+                    "Days": 365,
                     "Coeff": 1
                   },
                   "UseEventEnd": false
@@ -19676,9 +19742,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19696,9 +19764,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19716,9 +19786,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19736,9 +19808,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19756,9 +19830,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19776,9 +19852,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 365,
                 "Coeff": -1
               },
               "End": {
+                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19803,9 +19881,11 @@
                 },
                 "StartWindow": {
                   "Start": {
+                    "Days": 365,
                     "Coeff": -1
                   },
                   "End": {
+                    "Days": 365,
                     "Coeff": 1
                   },
                   "UseEventEnd": false
@@ -19823,9 +19903,11 @@
                 },
                 "StartWindow": {
                   "Start": {
+                    "Days": 365,
                     "Coeff": -1
                   },
                   "End": {
+                    "Days": 365,
                     "Coeff": 1
                   },
                   "UseEventEnd": false
@@ -19843,9 +19925,11 @@
                 },
                 "StartWindow": {
                   "Start": {
+                    "Days": 365,
                     "Coeff": -1
                   },
                   "End": {
+                    "Days": 365,
                     "Coeff": 1
                   },
                   "UseEventEnd": false
@@ -19860,30 +19944,6 @@
             "Groups": []
           }
         ]
-      }
-    },
-    {
-      "name": "Male ",
-      "description": "Male ",
-      "expression": {
-        "Type": "ALL",
-        "CriteriaList": [],
-        "DemographicCriteriaList": [
-          {
-            "Gender": [
-              {
-                "CONCEPT_CODE": "M",
-                "CONCEPT_ID": 8507,
-                "CONCEPT_NAME": "MALE",
-                "DOMAIN_ID": "Gender",
-                "INVALID_REASON_CAPTION": "Unknown",
-                "STANDARD_CONCEPT_CAPTION": "Unknown",
-                "VOCABULARY_ID": "Gender"
-              }
-            ]
-          }
-        ],
-        "Groups": []
       }
     }
   ],

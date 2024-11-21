@@ -19190,277 +19190,6 @@
       }
     },
     {
-      "name": "High Risk Behavior",
-      "description": "High Risk Behavior",
-      "expression": {
-        "Type": "ANY",
-        "CriteriaList": [
-          {
-            "Criteria": {
-              "Measurement": {
-                "CodesetId": 20
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 21
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 22
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 23
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 24
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 25
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ConditionOccurrence": {
-                "CodesetId": 31
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Measurement": {
-                "CodesetId": 32
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Observation": {
-                "CodesetId": 33
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "ProcedureOccurrence": {
-                "CodesetId": 28
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Observation": {
-                "CodesetId": 27
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Measurement": {
-                "CodesetId": 29
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          },
-          {
-            "Criteria": {
-              "Observation": {
-                "CodesetId": 30
-              }
-            },
-            "StartWindow": {
-              "Start": {
-                "Coeff": -1
-              },
-              "End": {
-                "Coeff": 1
-              },
-              "UseEventEnd": false
-            },
-            "Occurrence": {
-              "Type": 2,
-              "Count": 1
-            }
-          }
-        ],
-        "DemographicCriteriaList": [],
-        "Groups": []
-      }
-    },
-    {
       "name": "HIV Testing+Any",
       "description": "2+ HIV Testing+ Any High Risk Behaviors",
       "expression": {
@@ -19482,11 +19211,9 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19504,7 +19231,6 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
@@ -19525,11 +19251,9 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19547,11 +19271,9 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19569,11 +19291,9 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19591,11 +19311,9 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19613,11 +19331,9 @@
                       },
                       "StartWindow": {
                         "Start": {
-                          "Days": 365,
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19638,7 +19354,6 @@
                           "Coeff": -1
                         },
                         "End": {
-                          "Days": 365,
                           "Coeff": 1
                         },
                         "UseEventEnd": false
@@ -19657,11 +19372,9 @@
             },
             "StartWindow": {
               "Start": {
-                "Days": 365,
                 "Coeff": -1
               },
               "End": {
-                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false
