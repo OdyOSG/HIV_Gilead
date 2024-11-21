@@ -19190,30 +19190,6 @@
       }
     },
     {
-      "name": "Female",
-      "description": "Female",
-      "expression": {
-        "Type": "ALL",
-        "CriteriaList": [],
-        "DemographicCriteriaList": [
-          {
-            "Gender": [
-              {
-                "CONCEPT_CODE": "M",
-                "CONCEPT_ID": 8507,
-                "CONCEPT_NAME": "MALE",
-                "DOMAIN_ID": "Gender",
-                "INVALID_REASON_CAPTION": "Unknown",
-                "STANDARD_CONCEPT_CAPTION": "Unknown",
-                "VOCABULARY_ID": "Gender"
-              }
-            ]
-          }
-        ],
-        "Groups": []
-      }
-    },
-    {
       "name": "High Risk Behavior",
       "description": "High Risk Behavior",
       "expression": {
@@ -19506,6 +19482,30 @@
           }
         ],
         "DemographicCriteriaList": [],
+        "Groups": []
+      }
+    },
+    {
+      "name": "Male",
+      "description": "male",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [],
+        "DemographicCriteriaList": [
+          {
+            "Gender": [
+              {
+                "CONCEPT_CODE": "M",
+                "CONCEPT_ID": 8507,
+                "CONCEPT_NAME": "MALE",
+                "DOMAIN_ID": "Gender",
+                "INVALID_REASON_CAPTION": "Unknown",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "VOCABULARY_ID": "Gender"
+              }
+            ]
+          }
+        ],
         "Groups": []
       }
     },
