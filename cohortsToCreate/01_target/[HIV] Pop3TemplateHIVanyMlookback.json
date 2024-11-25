@@ -18970,7 +18970,7 @@
               "UseEventEnd": false
             },
             "Occurrence": {
-              "Type": 2,
+              "Type": 0,
               "Count": 0
             }
           }
@@ -19190,8 +19190,8 @@
       }
     },
     {
-      "name": "HIV Testing+Any",
-      "description": "2+ HIV Testing+ Any High Risk Behaviors",
+      "name": "HIV Testing",
+      "description": "HIV Testing+ Any High Risk Behaviors",
       "expression": {
         "Type": "AT_LEAST",
         "Count": 1,
@@ -19202,183 +19202,7 @@
                 "CorrelatedCriteria": {
                   "Type": "AT_LEAST",
                   "Count": 1,
-                  "CriteriaList": [
-                    {
-                      "Criteria": {
-                        "ConditionOccurrence": {
-                          "CodesetId": 31
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "Measurement": {
-                          "CodesetId": 32
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "Observation": {
-                          "CodesetId": 33
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "ProcedureOccurrence": {
-                          "CodesetId": 28
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "Observation": {
-                          "CodesetId": 27
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "Measurement": {
-                          "CodesetId": 29
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "Observation": {
-                          "CodesetId": 30
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Days": 365,
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    },
-                    {
-                      "Criteria": {
-                        "ConditionOccurrence": {
-                          "CodesetId": 34
-                        }
-                      },
-                      "StartWindow": {
-                        "Start": {
-                          "Coeff": -1
-                        },
-                        "End": {
-                          "Days": 365,
-                          "Coeff": 1
-                        },
-                        "UseEventEnd": false
-                      },
-                      "Occurrence": {
-                        "Type": 2,
-                        "Count": 1
-                      }
-                    }
-                  ],
+                  "CriteriaList": [],
                   "DemographicCriteriaList": [],
                   "Groups": []
                 },
@@ -19398,7 +19222,8 @@
             },
             "Occurrence": {
               "Type": 2,
-              "Count": 1
+              "Count": 1,
+              "CountColumn": "DOMAIN_CONCEPT"
             }
           }
         ],
@@ -19427,6 +19252,193 @@
             ]
           }
         ],
+        "Groups": []
+      }
+    },
+    {
+      "name": "HIV Testing",
+      "description": "2+ HIV Testing+ Any High Risk Behaviors",
+      "expression": {
+        "Type": "AT_LEAST",
+        "Count": 1,
+        "CriteriaList": [
+          {
+            "Criteria": {
+              "ConditionOccurrence": {
+                "CodesetId": 31
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Measurement": {
+                "CodesetId": 32
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Observation": {
+                "CodesetId": 33
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "ProcedureOccurrence": {
+                "CodesetId": 28
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Observation": {
+                "CodesetId": 27
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "ConditionOccurrence": {
+                "CodesetId": 34
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Observation": {
+                "CodesetId": 30
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          },
+          {
+            "Criteria": {
+              "Measurement": {
+                "CodesetId": 29
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 365,
+                "Coeff": 1
+              },
+              "UseEventEnd": false
+            },
+            "Occurrence": {
+              "Type": 2,
+              "Count": 1
+            }
+          }
+        ],
+        "DemographicCriteriaList": [],
         "Groups": []
       }
     }
