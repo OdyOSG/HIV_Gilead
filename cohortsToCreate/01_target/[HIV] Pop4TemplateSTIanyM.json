@@ -18925,7 +18925,7 @@
         "DrugExposure": {
           "OccurrenceStartDate": {
             "Value": "2016-01-01",
-            "Extent": "2016-12-31",
+            "Extent": "2023-12-31",
             "Op": "bt"
           }
         }
