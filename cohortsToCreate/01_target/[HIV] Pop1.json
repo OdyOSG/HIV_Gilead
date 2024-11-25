@@ -5482,7 +5482,6 @@
                 "Coeff": -1
               },
               "End": {
-                "Days": 0,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -5708,8 +5707,8 @@
       }
     },
     {
-      "name": "Female",
-      "description": "Female",
+      "name": "Male",
+      "description": "Male",
       "expression": {
         "Type": "ALL",
         "CriteriaList": [],
@@ -5717,9 +5716,9 @@
           {
             "Gender": [
               {
-                "CONCEPT_CODE": "F",
-                "CONCEPT_ID": 8532,
-                "CONCEPT_NAME": "FEMALE",
+                "CONCEPT_CODE": "M",
+                "CONCEPT_ID": 8507,
+                "CONCEPT_NAME": "MALE",
                 "DOMAIN_ID": "Gender",
                 "INVALID_REASON_CAPTION": "Unknown",
                 "STANDARD_CONCEPT_CAPTION": "Unknown",
