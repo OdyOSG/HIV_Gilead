@@ -1,0 +1,141 @@
+concept_id,concept_name,domain_id,vocabulary_id,
+436033,Syphilis,Condition,SNOMED,Syphilis
+4092828,Latent early syphilis,Condition,SNOMED,Syphilis
+4087756,Late latent syphilis,Condition,SNOMED,Syphilis
+437787,Secondary syphilis,Condition,SNOMED,Syphilis
+40485064,Latent syphilis,Condition,SNOMED,Syphilis
+4201172,Tabetic neurosyphilis,Condition,SNOMED,Syphilis
+433410,Primary syphilis,Condition,SNOMED,Syphilis
+375738,Neurosyphilis,Condition,SNOMED,Syphilis
+79742,Primary genital syphilis,Condition,SNOMED,Syphilis
+439729,"Late syphilis, latent (+ sero., - C.S.F. 2 years after)",Condition,SNOMED,Syphilis
+4093309,Secondary syphilis of skin and mucous membrane,Condition,SNOMED,Syphilis
+435739,Late syphilis,Condition,SNOMED,Syphilis
+4239550,Condyloma latum,Condition,SNOMED,Syphilis
+4132494,Ocular syphilis,Condition,SNOMED,Syphilis
+442296,Secondary syphilis of skin,Condition,SNOMED,Syphilis
+377788,General paresis - neurosyphilis,Condition,SNOMED,Syphilis
+4056324,Female syphilitic pelvic inflammatory disease,Condition,SNOMED,Syphilis
+439671,Uveitis due to secondary syphilis,Condition,SNOMED,Syphilis
+320646,Syphilitic aneurysm of aorta,Condition,SNOMED,Syphilis
+376335,Asymptomatic neurosyphilis,Condition,SNOMED,Syphilis
+380943,Rupture of syphilitic cerebral aneurysm,Condition,SNOMED,Syphilis
+312823,Secondary syphilitic adenopathy,Condition,SNOMED,Syphilis
+137212,Cardiovascular syphilis,Condition,SNOMED,Syphilis
+318689,Syphilitic endocarditis of aortic valve,Condition,SNOMED,Syphilis
+4089994,Serological relapse after treatment of latent early syphilis,Condition,SNOMED,Syphilis
+313698,Syphilitic endocarditis of tricuspid valve,Condition,SNOMED,Syphilis
+313416,Syphilitic endocarditis of mitral valve,Condition,SNOMED,Syphilis
+372243,Late congenital neurosyphilis,Condition,SNOMED,Syphilis
+378686,Syphilitic optic atrophy,Condition,SNOMED,Syphilis
+380030,Syphilitic acoustic neuritis,Condition,SNOMED,Syphilis
+133959,Syphilitic alopecia,Condition,SNOMED,Syphilis
+194861,Syphilis of liver,Condition,SNOMED,Syphilis
+373139,Syphilitic parkinsonism,Condition,SNOMED,Syphilis
+73409,Primary anal syphilis,Condition,SNOMED,Syphilis
+315467,Syphilitic aortitis,Condition,SNOMED,Syphilis
+441228,Syphilitic meningitis,Condition,SNOMED,Syphilis
+435179,Secondary syphilis relapse,Condition,SNOMED,Syphilis
+436031,Syphilitic endocarditis,Condition,SNOMED,Syphilis
+444087,Syphilitic episcleritis,Condition,SNOMED,Syphilis
+438971,Syphilitic disseminated retinochoroiditis,Condition,SNOMED,Syphilis
+4215747,Secondary syphilis of liver,Condition,SNOMED,Syphilis
+444280,Secondary syphilitic periostitis,Condition,SNOMED,Syphilis
+439731,Secondary syphilitic iridocyclitis,Condition,SNOMED,Syphilis
+434274,Secondary syphilitic chorioretinitis,Condition,SNOMED,Syphilis
+378349,Syphilitic encephalitis,Condition,SNOMED,Syphilis
+76032,Syphilis of muscle,Condition,SNOMED,Syphilis
+320025,Syphilitic pericarditis,Condition,SNOMED,Syphilis
+74862,Syphilis of bone,Condition,SNOMED,Syphilis
+43021833,Syphilitic valvular endocarditis,Condition,SNOMED,Syphilis
+442345,Syphilis of kidney,Condition,SNOMED,Syphilis
+439670,Acute secondary syphilitic meningitis,Condition,SNOMED,Syphilis
+313964,Syphilitic endocarditis of pulmonary valve,Condition,SNOMED,Syphilis
+444294,Syphilis of lung,Condition,SNOMED,Syphilis
+377789,Syphilitic retrobulbar neuritis,Condition,SNOMED,Syphilis
+4087751,Late congenital syphilitic oculopathy,Condition,SNOMED,Syphilis
+444083,Syphilitic myocarditis,Condition,SNOMED,Syphilis
+4048790,Syphilitic cerebral arteritis,Condition,SNOMED,Syphilis
+201506,Secondary syphilis of viscera,Condition,SNOMED,Syphilis
+4045978,Late syphilitic encephalitis,Condition,SNOMED,Syphilis
+72245,Chlamydial infection of lower genitourinary tract,Condition,SNOMED,Chlamydia
+194288,Chlamydial infection of anus and rectum,Condition,SNOMED,Chlamydia
+79732,Genitourinary chlamydia infection,Condition,SNOMED,Chlamydia
+23137,Chlamydial pharyngitis,Condition,SNOMED,Chlamydia
+4127408,Chlamydial vulvovaginitis,Condition,SNOMED,Chlamydia
+194287,Lymphogranuloma venereum,Condition,SNOMED,Chlamydia
+37312673,Inflammation of pelvis caused by Chlamydia trachomatis,Condition,SNOMED,Chlamydia
+433417,Gonorrhea,Condition,SNOMED,Gonorrhea
+198978,Acute gonorrhea of lower genitourinary tract,Condition,SNOMED,Gonorrhea
+30333,Gonorrhea of pharynx,Condition,SNOMED,Gonorrhea
+36685124,Infection of anus and rectum caused by Neisseria gonorrhoeae,Condition,SNOMED,Gonorrhea
+193136,Acute gonococcal cervicitis,Condition,SNOMED,Gonorrhea
+4034007,Gonococcal cervicitis,Condition,SNOMED,Gonorrhea
+74864,Gonococcal infection of joint,Condition,SNOMED,Gonorrhea
+193132,Chronic gonorrhea lower genitourinary tract,Condition,SNOMED,Gonorrhea
+76629,Chronic gonococcal epididymo-orchitis,Condition,SNOMED,Gonorrhea
+194863,Chronic gonococcal cervicitis,Condition,SNOMED,Gonorrhea
+4176270,Gonococcemia,Condition,SNOMED,Gonorrhea
+133965,Acute gonorrhea of upper genitourinary tract,Condition,SNOMED,Gonorrhea
+200040,Acute gonococcal endometritis,Condition,SNOMED,Gonorrhea
+443911,Acute gonococcal epididymo-orchitis,Condition,SNOMED,Gonorrhea
+193140,Acute gonococcal cystitis,Condition,SNOMED,Gonorrhea
+4061217,Female gonococcal pelvic inflammatory disease,Condition,SNOMED,Gonorrhea
+201503,Chronic gonococcal prostatitis,Condition,SNOMED,Gonorrhea
+321505,Gonococcal heart disease,Condition,SNOMED,Gonorrhea
+200334,Acute gonococcal salpingitis,Condition,SNOMED,Gonorrhea
+4335889,Gonococcal conjunctivitis,Condition,SNOMED,Gonorrhea
+194571,Acute gonococcal prostatitis,Condition,SNOMED,Gonorrhea
+193699,Chronic gonococcal endometritis,Condition,SNOMED,Gonorrhea
+374283,Gonococcal infection of eye,Condition,SNOMED,Gonorrhea
+196345,Gonococcal peritonitis,Condition,SNOMED,Gonorrhea
+4034010,Gonococcal vulvovaginitis,Condition,SNOMED,Gonorrhea
+4056174,Gonococcal prostatitis,Condition,SNOMED,Gonorrhea
+201785,Chronic gonorrhea of upper genitourinary tract,Condition,SNOMED,Gonorrhea
+198972,Acute gonococcal seminal vesiculitis,Condition,SNOMED,Gonorrhea
+196338,Chronic gonococcal cystitis,Condition,SNOMED,Gonorrhea
+46269909,Infection of lower genitourinary tract co-occurrent with abscess of periurethral gland caused by Gonococcus,Condition,SNOMED,Gonorrhea
+193700,Chronic gonococcal salpingitis,Condition,SNOMED,Gonorrhea
+72562,Gonococcal spondylitis,Condition,SNOMED,Gonorrhea
+444059,Gonococcal keratitis,Condition,SNOMED,Gonorrhea
+45757249,Gonococcal osteomyelitis,Condition,SNOMED,Gonorrhea
+444446,Gonococcal iridocyclitis,Condition,SNOMED,Gonorrhea
+443781,Chronic gonococcal seminal vesiculitis,Condition,SNOMED,Gonorrhea
+433417,Gonorrhea,Condition,SNOMED,PID
+199067,Female pelvic inflammatory disease,Condition,SNOMED,PID
+79732,Genitourinary chlamydia infection,Condition,SNOMED,PID
+4056324,Female syphilitic pelvic inflammatory disease,Condition,SNOMED,PID
+198076,Chlamydial peritonitis,Condition,SNOMED,PID
+4061217,Female gonococcal pelvic inflammatory disease,Condition,SNOMED,PID
+37312673,Inflammation of pelvis caused by Chlamydia trachomatis,Condition,SNOMED,PID
+196345,Gonococcal peritonitis,Condition,SNOMED,PID
+441788,Human papilloma virus infection,Condition,SNOMED,Genital warts
+198075,Condyloma acuminatum of the anogenital region,Condition,SNOMED,Genital warts
+40480043,Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid test,Condition,SNOMED,Genital warts
+36717114,"Human papillomavirus deoxyribonucleic acid test positive, high risk on cervical specimen",Condition,SNOMED,Genital warts
+74855,Genital herpes simplex,Condition,SNOMED,Genital Herpes
+201211,Herpetic vulvovaginitis,Condition,SNOMED,Genital Herpes
+200319,Herpetic infection of penis,Condition,SNOMED,Genital Herpes
+261782,Herpetic ulceration of vulva,Condition,SNOMED,Genital Herpes
+4311484,Herpes simplex keratitis,Condition,SNOMED,Genital Herpes
+4093145,Anogenital herpesviral infection,Condition,SNOMED,Genital Herpes
+4087449,Herpesviral infection of perianal skin and rectum,Condition,SNOMED,Genital Herpes
+4030750,Herpetic cervicitis,Condition,SNOMED,Genital Herpes
+201792,Nongonococcal urethritis,Condition,SNOMED,NGU
+4126282,Chlamydial urethritis,Condition,SNOMED,NGU
+434872,Infection by Trichomonas,Condition,SNOMED,Trichomoniasis
+194871,Trichomonal vulvovaginitis,Condition,SNOMED,Trichomoniasis
+78073,Urogenital infection by Trichomonas vaginalis,Condition,SNOMED,Trichomoniasis
+200657,Trichomonal urethritis,Condition,SNOMED,Trichomoniasis
+201798,Trichomonal prostatitis,Condition,SNOMED,Trichomoniasis
+138973,Chancroid,Condition,SNOMED,Chancroid
+199726,Granuloma inguinale,Condition,SNOMED,Granuloma inguinale
+433417,Gonorrhea,Condition,SNOMED,Epididymitis
+79732,Genitourinary chlamydia infection,Condition,SNOMED,Epididymitis
+4061217,Female gonococcal pelvic inflammatory disease,Condition,SNOMED,Epididymitis
+37312673,Inflammation of pelvis caused by Chlamydia trachomatis,Condition,SNOMED,Epididymitis
+4056174,Gonococcal prostatitis,Condition,SNOMED,Epididymitis
+440647,Sexually transmitted infectious disease,Condition,SNOMED,Unspecified STI
+"43020475",High risk heterosexual behavior,Condition,SNOMED,HRS
+"43020476",High risk homosexual behavior,Condition,SNOMED,HRS
+"43020474",High risk bisexual behavior,Condition,SNOMED,HRS
