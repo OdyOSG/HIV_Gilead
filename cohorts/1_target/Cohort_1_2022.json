@@ -1,0 +1,5725 @@
+{
+ "ConceptSets": [
+ {
+ "id": 0,
+"name": "HIV",
+"expression": {
+ "items": [
+ {
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "91947003",
+"CONCEPT_ID": 4241530,
+"CONCEPT_NAME": "Asymptomatic human immunodeficiency virus infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "165816005",
+"CONCEPT_ID": 4013106,
+"CONCEPT_NAME": "HIV positive",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "79019005",
+"CONCEPT_ID": 432554,
+"CONCEPT_NAME": "Human immunodeficiency virus II infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "721166000",
+"CONCEPT_ID": 36715476,
+"CONCEPT_NAME": "Human immunodeficiency virus complicating pregnancy childbirth and the puerperium",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "86406008",
+"CONCEPT_ID": 439727,
+"CONCEPT_NAME": "Human immunodeficiency virus infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+} 
+] 
+} 
+},
+{
+ "id": 3,
+"name": "HIV Measurements",
+"expression": {
+ "items": [
+ {
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41498-7",
+"CONCEPT_ID": 3031672,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Cerebral spinal fluid by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "70241-5",
+"CONCEPT_ID": 42868715,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Plasma by Probe and target amplification method detection limit = 20 copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "59419-2",
+"CONCEPT_ID": 40762510,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Plasma by Probe with signal amplification",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "20447-9",
+"CONCEPT_ID": 3010747,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21008-8",
+"CONCEPT_ID": 3028148,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48551-6",
+"CONCEPT_ID": 3048535,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 400 copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48511-0",
+"CONCEPT_ID": 3048506,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 50 copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41513-3",
+"CONCEPT_ID": 3032527,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 400 copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41515-8",
+"CONCEPT_ID": 3031527,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 75 copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "25836-8",
+"CONCEPT_ID": 3038207,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] (viral load) in Specimen by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "73658-7",
+"CONCEPT_ID": 43533683,
+"CONCEPT_NAME": "HIV 1 subtype in Specimen by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "53923-9",
+"CONCEPT_ID": 3039772,
+"CONCEPT_NAME": "HIV 1 tropism [Identifier] in Blood Narrative",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "31073-0",
+"CONCEPT_ID": 3007136,
+"CONCEPT_NAME": "HIV 2 Ab band pattern [Interpretation] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "47029-4",
+"CONCEPT_ID": 3051000,
+"CONCEPT_NAME": "HIV 2 Ab [Presence] in Cerebral spinal fluid by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "7919-4",
+"CONCEPT_ID": 3015015,
+"CONCEPT_NAME": "HIV 2 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5225-8",
+"CONCEPT_ID": 3015682,
+"CONCEPT_NAME": "HIV 2 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "30361-0",
+"CONCEPT_ID": 3024449,
+"CONCEPT_NAME": "HIV 2 Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "51786-2",
+"CONCEPT_ID": 3039370,
+"CONCEPT_NAME": "HIV 2 Ab Signal/Cutoff in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "22358-6",
+"CONCEPT_ID": 3020089,
+"CONCEPT_NAME": "HIV 2 Ab [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5224-1",
+"CONCEPT_ID": 3012733,
+"CONCEPT_NAME": "HIV 2 Ab [Units/volume] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21334-8",
+"CONCEPT_ID": 3020778,
+"CONCEPT_NAME": "HIV 2 gp105 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21335-5",
+"CONCEPT_ID": 3020767,
+"CONCEPT_NAME": "HIV 2 gp120 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "10901-7",
+"CONCEPT_ID": 3022362,
+"CONCEPT_NAME": "HIV 2 gp125 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "57976-3",
+"CONCEPT_ID": 40761082,
+"CONCEPT_NAME": "HIV 2 gp140 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21336-3",
+"CONCEPT_ID": 3005072,
+"CONCEPT_NAME": "HIV 2 gp15 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21337-1",
+"CONCEPT_ID": 3000086,
+"CONCEPT_NAME": "HIV 2 gp34 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "10902-5",
+"CONCEPT_ID": 3025457,
+"CONCEPT_NAME": "HIV 2 gp36 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "11078-3",
+"CONCEPT_ID": 3003918,
+"CONCEPT_NAME": "HIV 2 gp80 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "33807-9",
+"CONCEPT_ID": 3043388,
+"CONCEPT_NAME": "HIV 2 IgG Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "33806-1",
+"CONCEPT_ID": 3042841,
+"CONCEPT_NAME": "HIV 2 IgG Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "62456-9",
+"CONCEPT_ID": 40765193,
+"CONCEPT_NAME": "HIV 2 p15 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "57977-1",
+"CONCEPT_ID": 40761083,
+"CONCEPT_NAME": "HIV 2 p16 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "11079-1",
+"CONCEPT_ID": 3007624,
+"CONCEPT_NAME": "HIV 2 p26 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21338-9",
+"CONCEPT_ID": 3002868,
+"CONCEPT_NAME": "HIV 2 p31 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "45212-8",
+"CONCEPT_ID": 3047359,
+"CONCEPT_NAME": "HIV 2 p31+p34 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "57978-9",
+"CONCEPT_ID": 40761084,
+"CONCEPT_NAME": "HIV 2 p34 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "13920-4",
+"CONCEPT_ID": 3012160,
+"CONCEPT_NAME": "HIV 2 p41 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "11080-9",
+"CONCEPT_ID": 3018408,
+"CONCEPT_NAME": "HIV 2 p53 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21339-7",
+"CONCEPT_ID": 3001843,
+"CONCEPT_NAME": "HIV 2 p55 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "11081-7",
+"CONCEPT_ID": 3008039,
+"CONCEPT_NAME": "HIV 2 p56 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21340-5",
+"CONCEPT_ID": 3019661,
+"CONCEPT_NAME": "HIV 2 p58 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "11082-5",
+"CONCEPT_ID": 3014884,
+"CONCEPT_NAME": "HIV 2 p68 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "25841-8",
+"CONCEPT_ID": 3001240,
+"CONCEPT_NAME": "HIV 2 proviral DNA [Presence] in Blood by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "34699-9",
+"CONCEPT_ID": 3032045,
+"CONCEPT_NAME": "HIV 2 proviral DNA [Presence] in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "25842-6",
+"CONCEPT_ID": 3033937,
+"CONCEPT_NAME": "HIV 2 proviral DNA [Presence] in Specimen by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "69353-1",
+"CONCEPT_ID": 40771874,
+"CONCEPT_NAME": "HIV 2 RNA [Presence] in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "69354-9",
+"CONCEPT_ID": 40771875,
+"CONCEPT_NAME": "HIV 2 RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "73659-5",
+"CONCEPT_ID": 43533684,
+"CONCEPT_NAME": "HIV 2 subtype in Specimen by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "31676001",
+"CONCEPT_ID": 4136494,
+"CONCEPT_NAME": "HIV antigen test",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "104332002",
+"CONCEPT_ID": 4018596,
+"CONCEPT_NAME": "HIV p24 antigen test",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "33630-5",
+"CONCEPT_ID": 3044830,
+"CONCEPT_NAME": "HIV protease gene mutations detected [Identifier]",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9836-8",
+"CONCEPT_ID": 3005467,
+"CONCEPT_NAME": "HIV proviral DNA [Presence] in Blood by Probe with amplification",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "HCPCS",
+"CONCEPT_CODE": "G0432",
+"CONCEPT_ID": 40664440,
+"CONCEPT_NAME": "Infectious agent antibody detection by enzyme immunoassay (eia) technique, hiv-1 and/or hiv-2, screening",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "HCPCS" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "HCPCS",
+"CONCEPT_CODE": "G0433",
+"CONCEPT_ID": 40664562,
+"CONCEPT_NAME": "Infectious agent antibody detection by enzyme-linked immunosorbent assay (elisa) technique, hiv-1 and/or hiv-2, screening",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "HCPCS" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "HCPCS",
+"CONCEPT_CODE": "G0435",
+"CONCEPT_ID": 40664478,
+"CONCEPT_NAME": "Infectious agent antibody detection by rapid antibody test, hiv-1 and/or hiv-2, screening",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "HCPCS" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87390",
+"CONCEPT_ID": 2213092,
+"CONCEPT_NAME": "Infectious agent antigen detection by immunoassay technique (eg, enzyme immunoassay [EIA], enzyme-linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]), qualitative or semiquantitative; HIV-1",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87389",
+"CONCEPT_ID": 42742380,
+"CONCEPT_NAME": "Infectious agent antigen detection by immunoassay technique (eg, enzyme immunoassay [EIA], enzyme-linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]), qualitative or semiquantitative; HIV-1 antigen(s),",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87391",
+"CONCEPT_ID": 2213093,
+"CONCEPT_NAME": "Infectious agent antigen detection by immunoassay technique (eg, enzyme immunoassay [EIA], enzyme-linked immunosorbent assay [ELISA], fluorescence immunoassay [FIA], immunochemiluminometric assay [IMCA]), qualitative or semiquantitative; HIV-2",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87806",
+"CONCEPT_ID": 46257709,
+"CONCEPT_NAME": "Infectious agent antigen detection by immunoassay with direct optical (ie, visual) observation; HIV-1 antigen(s), with HIV-1 and HIV-2 antibodies",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87535",
+"CONCEPT_ID": 2213141,
+"CONCEPT_NAME": "Infectious agent detection by nucleic acid (DNA or RNA); HIV-1, amplified probe technique, includes reverse transcription when performed",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "N",
+"STANDARD_CONCEPT_CAPTION": "Non-Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87534",
+"CONCEPT_ID": 2213140,
+"CONCEPT_NAME": "Infectious agent detection by nucleic acid (DNA or RNA); HIV-1, direct probe technique",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87536",
+"CONCEPT_ID": 2213142,
+"CONCEPT_NAME": "Infectious agent detection by nucleic acid (DNA or RNA); HIV-1, quantification, includes reverse transcription when performed",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87538",
+"CONCEPT_ID": 2213144,
+"CONCEPT_NAME": "Infectious agent detection by nucleic acid (DNA or RNA); HIV-2, amplified probe technique, includes reverse transcription when performed",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "N",
+"STANDARD_CONCEPT_CAPTION": "Non-Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87539",
+"CONCEPT_ID": 2213145,
+"CONCEPT_NAME": "Infectious agent detection by nucleic acid (DNA or RNA); HIV-2, quantification, includes reverse transcription when performed",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87906",
+"CONCEPT_ID": 40757089,
+"CONCEPT_NAME": "Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, other region (eg, integrase, fusion)",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87901",
+"CONCEPT_ID": 2213190,
+"CONCEPT_NAME": "Infectious agent genotype analysis by nucleic acid (DNA or RNA); HIV-1, reverse transcriptase and protease regions",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87904",
+"CONCEPT_ID": 2213193,
+"CONCEPT_NAME": "Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; each additional drug tested (List separately in addition to code for primary procedure)",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "87903",
+"CONCEPT_ID": 2213192,
+"CONCEPT_NAME": "Infectious agent phenotype analysis by nucleic acid (DNA or RNA) with drug resistance tissue culture analysis, HIV 1; first through 10 drugs tested",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "409788009",
+"CONCEPT_ID": 4260330,
+"CONCEPT_NAME": "Rapid HIV-1 antibody test",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "86701",
+"CONCEPT_ID": 2212882,
+"CONCEPT_NAME": "Antibody; HIV-1",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "N",
+"STANDARD_CONCEPT_CAPTION": "Non-Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "86703",
+"CONCEPT_ID": 2212884,
+"CONCEPT_NAME": "Antibody; HIV-1 and HIV-2, single result",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "N",
+"STANDARD_CONCEPT_CAPTION": "Non-Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "86702",
+"CONCEPT_ID": 2212883,
+"CONCEPT_NAME": "Antibody; HIV-2",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "N",
+"STANDARD_CONCEPT_CAPTION": "Non-Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "CPT4",
+"CONCEPT_CODE": "86689",
+"CONCEPT_ID": 2212876,
+"CONCEPT_NAME": "Antibody; HTLV or HIV antibody, confirmatory test (eg, Western Blot)",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "CPT4" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "83101-6",
+"CONCEPT_ID": 42529218,
+"CONCEPT_NAME": "HIV 1+2 Ab and HIV1 p24 Ag panel - Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "56888-1",
+"CONCEPT_ID": 40760007,
+"CONCEPT_NAME": "HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "58900-2",
+"CONCEPT_ID": 40761994,
+"CONCEPT_NAME": "HIV 1+2 Ab+HIV1 p24 Ag [Units/volume] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "32602-5",
+"CONCEPT_ID": 3035725,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Cerebral spinal fluid",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "7918-6",
+"CONCEPT_ID": 3011325,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "44873-8",
+"CONCEPT_ID": 3043837,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "31201-7",
+"CONCEPT_ID": 3035962,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43010-8",
+"CONCEPT_ID": 3032287,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Specimen",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "42600-7",
+"CONCEPT_ID": 3037935,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Specimen by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "49580-4",
+"CONCEPT_ID": 3032965,
+"CONCEPT_NAME": "HIV 1+2 Ab [Presence] in Specimen by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "22357-8",
+"CONCEPT_ID": 3020171,
+"CONCEPT_NAME": "HIV 1+2 Ab [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5223-3",
+"CONCEPT_ID": 3021850,
+"CONCEPT_NAME": "HIV 1+2 Ab [Units/volume] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "73906-0",
+"CONCEPT_ID": 43533928,
+"CONCEPT_NAME": "HIV 1+2 IgG Ab [Presence] in Blood by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "54086-4",
+"CONCEPT_ID": 3051555,
+"CONCEPT_NAME": "HIV 1+2 IgG Ab [Presence] in DBS",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43009-0",
+"CONCEPT_ID": 3034979,
+"CONCEPT_NAME": "HIV 1+2 IgG Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "40733-8",
+"CONCEPT_ID": 3039234,
+"CONCEPT_NAME": "HIV 1+2 IgG Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "73905-2",
+"CONCEPT_ID": 43533927,
+"CONCEPT_NAME": "HIV 1+2 IgG Ab [Presence] in Serum or Plasma by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43008-2",
+"CONCEPT_ID": 3031080,
+"CONCEPT_NAME": "HIV 1+2 IgM Ab [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41290-8",
+"CONCEPT_ID": 3029093,
+"CONCEPT_NAME": "HIV 1+2 IgM Ab [Units/volume] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "85368-9",
+"CONCEPT_ID": 36203199,
+"CONCEPT_NAME": "HIV 1+2 RNA [Presence] in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "13499-9",
+"CONCEPT_ID": 3016870,
+"CONCEPT_NAME": "HIV 1 Ab band pattern [Interpretation] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "29327-4",
+"CONCEPT_ID": 3001000,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Body fluid",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "34591-8",
+"CONCEPT_ID": 3032606,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Body fluid by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "34592-6",
+"CONCEPT_ID": 3032617,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Body fluid by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41145-4",
+"CONCEPT_ID": 3042359,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Capillary blood",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "33866-5",
+"CONCEPT_ID": 3045160,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Capillary blood by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "16974-8",
+"CONCEPT_ID": 3014796,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Cerebral spinal fluid",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "57974-8",
+"CONCEPT_ID": 40761080,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Cerebral spinal fluid by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "42627-0",
+"CONCEPT_ID": 3028845,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Cerebral spinal fluid by Immunofluorescence",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41144-7",
+"CONCEPT_ID": 3042627,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Saliva (oral fluid)",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35437-3",
+"CONCEPT_ID": 3034910,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Saliva (oral fluid) by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35439-9",
+"CONCEPT_ID": 3034881,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "7917-8",
+"CONCEPT_ID": 3013906,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "14092-1",
+"CONCEPT_ID": 3018154,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Serum by Immunofluorescence",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "29893-5",
+"CONCEPT_ID": 3017675,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5221-7",
+"CONCEPT_ID": 3038100,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Serum or Plasma by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "68961-2",
+"CONCEPT_ID": 40771495,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "53379-4",
+"CONCEPT_ID": 3042221,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Specimen",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "49905-3",
+"CONCEPT_ID": 3030101,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Specimen by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "32571-2",
+"CONCEPT_ID": 3010290,
+"CONCEPT_NAME": "HIV 1 Ab [Presence] in Urine by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41143-9",
+"CONCEPT_ID": 3040587,
+"CONCEPT_NAME": "HIV 1 Ab [Units/volume] in Saliva (oral fluid)",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35438-1",
+"CONCEPT_ID": 3036417,
+"CONCEPT_NAME": "HIV 1 Ab [Units/volume] in Saliva (oral fluid) by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "22356-0",
+"CONCEPT_ID": 3010021,
+"CONCEPT_NAME": "HIV 1 Ab [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43599-0",
+"CONCEPT_ID": 3043306,
+"CONCEPT_NAME": "HIV 1 Ab [Units/volume] in Serum by Immunofluorescence",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5220-9",
+"CONCEPT_ID": 3037274,
+"CONCEPT_NAME": "HIV 1 Ab [Units/volume] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "16976-3",
+"CONCEPT_ID": 3007679,
+"CONCEPT_NAME": "HIV 1 Ag [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "85037-0",
+"CONCEPT_ID": 42527815,
+"CONCEPT_NAME": "HIV 1 and 2 Ab and HIV 1 p24 Ag panel - Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43185-8",
+"CONCEPT_ID": 3043283,
+"CONCEPT_NAME": "HIV 1 and 2 Ab band pattern [Interpretation] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "69668-2",
+"CONCEPT_ID": 42870583,
+"CONCEPT_NAME": "HIV 1 and 2 Ab [Identifier] in Serum or Plasma by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "80203-3",
+"CONCEPT_ID": 21494795,
+"CONCEPT_NAME": "HIV 1 and 2 Ab [Identifier] in Serum, Plasma or Blood by Rapid immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "42768-2",
+"CONCEPT_ID": 3031537,
+"CONCEPT_NAME": "HIV 1 and 2 Ab [Interpretation] in Serum Narrative",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "50806003",
+"CONCEPT_ID": 4178288,
+"CONCEPT_NAME": "HIV-1 antibody confirmatory test",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "117748001",
+"CONCEPT_ID": 4038851,
+"CONCEPT_NAME": "HIV 1 DNA assay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12893-4",
+"CONCEPT_ID": 3009280,
+"CONCEPT_NAME": "HIV 1 gp105 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35441-5",
+"CONCEPT_ID": 3033964,
+"CONCEPT_NAME": "HIV 1 gp120 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "44532-0",
+"CONCEPT_ID": 3046956,
+"CONCEPT_NAME": "HIV 1 gp120 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9661-0",
+"CONCEPT_ID": 3006323,
+"CONCEPT_NAME": "HIV 1 gp120 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43013-2",
+"CONCEPT_ID": 3031378,
+"CONCEPT_NAME": "HIV 1 gp120+gp160 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "14126-7",
+"CONCEPT_ID": 3000170,
+"CONCEPT_NAME": "HIV 1 gp120+gp160 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "40439-2",
+"CONCEPT_ID": 3040137,
+"CONCEPT_NAME": "HIV 1 gp120+gp160 Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35440-7",
+"CONCEPT_ID": 3036739,
+"CONCEPT_NAME": "HIV 1 gp160 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9660-2",
+"CONCEPT_ID": 3007417,
+"CONCEPT_NAME": "HIV 1 gp160 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12870-2",
+"CONCEPT_ID": 3017286,
+"CONCEPT_NAME": "HIV 1 gp34 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35452-2",
+"CONCEPT_ID": 3034556,
+"CONCEPT_NAME": "HIV 1 gp40 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35446-4",
+"CONCEPT_ID": 3035836,
+"CONCEPT_NAME": "HIV 1 gp41 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43012-4",
+"CONCEPT_ID": 3032019,
+"CONCEPT_NAME": "HIV 1 gp41 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9662-8",
+"CONCEPT_ID": 3022061,
+"CONCEPT_NAME": "HIV 1 gp41 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "40438-4",
+"CONCEPT_ID": 3040430,
+"CONCEPT_NAME": "HIV 1 gp41 Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "19110-6",
+"CONCEPT_ID": 3014987,
+"CONCEPT_NAME": "HIV 1 gp41+gp43 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "59052-1",
+"CONCEPT_ID": 40762145,
+"CONCEPT_NAME": "HIV 1+Hepatitis C virus RNA+Hepatitis B virus DNA [Presence] in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "710311002",
+"CONCEPT_ID": 46272018,
+"CONCEPT_NAME": "HIV-1/HIV-2 antigen/antibody combination immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "31430-2",
+"CONCEPT_ID": 3035629,
+"CONCEPT_NAME": "HIV 1 IgG Ab [Presence] in Cerebral spinal fluid",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "28004-0",
+"CONCEPT_ID": 3003852,
+"CONCEPT_NAME": "HIV 1 IgG Ab [Presence] in Cerebral spinal fluid by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "16975-5",
+"CONCEPT_ID": 3003974,
+"CONCEPT_NAME": "HIV 1 IgG Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "40732-0",
+"CONCEPT_ID": 3039289,
+"CONCEPT_NAME": "HIV 1 IgG Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "57975-5",
+"CONCEPT_ID": 40761081,
+"CONCEPT_NAME": "HIV 1+O+2 Ab [Presence] in Body fluid",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48345-3",
+"CONCEPT_ID": 3053246,
+"CONCEPT_NAME": "HIV 1+O+2 Ab [Presence] in Serum or Plasma",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48346-1",
+"CONCEPT_ID": 3049147,
+"CONCEPT_NAME": "HIV 1+O+2 Ab [Units/volume] in Serum or Plasma",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12872-8",
+"CONCEPT_ID": 3004040,
+"CONCEPT_NAME": "HIV 1 p15 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "16132-3",
+"CONCEPT_ID": 3009341,
+"CONCEPT_NAME": "HIV 1 p15+p18 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35449-8",
+"CONCEPT_ID": 3034919,
+"CONCEPT_NAME": "HIV 1 p17 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9663-6",
+"CONCEPT_ID": 3025164,
+"CONCEPT_NAME": "HIV 1 p17 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "32842-7",
+"CONCEPT_ID": 3045126,
+"CONCEPT_NAME": "HIV 1 p17+p18 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "32827-8",
+"CONCEPT_ID": 3030607,
+"CONCEPT_NAME": "HIV 1 p17+p18 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35450-6",
+"CONCEPT_ID": 3036712,
+"CONCEPT_NAME": "HIV 1 p18 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12859-5",
+"CONCEPT_ID": 3008716,
+"CONCEPT_NAME": "HIV 1 p18 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12855-3",
+"CONCEPT_ID": 3018426,
+"CONCEPT_NAME": "HIV 1 p23 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35448-0",
+"CONCEPT_ID": 3035481,
+"CONCEPT_NAME": "HIV 1 p24 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "43011-6",
+"CONCEPT_ID": 3033106,
+"CONCEPT_NAME": "HIV 1 p24 Ab [Presence] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9664-4",
+"CONCEPT_ID": 3025705,
+"CONCEPT_NAME": "HIV 1 p24 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "40437-6",
+"CONCEPT_ID": 3040890,
+"CONCEPT_NAME": "HIV 1 p24 Ab [Presence] in Serum or Plasma by Immunoassay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21331-4",
+"CONCEPT_ID": 3013230,
+"CONCEPT_NAME": "HIV 1 p24 Ab [Titer] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "16978-9",
+"CONCEPT_ID": 3022655,
+"CONCEPT_NAME": "HIV 1 p24 Ab [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9665-1",
+"CONCEPT_ID": 3026601,
+"CONCEPT_NAME": "HIV 1 p24 Ag [Units/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "117750009",
+"CONCEPT_ID": 4038852,
+"CONCEPT_NAME": "HIV 1 p24 antigen assay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12871-0",
+"CONCEPT_ID": 3017581,
+"CONCEPT_NAME": "HIV 1 p26 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12857-9",
+"CONCEPT_ID": 3015190,
+"CONCEPT_NAME": "HIV 1 p28 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35447-2",
+"CONCEPT_ID": 3034544,
+"CONCEPT_NAME": "HIV 1 p31 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9666-9",
+"CONCEPT_ID": 3013123,
+"CONCEPT_NAME": "HIV 1 p31 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35564-4",
+"CONCEPT_ID": 3034894,
+"CONCEPT_NAME": "HIV 1 p31+p32 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12858-7",
+"CONCEPT_ID": 3015726,
+"CONCEPT_NAME": "HIV 1 p32 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35565-1",
+"CONCEPT_ID": 3036139,
+"CONCEPT_NAME": "HIV 1 p40 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "31072-2",
+"CONCEPT_ID": 3008301,
+"CONCEPT_NAME": "HIV 1 p41 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21332-2",
+"CONCEPT_ID": 3010358,
+"CONCEPT_NAME": "HIV 1 p41 Ab [Titer] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35445-6",
+"CONCEPT_ID": 3037337,
+"CONCEPT_NAME": "HIV 1 p51 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9667-7",
+"CONCEPT_ID": 3027347,
+"CONCEPT_NAME": "HIV 1 p51 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12876-9",
+"CONCEPT_ID": 3024224,
+"CONCEPT_NAME": "HIV 1 p53 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35444-9",
+"CONCEPT_ID": 3036414,
+"CONCEPT_NAME": "HIV 1 p55 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9668-5",
+"CONCEPT_ID": 3013854,
+"CONCEPT_NAME": "HIV 1 p55 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12895-9",
+"CONCEPT_ID": 3015301,
+"CONCEPT_NAME": "HIV 1 p58 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12875-1",
+"CONCEPT_ID": 3027743,
+"CONCEPT_NAME": "HIV 1 p64 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35443-1",
+"CONCEPT_ID": 3034301,
+"CONCEPT_NAME": "HIV 1 p65 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12856-1",
+"CONCEPT_ID": 3008121,
+"CONCEPT_NAME": "HIV 1 p65 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "33508-3",
+"CONCEPT_ID": 3043436,
+"CONCEPT_NAME": "HIV 1 p65+p66 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "35442-3",
+"CONCEPT_ID": 3036399,
+"CONCEPT_NAME": "HIV 1 p66 Ab [Presence] in Saliva (oral fluid) by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9669-3",
+"CONCEPT_ID": 3011044,
+"CONCEPT_NAME": "HIV 1 p66 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "12894-2",
+"CONCEPT_ID": 3011323,
+"CONCEPT_NAME": "HIV 1 p68 Ab [Presence] in Serum by Immunoblot",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "80691-9",
+"CONCEPT_ID": 21491519,
+"CONCEPT_NAME": "HIV 1 proviral DNA integrase gene mutations detected [Identifier] in Blood mononuclear cells by Sequencing",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "44871-2",
+"CONCEPT_ID": 3047064,
+"CONCEPT_NAME": "HIV 1 proviral DNA [Presence] in Blood by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "9837-6",
+"CONCEPT_ID": 3004365,
+"CONCEPT_NAME": "HIV 1 proviral DNA [Presence] in Blood by Probe with amplification",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48023-6",
+"CONCEPT_ID": 3052357,
+"CONCEPT_NAME": "HIV 1 proviral DNA [Presence] in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "80693-5",
+"CONCEPT_ID": 21493662,
+"CONCEPT_NAME": "HIV 1 proviral DNA reverse transcriptase and protease and integrase gene mutations detected [Identifier] in Blood mononuclear cells by Sequencing",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "80692-7",
+"CONCEPT_ID": 21491520,
+"CONCEPT_NAME": "HIV 1 proviral DNA reverse transcriptase and protease gene mutations detected [Identifier] in Blood mononuclear cells by Sequencing",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "80690-1",
+"CONCEPT_ID": 21491518,
+"CONCEPT_NAME": "HIV 1 proviral DNA tropism [Identifier] in Blood mononuclear cells",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "117752001",
+"CONCEPT_ID": 4040194,
+"CONCEPT_NAME": "HIV 1 RNA assay",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "24013-5",
+"CONCEPT_ID": 3006826,
+"CONCEPT_NAME": "HIV 1 RNA [Interpretation] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41497-9",
+"CONCEPT_ID": 3031110,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Cerebral spinal fluid by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "29539-4",
+"CONCEPT_ID": 3010074,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Plasma by Probe with signal amplification",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "29541-0",
+"CONCEPT_ID": 3026532,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "51780-5",
+"CONCEPT_ID": 3039421,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 0.5 log copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48510-2",
+"CONCEPT_ID": 3048528,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 1.7 log copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "48552-4",
+"CONCEPT_ID": 3052999,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe and target amplification method detection limit = 2.6 log copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41516-6",
+"CONCEPT_ID": 3031839,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 1.9 log copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "41514-1",
+"CONCEPT_ID": 3031382,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by Probe with amplification detection limit = 2.6 log copies/mL",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "49890-7",
+"CONCEPT_ID": 3032756,
+"CONCEPT_NAME": "HIV 1 RNA [Log #/volume] (viral load) in Specimen by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "50624-6",
+"CONCEPT_ID": 3030461,
+"CONCEPT_NAME": "HIV 1 RNA panel (viral load) in Cerebral spinal fluid by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5017-9",
+"CONCEPT_ID": 3025907,
+"CONCEPT_NAME": "HIV 1 RNA [Presence] in Blood by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "42917-5",
+"CONCEPT_ID": 3037648,
+"CONCEPT_NAME": "HIV 1 RNA [Presence] in Cerebral spinal fluid by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "25835-0",
+"CONCEPT_ID": 3000685,
+"CONCEPT_NAME": "HIV 1 RNA [Presence] in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "5018-7",
+"CONCEPT_ID": 3027287,
+"CONCEPT_NAME": "HIV 1 RNA [Presence] in Specimen by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "80689-3",
+"CONCEPT_ID": 21491517,
+"CONCEPT_NAME": "HIV 1 RNA reverse transcriptase and protease and integrase gene mutations detected [Identifier] in Plasma by Sequencing",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "50790-5",
+"CONCEPT_ID": 3030248,
+"CONCEPT_NAME": "HIV 1 RNA tropism [Identifier]",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "57182-8",
+"CONCEPT_ID": 40760301,
+"CONCEPT_NAME": "HIV 1 RNA tropism [Identifier] in Plasma Narrative",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "23876-6",
+"CONCEPT_ID": 3017385,
+"CONCEPT_NAME": "HIV 1 RNA [Units/volume] (viral load) in Plasma by Probe with signal amplification",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "62469-2",
+"CONCEPT_ID": 40765206,
+"CONCEPT_NAME": "HIV 1 RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "10351-5",
+"CONCEPT_ID": 3013180,
+"CONCEPT_NAME": "HIV 1 RNA [Units/volume] (viral load) in Serum or Plasma by Probe with amplification",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Lab Test",
+"CONCEPT_CODE": "21333-0",
+"CONCEPT_ID": 3014347,
+"CONCEPT_NAME": "HIV 1 RNA [#/volume] in Serum",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "LOINC" 
+} 
+} 
+] 
+} 
+},
+{
+ "id": 4,
+"name": "PrEP drugs",
+"expression": {
+ "items": [
+ {
+ "concept": {
+ "CONCEPT_CLASS_ID": "Quant Branded Drug",
+"CONCEPT_CODE": "2043322",
+"CONCEPT_ID": 42544077,
+"CONCEPT_NAME": "1.33 ML ibalizumab-uiyk 150 MG/ML Injection [Trogarzo]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Quant Branded Drug",
+"CONCEPT_CODE": "108396",
+"CONCEPT_ID": 19010179,
+"CONCEPT_NAME": "20 ML zidovudine 10 MG/ML Injection [Retrovir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+"CONCEPT_CODE": "1373745",
+"CONCEPT_ID": 43525934,
+"CONCEPT_NAME": "24 HR nevirapine 100 MG Extended Release Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+"CONCEPT_CODE": "1095712",
+"CONCEPT_ID": 40237541,
+"CONCEPT_NAME": "24 HR nevirapine 400 MG Extended Release Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "242680",
+"CONCEPT_ID": 19058557,
+"CONCEPT_NAME": "abacavir 20 MG/ML Oral Solution",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "213461",
+"CONCEPT_ID": 1736993,
+"CONCEPT_NAME": "abacavir 20 MG/ML Oral Solution [Ziagen]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "307650",
+"CONCEPT_ID": 19072156,
+"CONCEPT_NAME": "abacavir 300 MG / lamivudine 150 MG / zidovudine 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "285028",
+"CONCEPT_ID": 19071718,
+"CONCEPT_NAME": "abacavir 300 MG / lamivudine 150 MG / zidovudine 300 MG Oral Tablet [Trizivir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "242679",
+"CONCEPT_ID": 1736994,
+"CONCEPT_NAME": "abacavir 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "213460",
+"CONCEPT_ID": 19047810,
+"CONCEPT_NAME": "abacavir 300 MG Oral Tablet [Ziagen]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1546894",
+"CONCEPT_ID": 45775751,
+"CONCEPT_NAME": "abacavir 600 MG / dolutegravir 50 MG / lamivudine 300 MG Oral Tablet [Triumeq]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "602393",
+"CONCEPT_ID": 19122306,
+"CONCEPT_NAME": "abacavir 600 MG / lamivudine 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "602395",
+"CONCEPT_ID": 19122308,
+"CONCEPT_NAME": "abacavir 600 MG / lamivudine 300 MG Oral Tablet [Epzicom]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "402246",
+"CONCEPT_ID": 19102221,
+"CONCEPT_NAME": "atazanavir 150 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "402247",
+"CONCEPT_ID": 19102222,
+"CONCEPT_NAME": "atazanavir 200 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "664741",
+"CONCEPT_ID": 1727254,
+"CONCEPT_NAME": "atazanavir 300 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "664743",
+"CONCEPT_ID": 1727255,
+"CONCEPT_NAME": "atazanavir 300 MG Oral Capsule [Reyataz]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1999673",
+"CONCEPT_ID": 964021,
+"CONCEPT_NAME": "bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Biktarvy]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "2049677",
+"CONCEPT_ID": 1560085,
+"CONCEPT_NAME": "cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Symtuza]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1600710",
+"CONCEPT_ID": 45892978,
+"CONCEPT_NAME": "cobicistat 150 MG / darunavir 800 MG Oral Tablet [Prezcobix]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1721619",
+"CONCEPT_ID": 35605556,
+"CONCEPT_NAME": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Genvoya]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1306298",
+"CONCEPT_ID": 42874225,
+"CONCEPT_NAME": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Stribild]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1551999",
+"CONCEPT_ID": 45774772,
+"CONCEPT_NAME": "cobicistat 150 MG Oral Tablet [Tybost]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1236632",
+"CONCEPT_ID": 42707832,
+"CONCEPT_NAME": "darunavir 100 MG/ML Oral Suspension [Prezista]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "850457",
+"CONCEPT_ID": 40161652,
+"CONCEPT_NAME": "darunavir 150 MG Oral Tablet [Prezista]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "794610",
+"CONCEPT_ID": 19129965,
+"CONCEPT_NAME": "darunavir 600 MG Oral Tablet [Prezista]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "831870",
+"CONCEPT_ID": 19133699,
+"CONCEPT_NAME": "darunavir 75 MG Oral Tablet [Prezista]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1359271",
+"CONCEPT_ID": 42902283,
+"CONCEPT_NAME": "darunavir 800 MG Oral Tablet [Prezista]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "284183",
+"CONCEPT_ID": 1724918,
+"CONCEPT_NAME": "didanosine 125 MG Delayed Release Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "284185",
+"CONCEPT_ID": 1724920,
+"CONCEPT_NAME": "didanosine 200 MG Delayed Release Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "284184",
+"CONCEPT_ID": 1724919,
+"CONCEPT_NAME": "didanosine 250 MG Delayed Release Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "284988",
+"CONCEPT_ID": 1724944,
+"CONCEPT_NAME": "didanosine 400 MG Delayed Release Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1796079",
+"CONCEPT_ID": 36249784,
+"CONCEPT_NAME": "dolutegravir 10 MG Oral Tablet [Tivicay]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1796083",
+"CONCEPT_ID": 36249788,
+"CONCEPT_NAME": "dolutegravir 25 MG Oral Tablet [Tivicay]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "2122526",
+"CONCEPT_ID": 1511091,
+"CONCEPT_NAME": "dolutegravir 50 MG / lamivudine 300 MG Oral Tablet [Dovato]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1433879",
+"CONCEPT_ID": 43560388,
+"CONCEPT_NAME": "dolutegravir 50 MG Oral Tablet [Tivicay]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1989506",
+"CONCEPT_ID": 793034,
+"CONCEPT_NAME": "dolutegravir 50 MG / rilpivirine 25 MG Oral Tablet [Juluca]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "205290",
+"CONCEPT_ID": 19028907,
+"CONCEPT_NAME": "efavirenz 200 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "2001424",
+"CONCEPT_ID": 964218,
+"CONCEPT_NAME": "efavirenz 400 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "2001430",
+"CONCEPT_ID": 964224,
+"CONCEPT_NAME": "efavirenz 400 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Symfi]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "205292",
+"CONCEPT_ID": 19028909,
+"CONCEPT_NAME": "efavirenz 50 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "643066",
+"CONCEPT_ID": 19124372,
+"CONCEPT_NAME": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "643070",
+"CONCEPT_ID": 19124374,
+"CONCEPT_NAME": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "864661",
+"CONCEPT_ID": 40166596,
+"CONCEPT_NAME": "efavirenz 600 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "2043464",
+"CONCEPT_ID": 1510227,
+"CONCEPT_NAME": "efavirenz 600 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Symfi]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "349477",
+"CONCEPT_ID": 1738165,
+"CONCEPT_NAME": "efavirenz 600 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "352143",
+"CONCEPT_ID": 1738167,
+"CONCEPT_NAME": "efavirenz 600 MG Oral Tablet [Sustiva]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "1744001",
+"CONCEPT_ID": 35606581,
+"CONCEPT_NAME": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1744003",
+"CONCEPT_ID": 35606583,
+"CONCEPT_NAME": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "616148",
+"CONCEPT_ID": 1703097,
+"CONCEPT_NAME": "emtricitabine 10 MG/ML Oral Solution [Emtriva]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "1744005",
+"CONCEPT_ID": 35606585,
+"CONCEPT_NAME": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1744007",
+"CONCEPT_ID": 35606587,
+"CONCEPT_NAME": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "1744009",
+"CONCEPT_ID": 35606589,
+"CONCEPT_NAME": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1744011",
+"CONCEPT_ID": 35606591,
+"CONCEPT_NAME": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "403875",
+"CONCEPT_ID": 19102500,
+"CONCEPT_NAME": "emtricitabine 200 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "404587",
+"CONCEPT_ID": 19102831,
+"CONCEPT_NAME": "emtricitabine 200 MG Oral Capsule [Emtriva]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1741739",
+"CONCEPT_ID": 35605925,
+"CONCEPT_NAME": "emtricitabine 200 MG / rilpivirine 25 MG / tenofovir alafenamide 25 MG Oral Tablet [Odefsey]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1147337",
+"CONCEPT_ID": 40241983,
+"CONCEPT_NAME": "emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Complera]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1747697",
+"CONCEPT_ID": 35604229,
+"CONCEPT_NAME": "emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Descovy]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "476556",
+"CONCEPT_ID": 1703093,
+"CONCEPT_NAME": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "639888",
+"CONCEPT_ID": 1710316,
+"CONCEPT_NAME": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "754761",
+"CONCEPT_ID": 1758538,
+"CONCEPT_NAME": "etravirine 100 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "758555",
+"CONCEPT_ID": 1758539,
+"CONCEPT_NAME": "etravirine 100 MG Oral Tablet [Intelence]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "1052658",
+"CONCEPT_ID": 40234301,
+"CONCEPT_NAME": "etravirine 200 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1052660",
+"CONCEPT_ID": 40234302,
+"CONCEPT_NAME": "etravirine 200 MG Oral Tablet [Intelence]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1250723",
+"CONCEPT_ID": 42709026,
+"CONCEPT_NAME": "etravirine 25 MG Oral Tablet [Intelence]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "723827",
+"CONCEPT_ID": 1736925,
+"CONCEPT_NAME": "fosamprenavir 50 MG/ML Oral Suspension [Lexiva]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "402109",
+"CONCEPT_ID": 19102211,
+"CONCEPT_NAME": "fosamprenavir 700 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "402110",
+"CONCEPT_ID": 19102212,
+"CONCEPT_NAME": "fosamprenavir 700 MG Oral Tablet [Lexiva]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "199148",
+"CONCEPT_ID": 1704187,
+"CONCEPT_NAME": "lamivudine 10 MG/ML Oral Solution",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "152932",
+"CONCEPT_ID": 1704185,
+"CONCEPT_NAME": "lamivudine 10 MG/ML Oral Solution [Epivir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "199147",
+"CONCEPT_ID": 1704186,
+"CONCEPT_NAME": "lamivudine 150 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "152931",
+"CONCEPT_ID": 1704184,
+"CONCEPT_NAME": "lamivudine 150 MG Oral Tablet [Epivir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "200082",
+"CONCEPT_ID": 19022896,
+"CONCEPT_NAME": "lamivudine 150 MG / zidovudine 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "213088",
+"CONCEPT_ID": 19047527,
+"CONCEPT_NAME": "lamivudine 150 MG / zidovudine 300 MG Oral Tablet [Combivir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "349491",
+"CONCEPT_ID": 1704217,
+"CONCEPT_NAME": "lamivudine 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "352230",
+"CONCEPT_ID": 19098455,
+"CONCEPT_NAME": "lamivudine 300 MG Oral Tablet [Epivir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "2003255",
+"CONCEPT_ID": 42543878,
+"CONCEPT_NAME": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Cimduo]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "2123034",
+"CONCEPT_ID": 1511233,
+"CONCEPT_NAME": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Temixys]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "746645",
+"CONCEPT_ID": 1748985,
+"CONCEPT_NAME": "lopinavir 100 MG / ritonavir 25 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "847745",
+"CONCEPT_ID": 1748987,
+"CONCEPT_NAME": "lopinavir 100 MG / ritonavir 25 MG Oral Tablet [Kaletra]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "597730",
+"CONCEPT_ID": 19122186,
+"CONCEPT_NAME": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "847741",
+"CONCEPT_ID": 1748986,
+"CONCEPT_NAME": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet [Kaletra]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "728223",
+"CONCEPT_ID": 1787123,
+"CONCEPT_NAME": "maraviroc 150 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "729201",
+"CONCEPT_ID": 19127303,
+"CONCEPT_NAME": "maraviroc 150 MG Oral Tablet [Selzentry]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1857925",
+"CONCEPT_ID": 1718491,
+"CONCEPT_NAME": "maraviroc 20 MG/ML Oral Solution [Selzentry]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1857913",
+"CONCEPT_ID": 1718479,
+"CONCEPT_NAME": "maraviroc 25 MG Oral Tablet [Selzentry]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "728225",
+"CONCEPT_ID": 1787125,
+"CONCEPT_NAME": "maraviroc 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "729203",
+"CONCEPT_ID": 19127305,
+"CONCEPT_NAME": "maraviroc 300 MG Oral Tablet [Selzentry]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1857917",
+"CONCEPT_ID": 1718483,
+"CONCEPT_NAME": "maraviroc 75 MG Oral Tablet [Selzentry]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "212118",
+"CONCEPT_ID": 1715473,
+"CONCEPT_NAME": "nelfinavir 250 MG Oral Tablet [Viracept]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "542370",
+"CONCEPT_ID": 19113977,
+"CONCEPT_NAME": "nelfinavir 625 MG Oral Tablet [Viracept]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "311943",
+"CONCEPT_ID": 1769413,
+"CONCEPT_NAME": "nevirapine 10 MG/ML Oral Suspension",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "199422",
+"CONCEPT_ID": 1769390,
+"CONCEPT_NAME": "nevirapine 200 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "211327",
+"CONCEPT_ID": 1769391,
+"CONCEPT_NAME": "nevirapine 200 MG Oral Tablet [Viramune]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "744846",
+"CONCEPT_ID": 1712912,
+"CONCEPT_NAME": "raltegravir 400 MG Oral Tablet [Isentress]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1102277",
+"CONCEPT_ID": 40238933,
+"CONCEPT_NAME": "rilpivirine 25 MG Oral Tablet [Edurant]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "900575",
+"CONCEPT_ID": 40171778,
+"CONCEPT_NAME": "ritonavir 100 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "313107",
+"CONCEPT_ID": 19079683,
+"CONCEPT_NAME": "stavudine 15 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "313108",
+"CONCEPT_ID": 19079684,
+"CONCEPT_NAME": "stavudine 20 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "313109",
+"CONCEPT_ID": 19079685,
+"CONCEPT_NAME": "stavudine 30 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "313110",
+"CONCEPT_ID": 19079686,
+"CONCEPT_NAME": "stavudine 40 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1243346",
+"CONCEPT_ID": 42708121,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 0.04 MG/MG Oral Powder [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1243326",
+"CONCEPT_ID": 42708115,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 150 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1243330",
+"CONCEPT_ID": 42708117,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 200 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1243229",
+"CONCEPT_ID": 42708097,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 250 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "349251",
+"CONCEPT_ID": 1710312,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "352050",
+"CONCEPT_ID": 19098330,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 300 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "198352",
+"CONCEPT_ID": 1710616,
+"CONCEPT_NAME": "zidovudine 100 MG Oral Capsule",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "201907",
+"CONCEPT_ID": 19025941,
+"CONCEPT_NAME": "zidovudine 100 MG Oral Capsule [Retrovir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "756209",
+"CONCEPT_ID": 19129077,
+"CONCEPT_NAME": "zidovudine 10 MG/ML Oral Solution",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "755298",
+"CONCEPT_ID": 1710659,
+"CONCEPT_NAME": "zidovudine 10 MG/ML Oral Solution [Retrovir]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "199663",
+"CONCEPT_ID": 1710617,
+"CONCEPT_NAME": "zidovudine 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1744003",
+"CONCEPT_ID": 35606583,
+"CONCEPT_NAME": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "1744005",
+"CONCEPT_ID": 35606585,
+"CONCEPT_NAME": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1744007",
+"CONCEPT_ID": 35606587,
+"CONCEPT_NAME": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "1744009",
+"CONCEPT_ID": 35606589,
+"CONCEPT_NAME": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1744011",
+"CONCEPT_ID": 35606591,
+"CONCEPT_NAME": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "404587",
+"CONCEPT_ID": 19102831,
+"CONCEPT_NAME": "emtricitabine 200 MG Oral Capsule [Emtriva]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1747697",
+"CONCEPT_ID": 35604229,
+"CONCEPT_NAME": "emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Descovy]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "476556",
+"CONCEPT_ID": 1703093,
+"CONCEPT_NAME": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "639888",
+"CONCEPT_ID": 1710316,
+"CONCEPT_NAME": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Truvada]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1243326",
+"CONCEPT_ID": 42708115,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 150 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "1243229",
+"CONCEPT_ID": 42708097,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 250 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "349251",
+"CONCEPT_ID": 1710312,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 300 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Branded Drug",
+"CONCEPT_CODE": "352050",
+"CONCEPT_ID": 19098330,
+"CONCEPT_NAME": "tenofovir disoproxil fumarate 300 MG Oral Tablet [Viread]",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "881341",
+"CONCEPT_ID": 40168220,
+"CONCEPT_NAME": "adefovir dipivoxil 10 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "485434",
+"CONCEPT_ID": 1711248,
+"CONCEPT_NAME": "entecavir 0.5 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "485436",
+"CONCEPT_ID": 1711250,
+"CONCEPT_NAME": "entecavir 1 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Drug",
+"CONCEPT_CODE": "205328",
+"CONCEPT_ID": 19029028,
+"CONCEPT_NAME": "lamivudine 100 MG Oral Tablet",
+"DOMAIN_ID": "Drug",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "RxNorm" 
+} 
+} 
+] 
+} 
+},
+{
+ "id": 5,
+"name": "PrEP Conditions to Exclude",
+"expression": {
+ "items": [
+ {
+ "concept": {
+ "CONCEPT_CLASS_ID": "Event",
+"CONCEPT_CODE": "218047001",
+"CONCEPT_ID": 433934,
+"CONCEPT_NAME": "Accident caused by needle",
+"DOMAIN_ID": "Observation",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "91947003",
+"CONCEPT_ID": 4241530,
+"CONCEPT_NAME": "Asymptomatic human immunodeficiency virus infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "3487004",
+"CONCEPT_ID": 260041,
+"CONCEPT_NAME": "Candidiasis of lung",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "20639004",
+"CONCEPT_ID": 28974,
+"CONCEPT_NAME": "Candidiasis of the esophagus",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "235869004",
+"CONCEPT_ID": 192240,
+"CONCEPT_NAME": "Chronic viral hepatitis B with hepatitis D",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "186639003",
+"CONCEPT_ID": 439674,
+"CONCEPT_NAME": "Chronic viral hepatitis B without delta-agent",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "60826002",
+"CONCEPT_ID": 437217,
+"CONCEPT_NAME": "Coccidioidomycosis",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "42386007",
+"CONCEPT_ID": 440035,
+"CONCEPT_NAME": "Cryptococcosis",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "240370009",
+"CONCEPT_ID": 194265,
+"CONCEPT_NAME": "Cryptosporidiosis",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "28944009",
+"CONCEPT_ID": 440032,
+"CONCEPT_NAME": "Cytomegalovirus infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "365866002",
+"CONCEPT_ID": 4276586,
+"CONCEPT_NAME": "Finding of HIV status",
+"DOMAIN_ID": "Measurement",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "186624004",
+"CONCEPT_ID": 439675,
+"CONCEPT_NAME": "Hepatic coma due to acute hepatitis B with delta agent",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "424340000",
+"CONCEPT_ID": 4308946,
+"CONCEPT_NAME": "Hepatic coma due to chronic hepatitis B",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Clinical Finding",
+"CONCEPT_CODE": "165816005",
+"CONCEPT_ID": 4013106,
+"CONCEPT_NAME": "HIV detected",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "721166000",
+"CONCEPT_ID": 36715476,
+"CONCEPT_NAME": "Human immunodeficiency virus complicating pregnancy childbirth and the puerperium",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "313077009",
+"CONCEPT_ID": 4210151,
+"CONCEPT_NAME": "Human immunodeficiency virus counseling",
+"DOMAIN_ID": "Procedure",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "79019005",
+"CONCEPT_ID": 432554,
+"CONCEPT_NAME": "Human immunodeficiency virus II infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "86406008",
+"CONCEPT_ID": 439727,
+"CONCEPT_NAME": "Human immunodeficiency virus infection",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "821431000000102",
+"CONCEPT_ID": 44806406,
+"CONCEPT_NAME": "Hypodermic needle injury",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "109385007",
+"CONCEPT_ID": 434584,
+"CONCEPT_NAME": "Kaposi's sarcoma (clinical)",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "109389001",
+"CONCEPT_ID": 198085,
+"CONCEPT_NAME": "Kaposi's sarcoma of gastrointestinal tract",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "109390005",
+"CONCEPT_ID": 254583,
+"CONCEPT_NAME": "Kaposi's sarcoma of lung",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "109391009",
+"CONCEPT_ID": 312846,
+"CONCEPT_NAME": "Kaposi's sarcoma of lymph nodes",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "109388009",
+"CONCEPT_ID": 140958,
+"CONCEPT_NAME": "Kaposi's sarcoma of palate",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "109386008",
+"CONCEPT_ID": 258981,
+"CONCEPT_NAME": "Kaposi's sarcoma of skin",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "188029000",
+"CONCEPT_ID": 375479,
+"CONCEPT_NAME": "Kaposi's sarcoma of soft tissue",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "17949000",
+"CONCEPT_ID": 375475,
+"CONCEPT_NAME": "Meningoencephalitis due to acquired toxoplasmosis",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "88860002",
+"CONCEPT_ID": 438350,
+"CONCEPT_NAME": "Pneumocystosis",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Procedure",
+"CONCEPT_CODE": "169443000",
+"CONCEPT_ID": 4061660,
+"CONCEPT_NAME": "Preventive procedure",
+"DOMAIN_ID": "Procedure",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "84353005",
+"CONCEPT_ID": 256622,
+"CONCEPT_NAME": "Pulmonary disease caused by Mycobacteria",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+},
+{
+ "concept": {
+ "CONCEPT_CLASS_ID": "Disorder",
+"CONCEPT_CODE": "111891008",
+"CONCEPT_ID": 198683,
+"CONCEPT_NAME": "Viral hepatitis B without hepatic coma",
+"DOMAIN_ID": "Condition",
+"INVALID_REASON": "V",
+"INVALID_REASON_CAPTION": "Valid",
+"STANDARD_CONCEPT": "S",
+"STANDARD_CONCEPT_CAPTION": "Standard",
+"VOCABULARY_ID": "SNOMED" 
+} 
+} 
+] 
+} 
+} 
+],
+"PrimaryCriteria": {
+ "CriteriaList": [
+ {
+ "DrugExposure": {
+ "CodesetId": 4,
+"OccurrenceStartDate": {
+ "Value": "2022-01-01",
+"Extent": "2022-12-31",
+"Op": "bt" 
+} 
+} 
+} 
+],
+"ObservationWindow": {
+ "PriorDays":           0,
+"PostDays": 0 
+},
+"PrimaryCriteriaLimit": {
+ "Type": "First" 
+} 
+},
+"QualifiedLimit": {
+ "Type": "First" 
+},
+"ExpressionLimit": {
+ "Type": "First" 
+},
+"InclusionRules": [
+ {
+ "name": "Remove PrEP Excluded conditions",
+"description": "Exclude users of a PrEP drug that are using it for non-HIV conditions",
+"expression": {
+ "Type": "ALL",
+"CriteriaList": [
+ {
+ "Criteria": {
+ "ConditionOccurrence": {
+ "CodesetId": 5 
+} 
+},
+"StartWindow": {
+ "Start": {
+ "Coeff": -1 
+},
+"End": {
+ "Days": 0,
+"Coeff": 1 
+},
+"UseEventEnd": false 
+},
+"Occurrence": {
+ "Type": 0,
+"Count": 0 
+} 
+} 
+],
+"DemographicCriteriaList": [],
+"Groups": [] 
+} 
+},
+{
+ "name": "Age >15",
+"expression": {
+ "Type": "ALL",
+"CriteriaList": [],
+"DemographicCriteriaList": [
+ {
+ "Age": {
+ "Value": 15,
+"Op": "gte" 
+} 
+} 
+],
+"Groups": [] 
+} 
+},
+{
+ "name": "Exclude HIV positive",
+"expression": {
+ "Type": "ALL",
+"CriteriaList": [
+ {
+ "Criteria": {
+ "ConditionOccurrence": {
+ "CodesetId": 0,
+"OccurrenceStartDate": {
+ "Value": "2016-01-01",
+"Op": "lte" 
+} 
+} 
+},
+"StartWindow": {
+ "Start": {
+ "Coeff": -1 
+},
+"End": {
+ "Coeff": 1 
+},
+"UseEventEnd": false 
+},
+"Occurrence": {
+ "Type": 0,
+"Count": 0 
+} 
+},
+{
+ "Criteria": {
+ "Measurement": {
+ "CodesetId": 3,
+"OccurrenceStartDate": {
+ "Value": "2016-01-01",
+"Op": "lte" 
+},
+"ValueAsConcept": [
+ {
+ "CONCEPT_CODE": "260373001",
+"CONCEPT_ID": 4126681,
+"CONCEPT_NAME": "Detected",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "SNOMED" 
+},
+{
+ "CONCEPT_CODE": "LA11882-0",
+"CONCEPT_ID": 45877985,
+"CONCEPT_NAME": "Detected",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "LOINC" 
+},
+{
+ "CONCEPT_CODE": "10828004",
+"CONCEPT_ID": 9191,
+"CONCEPT_NAME": "Positive",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "SNOMED" 
+},
+{
+ "CONCEPT_CODE": "52101004",
+"CONCEPT_ID": 4181412,
+"CONCEPT_NAME": "Present",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "SNOMED" 
+},
+{
+ "CONCEPT_CODE": "LA9633-4",
+"CONCEPT_ID": 45879438,
+"CONCEPT_NAME": "Present",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "LOINC" 
+},
+{
+ "CONCEPT_CODE": "LA6576-8",
+"CONCEPT_ID": 45884084,
+"CONCEPT_NAME": "Positive",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "LOINC" 
+} 
+] 
+} 
+},
+"StartWindow": {
+ "Start": {
+ "Coeff": -1 
+},
+"End": {
+ "Coeff": 1 
+},
+"UseEventEnd": false 
+},
+"Occurrence": {
+ "Type": 0,
+"Count": 0 
+} 
+},
+{
+ "Criteria": {
+ "Measurement": {
+ "OccurrenceStartDate": {
+ "Value": "2016-01-01",
+"Op": "lte" 
+},
+"ValueAsConcept": [
+ {
+ "CONCEPT_CODE": "260373001",
+"CONCEPT_ID": 4126681,
+"CONCEPT_NAME": "Detected",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "SNOMED" 
+},
+{
+ "CONCEPT_CODE": "LA11882-0",
+"CONCEPT_ID": 45877985,
+"CONCEPT_NAME": "Detected",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "LOINC" 
+},
+{
+ "CONCEPT_CODE": "10828004",
+"CONCEPT_ID": 9191,
+"CONCEPT_NAME": "Positive",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "SNOMED" 
+},
+{
+ "CONCEPT_CODE": "52101004",
+"CONCEPT_ID": 4181412,
+"CONCEPT_NAME": "Present",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "SNOMED" 
+},
+{
+ "CONCEPT_CODE": "LA9633-4",
+"CONCEPT_ID": 45879438,
+"CONCEPT_NAME": "Present",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "LOINC" 
+},
+{
+ "CONCEPT_CODE": "LA6576-8",
+"CONCEPT_ID": 45884084,
+"CONCEPT_NAME": "Positive",
+"DOMAIN_ID": "Meas Value",
+"INVALID_REASON_CAPTION": "Unknown",
+"STANDARD_CONCEPT_CAPTION": "Unknown",
+"VOCABULARY_ID": "LOINC" 
+} 
+],
+"MeasurementSourceConcept": 3 
+} 
+},
+"StartWindow": {
+ "Start": {
+ "Coeff": -1 
+},
+"End": {
+ "Coeff": 1 
+},
+"UseEventEnd": false 
+},
+"Occurrence": {
+ "Type": 0,
+"Count": 0 
+} 
+} 
+],
+"DemographicCriteriaList": [],
+"Groups": [] 
+} 
+} 
+],
+"EndStrategy": {
+ "CustomEra": {
+ "DrugCodesetId": 4,
+"GapDays": 30,
+"Offset": 0 
+} 
+},
+"CensoringCriteria": [],
+"CollapseSettings": {
+ "CollapseType": "ERA",
+"EraPad": 0 
+},
+"CensorWindow": {},
+"cdmVersionRange": ">=5.0.0" 
+}
