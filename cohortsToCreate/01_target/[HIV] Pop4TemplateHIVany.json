@@ -18925,7 +18925,7 @@
         "DrugExposure": {
           "OccurrenceStartDate": {
             "Value": "2016-01-01",
-            "Extent": "2023-12-31",
+            "Extent": "2016-12-31",
             "Op": "bt"
           }
         }
@@ -18947,7 +18947,7 @@
   },
   "InclusionRules": [
     {
-      "name": "Age >15",
+      "name": "Age >=15",
       "expression": {
         "Type": "ALL",
         "CriteriaList": [],
@@ -19157,23 +19157,16 @@
       }
     },
     {
-      "name": "STI",
-      "description": "STI+ Any High Risk Behaviors",
+      "name": "HIV Testing+Any",
+      "description": "2+ HIV Testing+ Any High Risk Behaviors",
       "expression": {
         "Type": "AT_LEAST",
         "Count": 1,
         "CriteriaList": [
           {
             "Criteria": {
-              "ConditionOccurrence": {
-                "CorrelatedCriteria": {
-                  "Type": "AT_LEAST",
-                  "Count": 1,
-                  "CriteriaList": [],
-                  "DemographicCriteriaList": [],
-                  "Groups": []
-                },
-                "CodesetId": 34
+              "Measurement": {
+                "CodesetId": 20
               }
             },
             "StartWindow": {
@@ -19221,14 +19214,14 @@
     },
     {
       "name": "Any High Risk",
-      "description": "STI+ Any High Risk Behaviors",
+      "description": "2+ HIV Testing+ Any High Risk Behaviors",
       "expression": {
         "Type": "AT_LEAST",
         "Count": 1,
         "CriteriaList": [
           {
             "Criteria": {
-              "ConditionEra": {
+              "ConditionOccurrence": {
                 "CodesetId": 31
               }
             },
@@ -19348,8 +19341,8 @@
           },
           {
             "Criteria": {
-              "Measurement": {
-                "CodesetId": 20
+              "Observation": {
+                "CodesetId": 30
               }
             },
             "StartWindow": {
@@ -19368,8 +19361,8 @@
           },
           {
             "Criteria": {
-              "Observation": {
-                "CodesetId": 30
+              "ConditionOccurrence": {
+                "CodesetId": 34
               }
             },
             "StartWindow": {
@@ -19392,6 +19385,13 @@
       }
     }
   ],
+  "EndStrategy": {
+    "CustomEra": {
+      "DrugCodesetId": 17,
+      "GapDays": 30,
+      "Offset": 0
+    }
+  },
   "CensoringCriteria": [],
   "CollapseSettings": {
     "CollapseType": "ERA",
