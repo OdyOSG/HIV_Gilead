@@ -1,6 +1,6 @@
 source(here::here("R/study_subsetting.R"))
-# source(here::here("R/collect_tables.R"))
-# source(here::here("R/collect_locations.R"))
+source(here::here("R/collect_tables.R"))
+source(here::here("R/collect_locations.R"))
 suppressMessages(suppressWarnings(library(tidyverse)))
 generateCohorts <- function(
     executionSettings,
@@ -8,7 +8,9 @@ generateCohorts <- function(
   usethis::ui_info(
     "Cohorts generation in parallelizaion. You won't be able to see any generation messages"
   )
-  cl <- parallel::makeCluster(parallel::detectCores())
+  cl <- parallel::makeCluster(
+    parallel::detectCores() - 1
+    )
   on.exit(parallel::stopCluster(cl))
   type <- "analysis"
   if (!dir.exists(outputFolder)) {
@@ -28,6 +30,7 @@ generateCohorts <- function(
       cohortDefinitionSet = cohort
     )
   }
+
   cohortTableNames <- list(
     cohortTable = paste0(name),
     cohortInclusionTable = paste0(name, "_inclusion"),
@@ -40,13 +43,13 @@ generateCohorts <- function(
   q(connectionDetails = executionSettings$connectionDetails,
     cohortDatabaseSchema = executionSettings$workDatabaseSchema,
     cohortTableNames = cohortTableNames)
-  func_env <- new.env()
-  func_env$cohortTableNames <- cohortTableNames
-  func_env$generateCohort <- generateCohort
-  func_env$executionSettings <- executionSettings
+  cluster_env <- new.env()
+  cluster_env$cohortTableNames <- cohortTableNames
+  cluster_env$generateCohort <- generateCohort
+  cluster_env$executionSettings <- executionSettings
   parallel::clusterExport(
     cl, c("cohortTableNames", "generateCohort", "executionSettings"),
-    envir = func_env
+    envir = cluster_env
   )
   tik <- Sys.time()
   # 1 Create main cohorts (target and stratas)
@@ -73,12 +76,19 @@ generateCohorts <- function(
   )
   pbapply::pbwalk(X = split(order2, seq(nrow(order2))), FUN = generateCohort, cl = cl)
 
-  func_env <- NULL
+  cluster_env <- NULL
+
   tok <- Sys.time()
   tdif <- tok - tik
-  tok_format <- paste(scales::label_number(0.01)(as.numeric(tdif)), attr(tdif, "units"))
+  tok_format <- paste(
+    scales::label_number(0.01)(as.numeric(tdif)), attr(tdif, "units"))
   cli::cat_line()
-  cli::cat_bullet("Generation and subsetting took: ", crayon::red(tok_format), bullet = "info", bullet_col = "blue")
+  cli::cat_bullet(
+    "Generation and subsetting took: ",
+    crayon::red(tok_format),
+    bullet = "info",
+    bullet_col = "blue"
+    )
   # get cohort counts
   cohortCounts <- CohortGenerator::getCohortCounts(
     connectionDetails = executionSettings$connectionDetails,
@@ -90,8 +100,12 @@ generateCohorts <- function(
     dplyr::select(cohortId, cohortName, cohortEntries, cohortSubjects)
   savePath <- fs::path(outputFolder, "cohort_counts.csv")
   readr::write_csv(x = cohortCounts, file = savePath)
-  cli::cat_bullet("Saving Generated Cohorts to ", crayon::cyan(savePath),
-                  bullet = "tick", bullet_col = "green"  )
+  cli::cat_bullet(
+    "Saving Generated Cohorts to ",
+    crayon::cyan(savePath),
+    bullet = "tick",
+    bullet_col = "green"
+    )
   return(cohortCounts[, 1:2])
 
 }
