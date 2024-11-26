@@ -5497,7 +5497,7 @@
       }
     },
     {
-      "name": "Age >15",
+      "name": "Age >=15",
       "expression": {
         "Type": "ALL",
         "CriteriaList": [],
@@ -5703,30 +5703,6 @@
           }
         ],
         "DemographicCriteriaList": [],
-        "Groups": []
-      }
-    },
-    {
-      "name": "Male",
-      "description": "Male",
-      "expression": {
-        "Type": "ALL",
-        "CriteriaList": [],
-        "DemographicCriteriaList": [
-          {
-            "Gender": [
-              {
-                "CONCEPT_CODE": "M",
-                "CONCEPT_ID": 8507,
-                "CONCEPT_NAME": "MALE",
-                "DOMAIN_ID": "Gender",
-                "INVALID_REASON_CAPTION": "Unknown",
-                "STANDARD_CONCEPT_CAPTION": "Unknown",
-                "VOCABULARY_ID": "Gender"
-              }
-            ]
-          }
-        ],
         "Groups": []
       }
     }
