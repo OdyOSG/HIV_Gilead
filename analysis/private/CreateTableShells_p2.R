@@ -84,7 +84,7 @@ table1["Unknown age",] = table1["All",] - table1["15 - 29",] - table1["30 - 44",
 
 table1["Unknown Sex",] = table1["All",] - table1["male",] - table1["female",]
 table1["Other or Unknown",] = table1["All",] - table1["NHW",] - table1["NHB",] - table1["Hispanic",] - table1["AAPI",]
-write.csv(table1,paste0(outputFolder,"/table1.csv"))
+write.csv(table1,paste0(outputFolder,"/table1pos.csv"))
 
 
 # Create table 2
@@ -155,7 +155,7 @@ table2["Unknown age",] = table2["All",] - table2["15 - 29",] - table2["30 - 44",
 table2["Unknown Sex",] = table2["All",] - table2["male",] - table2["female",]
 table2["Other or Unknown",] = table2["All",] - table2["NHW",] - table2["NHB",] - table2["Hispanic",] - table2["AAPI",]
 
-write.csv(table2,paste0(outputFolder,"/table2.csv"))
+write.csv(table2,paste0(outputFolder,"/table2pos.csv"))
 
 
 
@@ -236,7 +236,7 @@ for (currentgender in genders){
   # Manage unknowns
   table3["Unknown age",] = table3["All",] - table3["15 - 29",] - table3["30 - 44",] - table3["45 - 55",] - table3["55+",]
   table3["Other or Unknown",] = table3["All",] - table3["NHW",] - table3["NHB",] - table3["Hispanic",] - table3["AAPI",]
-  write.csv(table3,paste0(outputFolder,"/table3",currentgender,".csv"))
+  write.csv(table3,paste0(outputFolder,"/table3",currentgender,"pos.csv"))
 }
 
 
@@ -312,6 +312,6 @@ for (currentgender in genders){
   # Manage unknowns
   table4["Unknown age",] = table4["All",] - table4["15 - 29",] - table4["30 - 44",] - table4["45 - 55",] - table4["55+",]
   table4["Other or Unknown",] = table4["All",] - table4["NHW",] - table4["NHB",] - table4["Hispanic",] - table4["AAPI",]
-  write.csv(table4,paste0(outputFolder,"/table4",currentgender,".csv"))
+  write.csv(table4,paste0(outputFolder,"/table4",currentgender,"pos.csv"))
 }
 
