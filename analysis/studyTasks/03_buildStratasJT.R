@@ -20,13 +20,17 @@ configBlock <- "synpuf"
 # >>>
 
 ## Provide connection details
-connectionDetails <- DatabaseConnector::createConnectionDetails(
-  dbms = "postgresql",
-  user = "ohdsi",
-  password = "ohdsi",
-  server = "testnode.arachnenetwork.com/synpuf_110k",
-  port = 5441
+jdbc_driver_path <- "../drivers/"
+connectionDetails <- DatabaseConnector::createConnectionDetails (
+  dbms = "redshift",
+  server = "gdash-p-usw2-dif-eks-redshift-cluster.ct4xaxb7ww1g.us-west-2.redshift.amazonaws.com/redshiftdb",
+  user = "jtelford",
+  password = "Pb6Lj2Ut9Kx0",
+  port = "5439",
+  pathToDriver = jdbc_driver_path
+
 )
+
 
 ## Connect to database
 con <- DatabaseConnector::connect(connectionDetails)
@@ -36,16 +40,16 @@ outputFolder <- 'results'
 
 ## Administrative Variables
 executionSettings <- list(
-  projectName = tolower('SurgeryWaitTime'),
+  projectName = tolower('jmt_hiv_gilead'),
   cohortTable = tolower('jmt'),
-  cdmDatabaseSchema = "cdm_531",
-  vocabDatabaseSchema = "cdm_531",
-  workDatabaseSchema = "jmt_surgerywaittime",
+  cdmDatabaseSchema = 'iqvia_ambulatory_emr_omop_20240501',
+  vocabDatabaseSchema = 'iqvia_ambulatory_emr_omop_20240501',
+  workDatabaseSchema = "sb_jtelford",
   dbms = "postgresql",
-  cohortDatabaseSchema = "jmt_surgerywaittime",
-  tablePrefix = "jmt_surgerywaittime",
+  cohortDatabaseSchema = "sb_jtelford",
+  tablePrefix = "jmt_hiv_gilead",
   databaseName = "synpuf",
-  cohortTable = "SurgeryWaitTime_synpuf"
+  cohortTable = "jmt_hiv_gilead_marketscan"
 
 )
 ## Analysis Settings

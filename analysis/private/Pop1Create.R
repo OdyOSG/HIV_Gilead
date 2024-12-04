@@ -19,7 +19,7 @@ for (file in files_with_pop1){
     shortname =  substr(file, 1, nchar(file) - 5)
     newpath = paste0("cohortsToCreate/04_yearlycohorts/",shortname,dt,'.json')
     write(
-      RJSONIO::toJSON(cohortExpr, indent = 2, digits = 10),
+      RJSONIO::toJSON(cohortExpr, indent = 2, digits = 1000),
       file.path(
         newpath)
     )
@@ -36,7 +36,7 @@ yearlyfiles_with_pop1 <- list.files(
   pattern = "Pop1",
   full.names = FALSE
 )
-yearlyfiles_with_pop1 <- yearlyfiles_with_pop1[!grepl("R\\.json$", yearlyfiles_with_pop1)]
+yearlyfiles_with_pop1 <- yearlyfiles_with_pop1[!grepl("Pop1R", yearlyfiles_with_pop1)]
 
 for (file in yearlyfiles_with_pop1){
   cohortExpr =  jsonlite::read_json(paste0(path,'/',file))
@@ -59,7 +59,7 @@ for (file in yearlyfiles_with_pop1){
     # Save the updated cohort JSON
     shortname =  substr(file, 1, nchar(file) - 5)
     stratapath = paste0("cohortsToCreate/05_ageracecohorts/pop1/",shortname,"_",agestrata$name,"_strata.json")
-    stratapath
+    print(stratapath)
     write(
       RJSONIO::toJSON(cohortExpr, indent = 2, digits = 10),
       file.path(
@@ -83,21 +83,21 @@ for (file in yearlyfiles_with_pop1){
   cohortExpr =  jsonlite::read_json(paste0(path,'/',file))
   # loop through races
   for (x in 1:nrow(racestratafile)) {
-    racestrata <- racestratafile[2, ]
+    racestrata <- racestratafile[x, ]
   newcohortExpr = cohortExpr
-  newcohortExpr$InclusionRules[[4]]$name = racestrata$race
-  newcohortExpr$InclusionRules[[4]]$expression$DemographicCriteriaList[[1]]$Race[[1]]$CONCEPT_NAME = racestrata$race
-  newcohortExpr$InclusionRules[[4]]$expression$DemographicCriteriaList[[1]]$Race[[1]]$CONCEPT_ID = racestrata$code
+   newcohortExpr$InclusionRules[[5]]$name = racestrata$race
+   newcohortExpr$InclusionRules[[5]]$expression$DemographicCriteriaList[[1]]$Race[[1]]$CONCEPT_NAME = racestrata$race
+   newcohortExpr$InclusionRules[[5]]$expression$DemographicCriteriaList[[1]]$Race[[1]]$CONCEPT_ID = racestrata$code
 
 
-  # Save The cohort for all races
+
   shortname =  substr(file, 1, nchar(file) - 5)
   stratapath = paste0("cohortsToCreate/05_ageracecohorts/pop1/",shortname,"_",racestrata$race,"_strata.json")
-  stratapath
-  write(
-    RJSONIO::toJSON(newcohortExpr, indent = 2, digits = 10),
-    file.path(
-      stratapath)
+  print(stratapath)
+   write(
+     RJSONIO::toJSON(newcohortExpr, indent = 2, digits = 10),
+     file.path(
+       stratapath)
   )
   }
 }

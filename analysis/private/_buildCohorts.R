@@ -139,6 +139,70 @@ generateCohorts <- function(executionSettings,
   return(cohortCounts)
 }
 
+generateCohortsFromDefinitionSet <- function(executionSettings,
+                            con,
+                            cohortDefinitionSet,
+                            outputFolder,
+                            type = "analysis") {
+
+
+  # prep cohorts for generator
+  cohortsToCreate <- prepManifestForCohortGenerator(cohortManifest)
+
+  #path for incremental
+  incrementalFolder <- fs::path(outputFolder)
+
+
+  name <- executionSettings$cohortTable
+
+  cohortTableNames <- list(cohortTable = paste0(name),
+                           cohortInclusionTable = paste0(name, "_inclusion"),
+                           cohortInclusionResultTable = paste0(name, "_inclusion_result"),
+                           cohortInclusionStatsTable = paste0(name, "_inclusion_stats"),
+                           cohortSummaryStatsTable = paste0(name, "_summary_stats"),
+                           cohortCensorStatsTable = paste0(name, "_censor_stats"))
+
+  # generate cohorts
+  CohortGenerator::generateCohortSet(
+    connection = con,
+    cdmDatabaseSchema = executionSettings$cdmDatabaseSchema,
+    cohortDatabaseSchema =  executionSettings$workDatabaseSchema,
+    cohortTableNames = cohortTableNames,
+    cohortDefinitionSet = cohortDefinitionSet,
+    incremental = TRUE,
+    incrementalFolder = incrementalFolder
+  )
+
+  # get cohort counts
+  cohortCounts <- CohortGenerator::getCohortCounts(
+    connection = con,
+    cohortDatabaseSchema = executionSettings$workDatabaseSchema,
+    cohortTable = cohortTableNames$cohortTable,
+    cohortDefinitionSet = cohortDefinitionSet
+  ) %>%
+    dplyr::select(cohortId, cohortName, cohortEntries, cohortSubjects)
+
+  # save generated cohorts
+  tb <- cohortManifest %>%
+    dplyr::left_join(cohortCounts %>%
+                       dplyr::select(cohortId, cohortEntries, cohortSubjects),
+                     by = c("id" = "cohortId")) %>%
+    dplyr::mutate(database = executionSettings$databaseName) %>%
+    dplyr::rename(
+      entries = cohortEntries,
+      subjects = cohortSubjects) %>%
+    dplyr::select(
+      id, name, type, entries, subjects, file, database
+    )
+
+  savePath <- fs::path(outputFolder, "cohortManifest.csv")
+  readr::write_csv(x = tb, file = savePath)
+  cli::cat_bullet("Saving Generated Cohorts to ", crayon::cyan(savePath),
+                  bullet = "tick", bullet_col = "green")
+
+  return(cohortCounts)
+}
+
 # Run Cohort Diagnostis
 # Description: this function is used to run cohort diagnostics. preps cohorts for run
 # and then executes cohort diagnostics
@@ -187,7 +251,6 @@ runCohortDiagnostics <- function(con,
     runBreakdownIndexEvents = TRUE,
     runInclusionStatistics = TRUE,
     runIncidenceRate = TRUE,
-    runTimeSeries = TRUE,
     minCellCount = 5
   )
 
