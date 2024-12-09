@@ -18917,13 +18917,301 @@
           }
         ]
       }
+    },
+    {
+      "id": 36,
+      "name": "PrEP drugs set",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Quant Branded Drug",
+              "CONCEPT_CODE": "2588080",
+              "CONCEPT_ID": 702660,
+              "CONCEPT_NAME": "3 ML cabotegravir 200 MG/ML Injection [Apretude]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "616148",
+              "CONCEPT_ID": 1703097,
+              "CONCEPT_NAME": "emtricitabine 10 MG/ML Oral Solution [Emtriva]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug",
+              "CONCEPT_CODE": "1744001",
+              "CONCEPT_ID": 35606581,
+              "CONCEPT_NAME": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1744003",
+              "CONCEPT_ID": 35606583,
+              "CONCEPT_NAME": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet [Truvada]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "2590643",
+              "CONCEPT_ID": 1758831,
+              "CONCEPT_NAME": "emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet [Descovy]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug",
+              "CONCEPT_CODE": "1744005",
+              "CONCEPT_ID": 35606585,
+              "CONCEPT_NAME": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1744007",
+              "CONCEPT_ID": 35606587,
+              "CONCEPT_NAME": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet [Truvada]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug",
+              "CONCEPT_CODE": "1744009",
+              "CONCEPT_ID": 35606589,
+              "CONCEPT_NAME": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1744011",
+              "CONCEPT_ID": 35606591,
+              "CONCEPT_NAME": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet [Truvada]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1747697",
+              "CONCEPT_ID": 35604229,
+              "CONCEPT_NAME": "emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Descovy]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug",
+              "CONCEPT_CODE": "476556",
+              "CONCEPT_ID": 1703093,
+              "CONCEPT_NAME": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "639888",
+              "CONCEPT_ID": 1710316,
+              "CONCEPT_NAME": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Truvada]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug",
+              "CONCEPT_CODE": "403875",
+              "CONCEPT_ID": 19102500,
+              "CONCEPT_NAME": "emtricitabine 200 MG Oral Capsule",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "404587",
+              "CONCEPT_ID": 19102831,
+              "CONCEPT_NAME": "emtricitabine 200 MG Oral Capsule [Emtriva]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1243346",
+              "CONCEPT_ID": 42708121,
+              "CONCEPT_NAME": "tenofovir disoproxil fumarate 0.04 MG/MG Oral Powder [Viread]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1243326",
+              "CONCEPT_ID": 42708115,
+              "CONCEPT_NAME": "tenofovir disoproxil fumarate 150 MG Oral Tablet [Viread]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1243330",
+              "CONCEPT_ID": 42708117,
+              "CONCEPT_NAME": "tenofovir disoproxil fumarate 200 MG Oral Tablet [Viread]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "1243229",
+              "CONCEPT_ID": 42708097,
+              "CONCEPT_NAME": "tenofovir disoproxil fumarate 250 MG Oral Tablet [Viread]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug",
+              "CONCEPT_CODE": "349251",
+              "CONCEPT_ID": 1710312,
+              "CONCEPT_NAME": "tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug",
+              "CONCEPT_CODE": "352050",
+              "CONCEPT_ID": 19098330,
+              "CONCEPT_NAME": "tenofovir disoproxil fumarate 300 MG Oral Tablet [Viread]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            }
+          }
+        ]
+      }
     }
   ],
   "PrimaryCriteria": {
     "CriteriaList": [
       {
         "DrugExposure": {
-          "CodesetId": 17,
+          "CodesetId": 36,
           "OccurrenceStartDate": {
             "Value": "2016-01-01",
             "Extent": "2016-12-31",
@@ -18961,10 +19249,11 @@
             },
             "StartWindow": {
               "Start": {
+                "Days": 30,
                 "Coeff": -1
               },
               "End": {
-                "Days": 0,
+                "Days": 7,
                 "Coeff": 1
               },
               "UseEventEnd": false
@@ -19203,11 +19492,9 @@
             },
             "StartWindow": {
               "Start": {
-                "Days": 365,
                 "Coeff": -1
               },
               "End": {
-                "Days": 365,
                 "Coeff": 1
               },
               "UseEventEnd": false

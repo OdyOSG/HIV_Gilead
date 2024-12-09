@@ -7,14 +7,14 @@
 1006,"[HIV] Pop12021",17454
 1007,"[HIV] Pop12022",16276
 1008,"[HIV] Pop12023",16793
-2001,"[HIV] Pop22016",20259015
-2002,"[HIV] Pop22017",19575311
-2003,"[HIV] Pop22018",18347801
-2004,"[HIV] Pop22019",16811427
-2005,"[HIV] Pop22020",15278173
-2006,"[HIV] Pop22021",14590786
-2007,"[HIV] Pop22022",12382124
-2008,"[HIV] Pop22023",11266832
+2001,"[HIV] Pop22016",20305474
+2002,"[HIV] Pop22017",19629408
+2003,"[HIV] Pop22018",18405527
+2004,"[HIV] Pop22019",16868708
+2005,"[HIV] Pop22020",15332260
+2006,"[HIV] Pop22021",14640798
+2007,"[HIV] Pop22022",12423922
+2008,"[HIV] Pop22023",11304536
 3001,"[HIV] Pop3Template2016",16970
 3001,"[HIV] Pop3Template2016",16970
 3002,"[HIV] Pop3Template2017",21127
@@ -63,14 +63,14 @@
 3038,"[HIV] Pop3Template3HRlookback2021",1039
 3039,"[HIV] Pop3Template3HRlookback2022",1207
 3040,"[HIV] Pop3Template3HRlookback2023",1532
-3041,"[HIV] Pop3TemplateAnySTI2016",2045
-3042,"[HIV] Pop3TemplateAnySTI2017",2306
-3043,"[HIV] Pop3TemplateAnySTI2018",2541
-3044,"[HIV] Pop3TemplateAnySTI2019",2577
-3045,"[HIV] Pop3TemplateAnySTI2020",1824
-3046,"[HIV] Pop3TemplateAnySTI2021",1901
-3047,"[HIV] Pop3TemplateAnySTI2022",2012
-3048,"[HIV] Pop3TemplateAnySTI2023",2257
+3041,"[HIV] Pop3TemplateAnySTI2016",3095
+3042,"[HIV] Pop3TemplateAnySTI2017",3467
+3043,"[HIV] Pop3TemplateAnySTI2018",3850
+3044,"[HIV] Pop3TemplateAnySTI2019",3867
+3045,"[HIV] Pop3TemplateAnySTI2020",2889
+3046,"[HIV] Pop3TemplateAnySTI2021",2936
+3047,"[HIV] Pop3TemplateAnySTI2022",2889
+3048,"[HIV] Pop3TemplateAnySTI2023",3086
 3049,"[HIV] Pop3TemplateAnySTIlookback2016",2045
 3050,"[HIV] Pop3TemplateAnySTIlookback2017",2306
 3051,"[HIV] Pop3TemplateAnySTIlookback2018",2541
@@ -95,118 +95,126 @@
 3070,"[HIV] Pop3TemplateGonnorrhoea2021",1937
 3071,"[HIV] Pop3TemplateGonnorrhoea2022",1774
 3072,"[HIV] Pop3TemplateGonnorrhoea2023",1787
-3073,"[HIV] Pop3TemplateHIVTest2016",12093
-3074,"[HIV] Pop3TemplateHIVTest2017",15940
-3075,"[HIV] Pop3TemplateHIVTest2018",17584
-3076,"[HIV] Pop3TemplateHIVTest2019",17651
-3077,"[HIV] Pop3TemplateHIVTest2020",15269
-3078,"[HIV] Pop3TemplateHIVTest2021",13441
-3079,"[HIV] Pop3TemplateHIVTest2022",11612
-3080,"[HIV] Pop3TemplateHIVTest2023",11396
-3081,"[HIV] Pop3TemplateHIVTestlookback2016",7563
-3082,"[HIV] Pop3TemplateHIVTestlookback2017",8764
-3083,"[HIV] Pop3TemplateHIVTestlookback2018",9217
-3084,"[HIV] Pop3TemplateHIVTestlookback2019",9007
-3085,"[HIV] Pop3TemplateHIVTestlookback2020",6793
-3086,"[HIV] Pop3TemplateHIVTestlookback2021",6156
-3087,"[HIV] Pop3TemplateHIVTestlookback2022",6188
-3088,"[HIV] Pop3TemplateHIVTestlookback2023",6700
-3089,"[HIV] Pop3TemplateHIVany2016",6335
-3090,"[HIV] Pop3TemplateHIVany2017",7960
-3091,"[HIV] Pop3TemplateHIVany2018",9105
-3092,"[HIV] Pop3TemplateHIVany2019",9021
-3093,"[HIV] Pop3TemplateHIVany2020",7289
-3094,"[HIV] Pop3TemplateHIVany2021",6780
-3095,"[HIV] Pop3TemplateHIVany2022",6287
-3096,"[HIV] Pop3TemplateHIVany2023",6256
-3097,"[HIV] Pop3TemplateHIVanylookback2016",4135
-3098,"[HIV] Pop3TemplateHIVanylookback2017",4765
-3099,"[HIV] Pop3TemplateHIVanylookback2018",5380
-3100,"[HIV] Pop3TemplateHIVanylookback2019",5353
-3101,"[HIV] Pop3TemplateHIVanylookback2020",3807
-3102,"[HIV] Pop3TemplateHIVanylookback2021",3526
-3103,"[HIV] Pop3TemplateHIVanylookback2022",3801
-3104,"[HIV] Pop3TemplateHIVanylookback2023",4238
-3105,"[HIV] Pop3TemplateOther2016",4738
-3106,"[HIV] Pop3TemplateOther2017",5662
-3107,"[HIV] Pop3TemplateOther2018",6575
-3108,"[HIV] Pop3TemplateOther2019",6577
-3109,"[HIV] Pop3TemplateOther2020",5066
-3110,"[HIV] Pop3TemplateOther2021",4638
-3111,"[HIV] Pop3TemplateOther2022",4616
-3112,"[HIV] Pop3TemplateOther2023",4815
-3113,"[HIV] Pop3TemplateOtherSTI2016",2921
-3114,"[HIV] Pop3TemplateOtherSTI2017",3413
-3115,"[HIV] Pop3TemplateOtherSTI2018",3819
-3116,"[HIV] Pop3TemplateOtherSTI2019",3827
-3117,"[HIV] Pop3TemplateOtherSTI2020",3022
-3118,"[HIV] Pop3TemplateOtherSTI2021",2985
-3119,"[HIV] Pop3TemplateOtherSTI2022",2730
-3120,"[HIV] Pop3TemplateOtherSTI2023",2678
-3121,"[HIV] Pop3TemplateOtherlookback2016",3322
-3122,"[HIV] Pop3TemplateOtherlookback2017",3653
-3123,"[HIV] Pop3TemplateOtherlookback2018",4148
-3124,"[HIV] Pop3TemplateOtherlookback2019",4419
-3125,"[HIV] Pop3TemplateOtherlookback2020",3244
-3126,"[HIV] Pop3TemplateOtherlookback2021",2644
-3127,"[HIV] Pop3TemplateOtherlookback2022",2960
-3128,"[HIV] Pop3TemplateOtherlookback2023",3496
-3129,"[HIV] Pop3TemplatePWID2016",6703
-3130,"[HIV] Pop3TemplatePWID2017",7506
-3131,"[HIV] Pop3TemplatePWID2018",7776
-3132,"[HIV] Pop3TemplatePWID2019",7372
-3133,"[HIV] Pop3TemplatePWID2020",6100
-3134,"[HIV] Pop3TemplatePWID2021",5605
-3135,"[HIV] Pop3TemplatePWID2022",4743
-3136,"[HIV] Pop3TemplatePWID2023",4326
-3137,"[HIV] Pop3TemplatePWIDlookback2016",2801
-3138,"[HIV] Pop3TemplatePWIDlookback2017",2971
-3139,"[HIV] Pop3TemplatePWIDlookback2018",3113
-3140,"[HIV] Pop3TemplatePWIDlookback2019",2864
-3141,"[HIV] Pop3TemplatePWIDlookback2020",2182
-3142,"[HIV] Pop3TemplatePWIDlookback2021",1991
-3143,"[HIV] Pop3TemplatePWIDlookback2022",1815
-3144,"[HIV] Pop3TemplatePWIDlookback2023",1846
-3145,"[HIV] Pop3TemplateSTIany2016",4005
-3146,"[HIV] Pop3TemplateSTIany2017",5015
-3147,"[HIV] Pop3TemplateSTIany2018",5733
-3148,"[HIV] Pop3TemplateSTIany2019",5732
-3149,"[HIV] Pop3TemplateSTIany2020",4619
-3150,"[HIV] Pop3TemplateSTIany2021",4517
-3151,"[HIV] Pop3TemplateSTIany2022",4101
-3152,"[HIV] Pop3TemplateSTIany2023",4002
-3153,"[HIV] Pop3TemplateSTIanylookback2016",2045
-3154,"[HIV] Pop3TemplateSTIanylookback2017",2306
-3155,"[HIV] Pop3TemplateSTIanylookback2018",2541
-3156,"[HIV] Pop3TemplateSTIanylookback2019",2577
-3157,"[HIV] Pop3TemplateSTIanylookback2020",1824
-3158,"[HIV] Pop3TemplateSTIanylookback2021",1901
-3159,"[HIV] Pop3TemplateSTIanylookback2022",2012
-3160,"[HIV] Pop3TemplateSTIanylookback2023",2257
-3161,"[HIV] Pop3TemplateSyph2016",1854
-3162,"[HIV] Pop3TemplateSyph2017",2450
-3163,"[HIV] Pop3TemplateSyph2018",2765
-3164,"[HIV] Pop3TemplateSyph2019",2807
-3165,"[HIV] Pop3TemplateSyph2020",2387
-3166,"[HIV] Pop3TemplateSyph2021",2202
-3167,"[HIV] Pop3TemplateSyph2022",1884
-3168,"[HIV] Pop3TemplateSyph2023",1625
-3169,"[HIV] Pop3TemplateTrichomoniasis2016",24
-3170,"[HIV] Pop3TemplateTrichomoniasis2017",42
-3171,"[HIV] Pop3TemplateTrichomoniasis2018",53
-3172,"[HIV] Pop3TemplateTrichomoniasis2019",39
-3173,"[HIV] Pop3TemplateTrichomoniasis2020",30
-3174,"[HIV] Pop3TemplateTrichomoniasis2021",24
-3175,"[HIV] Pop3TemplateTrichomoniasis2022",19
-3176,"[HIV] Pop3TemplateTrichomoniasis2023",12
-3177,"[HIV] Pop3Templatelookback2016",10112
-3178,"[HIV] Pop3Templatelookback2017",11537
-3179,"[HIV] Pop3Templatelookback2018",12100
-3180,"[HIV] Pop3Templatelookback2019",11885
-3181,"[HIV] Pop3Templatelookback2020",9275
-3182,"[HIV] Pop3Templatelookback2021",8246
-3183,"[HIV] Pop3Templatelookback2022",8034
-3184,"[HIV] Pop3Templatelookback2023",8600
+3073,"[HIV] Pop3TemplateGonorrhea2016",1533
+3074,"[HIV] Pop3TemplateGonorrhea2017",1808
+3075,"[HIV] Pop3TemplateGonorrhea2018",2132
+3076,"[HIV] Pop3TemplateGonorrhea2019",2123
+3077,"[HIV] Pop3TemplateGonorrhea2020",1598
+3078,"[HIV] Pop3TemplateGonorrhea2021",1937
+3079,"[HIV] Pop3TemplateGonorrhea2022",1774
+3080,"[HIV] Pop3TemplateGonorrhea2023",1787
+3081,"[HIV] Pop3TemplateHIVTest2016",8292
+3082,"[HIV] Pop3TemplateHIVTest2017",9711
+3083,"[HIV] Pop3TemplateHIVTest2018",10364
+3084,"[HIV] Pop3TemplateHIVTest2019",10305
+3085,"[HIV] Pop3TemplateHIVTest2020",8234
+3086,"[HIV] Pop3TemplateHIVTest2021",7546
+3087,"[HIV] Pop3TemplateHIVTest2022",7399
+3088,"[HIV] Pop3TemplateHIVTest2023",7900
+3089,"[HIV] Pop3TemplateHIVTestlookback2016",7563
+3090,"[HIV] Pop3TemplateHIVTestlookback2017",8764
+3091,"[HIV] Pop3TemplateHIVTestlookback2018",9217
+3092,"[HIV] Pop3TemplateHIVTestlookback2019",9007
+3093,"[HIV] Pop3TemplateHIVTestlookback2020",6793
+3094,"[HIV] Pop3TemplateHIVTestlookback2021",6156
+3095,"[HIV] Pop3TemplateHIVTestlookback2022",6188
+3096,"[HIV] Pop3TemplateHIVTestlookback2023",6700
+3097,"[HIV] Pop3TemplateHIVany2016",2488
+3098,"[HIV] Pop3TemplateHIVany2017",3479
+3099,"[HIV] Pop3TemplateHIVany2018",3855
+3100,"[HIV] Pop3TemplateHIVany2019",3769
+3101,"[HIV] Pop3TemplateHIVany2020",3388
+3102,"[HIV] Pop3TemplateHIVany2021",2969
+3103,"[HIV] Pop3TemplateHIVany2022",2313
+3104,"[HIV] Pop3TemplateHIVany2023",1761
+3105,"[HIV] Pop3TemplateHIVanylookback2016",4135
+3106,"[HIV] Pop3TemplateHIVanylookback2017",4765
+3107,"[HIV] Pop3TemplateHIVanylookback2018",5380
+3108,"[HIV] Pop3TemplateHIVanylookback2019",5353
+3109,"[HIV] Pop3TemplateHIVanylookback2020",3807
+3110,"[HIV] Pop3TemplateHIVanylookback2021",3526
+3111,"[HIV] Pop3TemplateHIVanylookback2022",3801
+3112,"[HIV] Pop3TemplateHIVanylookback2023",4238
+3113,"[HIV] Pop3TemplateOther2016",4738
+3114,"[HIV] Pop3TemplateOther2017",5662
+3115,"[HIV] Pop3TemplateOther2018",6575
+3116,"[HIV] Pop3TemplateOther2019",6577
+3117,"[HIV] Pop3TemplateOther2020",5066
+3118,"[HIV] Pop3TemplateOther2021",4638
+3119,"[HIV] Pop3TemplateOther2022",4616
+3120,"[HIV] Pop3TemplateOther2023",4815
+3121,"[HIV] Pop3TemplateOtherSTI2016",2921
+3122,"[HIV] Pop3TemplateOtherSTI2017",3413
+3123,"[HIV] Pop3TemplateOtherSTI2018",3819
+3124,"[HIV] Pop3TemplateOtherSTI2019",3827
+3125,"[HIV] Pop3TemplateOtherSTI2020",3022
+3126,"[HIV] Pop3TemplateOtherSTI2021",2985
+3127,"[HIV] Pop3TemplateOtherSTI2022",2730
+3128,"[HIV] Pop3TemplateOtherSTI2023",2678
+3129,"[HIV] Pop3TemplateOtherlookback2016",3322
+3130,"[HIV] Pop3TemplateOtherlookback2017",3653
+3131,"[HIV] Pop3TemplateOtherlookback2018",4148
+3132,"[HIV] Pop3TemplateOtherlookback2019",4419
+3133,"[HIV] Pop3TemplateOtherlookback2020",3244
+3134,"[HIV] Pop3TemplateOtherlookback2021",2644
+3135,"[HIV] Pop3TemplateOtherlookback2022",2960
+3136,"[HIV] Pop3TemplateOtherlookback2023",3496
+3137,"[HIV] Pop3TemplatePWID2016",6703
+3138,"[HIV] Pop3TemplatePWID2017",7506
+3139,"[HIV] Pop3TemplatePWID2018",7776
+3140,"[HIV] Pop3TemplatePWID2019",7372
+3141,"[HIV] Pop3TemplatePWID2020",6100
+3142,"[HIV] Pop3TemplatePWID2021",5605
+3143,"[HIV] Pop3TemplatePWID2022",4743
+3144,"[HIV] Pop3TemplatePWID2023",4326
+3145,"[HIV] Pop3TemplatePWIDlookback2016",2801
+3146,"[HIV] Pop3TemplatePWIDlookback2017",2971
+3147,"[HIV] Pop3TemplatePWIDlookback2018",3113
+3148,"[HIV] Pop3TemplatePWIDlookback2019",2864
+3149,"[HIV] Pop3TemplatePWIDlookback2020",2182
+3150,"[HIV] Pop3TemplatePWIDlookback2021",1991
+3151,"[HIV] Pop3TemplatePWIDlookback2022",1815
+3152,"[HIV] Pop3TemplatePWIDlookback2023",1846
+3153,"[HIV] Pop3TemplateSTIany2016",1618
+3154,"[HIV] Pop3TemplateSTIany2017",2238
+3155,"[HIV] Pop3TemplateSTIany2018",2534
+3156,"[HIV] Pop3TemplateSTIany2019",2434
+3157,"[HIV] Pop3TemplateSTIany2020",2166
+3158,"[HIV] Pop3TemplateSTIany2021",1957
+3159,"[HIV] Pop3TemplateSTIany2022",1542
+3160,"[HIV] Pop3TemplateSTIany2023",1187
+3161,"[HIV] Pop3TemplateSTIanylookback2016",2045
+3162,"[HIV] Pop3TemplateSTIanylookback2017",2306
+3163,"[HIV] Pop3TemplateSTIanylookback2018",2541
+3164,"[HIV] Pop3TemplateSTIanylookback2019",2577
+3165,"[HIV] Pop3TemplateSTIanylookback2020",1824
+3166,"[HIV] Pop3TemplateSTIanylookback2021",1901
+3167,"[HIV] Pop3TemplateSTIanylookback2022",2012
+3168,"[HIV] Pop3TemplateSTIanylookback2023",2257
+3169,"[HIV] Pop3TemplateSyph2016",1854
+3170,"[HIV] Pop3TemplateSyph2017",2450
+3171,"[HIV] Pop3TemplateSyph2018",2765
+3172,"[HIV] Pop3TemplateSyph2019",2807
+3173,"[HIV] Pop3TemplateSyph2020",2387
+3174,"[HIV] Pop3TemplateSyph2021",2202
+3175,"[HIV] Pop3TemplateSyph2022",1884
+3176,"[HIV] Pop3TemplateSyph2023",1625
+3177,"[HIV] Pop3TemplateTrichomoniasis2016",24
+3178,"[HIV] Pop3TemplateTrichomoniasis2017",42
+3179,"[HIV] Pop3TemplateTrichomoniasis2018",53
+3180,"[HIV] Pop3TemplateTrichomoniasis2019",39
+3181,"[HIV] Pop3TemplateTrichomoniasis2020",30
+3182,"[HIV] Pop3TemplateTrichomoniasis2021",24
+3183,"[HIV] Pop3TemplateTrichomoniasis2022",19
+3184,"[HIV] Pop3TemplateTrichomoniasis2023",12
+3185,"[HIV] Pop3Templatelookback2016",10112
+3186,"[HIV] Pop3Templatelookback2017",11537
+3187,"[HIV] Pop3Templatelookback2018",12100
+3188,"[HIV] Pop3Templatelookback2019",11885
+3189,"[HIV] Pop3Templatelookback2020",9275
+3190,"[HIV] Pop3Templatelookback2021",8246
+3191,"[HIV] Pop3Templatelookback2022",8034
+3192,"[HIV] Pop3Templatelookback2023",8600
 4001,"[HIV] Pop4Template2016",3816866
 4001,"[HIV] Pop4Template2016",3816866
 4002,"[HIV] Pop4Template2017",3724721
@@ -247,492 +255,500 @@
 4030,"[HIV] Pop4TemplateChlamydia2021",14912
 4031,"[HIV] Pop4TemplateChlamydia2022",12945
 4032,"[HIV] Pop4TemplateChlamydia2023",11727
-4033,"[HIV] Pop4TemplateGonorrhoea2016",45108
-4034,"[HIV] Pop4TemplateGonorrhoea2017",46720
-4035,"[HIV] Pop4TemplateGonorrhoea2018",46165
-4036,"[HIV] Pop4TemplateGonorrhoea2019",47198
-4037,"[HIV] Pop4TemplateGonorrhoea2020",46037
-4038,"[HIV] Pop4TemplateGonorrhoea2021",45383
-4039,"[HIV] Pop4TemplateGonorrhoea2022",40057
-4040,"[HIV] Pop4TemplateGonorrhoea2023",37402
-4041,"[HIV] Pop4TemplateHIVTest2016",1240983
-4042,"[HIV] Pop4TemplateHIVTest2017",1275623
-4043,"[HIV] Pop4TemplateHIVTest2018",1215624
-4044,"[HIV] Pop4TemplateHIVTest2019",1126458
-4045,"[HIV] Pop4TemplateHIVTest2020",1040717
-4046,"[HIV] Pop4TemplateHIVTest2021",966380
-4047,"[HIV] Pop4TemplateHIVTest2022",793311
-4048,"[HIV] Pop4TemplateHIVTest2023",690911
-4049,"[HIV] Pop4TemplateHIVany2016",136034
-4050,"[HIV] Pop4TemplateHIVany2017",139519
-4051,"[HIV] Pop4TemplateHIVany2018",134286
-4052,"[HIV] Pop4TemplateHIVany2019",124605
-4053,"[HIV] Pop4TemplateHIVany2020",112812
-4054,"[HIV] Pop4TemplateHIVany2021",104902
-4055,"[HIV] Pop4TemplateHIVany2022",90095
-4056,"[HIV] Pop4TemplateHIVany2023",78452
-4057,"[HIV] Pop4TemplateOther2016",420191
-4058,"[HIV] Pop4TemplateOther2017",399234
-4059,"[HIV] Pop4TemplateOther2018",359255
-4060,"[HIV] Pop4TemplateOther2019",289939
-4061,"[HIV] Pop4TemplateOther2020",256886
-4062,"[HIV] Pop4TemplateOther2021",237879
-4063,"[HIV] Pop4TemplateOther2022",198292
-4064,"[HIV] Pop4TemplateOther2023",170233
-4065,"[HIV] Pop4TemplateOtherSTI2016",415821
-4066,"[HIV] Pop4TemplateOtherSTI2017",405826
-4067,"[HIV] Pop4TemplateOtherSTI2018",377310
-4068,"[HIV] Pop4TemplateOtherSTI2019",350164
-4069,"[HIV] Pop4TemplateOtherSTI2020",319710
-4070,"[HIV] Pop4TemplateOtherSTI2021",296748
-4071,"[HIV] Pop4TemplateOtherSTI2022",235150
-4072,"[HIV] Pop4TemplateOtherSTI2023",212019
-4073,"[HIV] Pop4TemplatePWID2016",2355763
-4074,"[HIV] Pop4TemplatePWID2017",2253239
-4075,"[HIV] Pop4TemplatePWID2018",2062027
-4076,"[HIV] Pop4TemplatePWID2019",1857412
-4077,"[HIV] Pop4TemplatePWID2020",1673639
-4078,"[HIV] Pop4TemplatePWID2021",1508118
-4079,"[HIV] Pop4TemplatePWID2022",1241247
-4080,"[HIV] Pop4TemplatePWID2023",1082563
-4081,"[HIV] Pop4TemplateSTIany2016",243983
-4082,"[HIV] Pop4TemplateSTIany2017",241692
-4083,"[HIV] Pop4TemplateSTIany2018",227938
-4084,"[HIV] Pop4TemplateSTIany2019",210102
-4085,"[HIV] Pop4TemplateSTIany2020",193110
-4086,"[HIV] Pop4TemplateSTIany2021",180359
-4087,"[HIV] Pop4TemplateSTIany2022",148529
-4088,"[HIV] Pop4TemplateSTIany2023",131182
-4089,"[HIV] Pop4TemplateSyphilis2016",13818
-4090,"[HIV] Pop4TemplateSyphilis2017",14606
-4091,"[HIV] Pop4TemplateSyphilis2018",14636
-4092,"[HIV] Pop4TemplateSyphilis2019",14182
-4093,"[HIV] Pop4TemplateSyphilis2020",13309
-4094,"[HIV] Pop4TemplateSyphilis2021",12918
-4095,"[HIV] Pop4TemplateSyphilis2022",11509
-4096,"[HIV] Pop4TemplateSyphilis2023",10328
-4097,"[HIV] Pop4TemplateTrichomoniasis2016",15308
-4098,"[HIV] Pop4TemplateTrichomoniasis2017",14335
-4099,"[HIV] Pop4TemplateTrichomoniasis2018",12923
-4100,"[HIV] Pop4TemplateTrichomoniasis2019",11076
-4101,"[HIV] Pop4TemplateTrichomoniasis2020",9724
-4102,"[HIV] Pop4TemplateTrichomoniasis2021",8805
-4103,"[HIV] Pop4TemplateTrichomoniasis2022",7309
-4104,"[HIV] Pop4TemplateTrichomoniasis2023",5853
-4105,"[HIV] Pop4TemplateanySTI2016",449685
-4106,"[HIV] Pop4TemplateanySTI2017",439062
-4107,"[HIV] Pop4TemplateanySTI2018",408409
-4108,"[HIV] Pop4TemplateanySTI2019",378246
-4109,"[HIV] Pop4TemplateanySTI2020",345019
-4110,"[HIV] Pop4TemplateanySTI2021",320480
-4111,"[HIV] Pop4TemplateanySTI2022",255594
-4112,"[HIV] Pop4TemplateanySTI2023",229882
-5001,"[HIV] Pop52016",28201
-5002,"[HIV] Pop52017",34024
-5003,"[HIV] Pop52018",35056
-5004,"[HIV] Pop52019",34769
-5005,"[HIV] Pop52020",31878
-5006,"[HIV] Pop52021",30543
-5007,"[HIV] Pop52022",25912
-5008,"[HIV] Pop52023",23374
+4033,"[HIV] Pop4TemplateGonorrhea2016",45108
+4034,"[HIV] Pop4TemplateGonorrhea2017",46720
+4035,"[HIV] Pop4TemplateGonorrhea2018",46165
+4036,"[HIV] Pop4TemplateGonorrhea2019",47198
+4037,"[HIV] Pop4TemplateGonorrhea2020",46037
+4038,"[HIV] Pop4TemplateGonorrhea2021",45383
+4039,"[HIV] Pop4TemplateGonorrhea2022",40057
+4040,"[HIV] Pop4TemplateGonorrhea2023",37402
+4041,"[HIV] Pop4TemplateGonorrhoea2016",45108
+4042,"[HIV] Pop4TemplateGonorrhoea2017",46720
+4043,"[HIV] Pop4TemplateGonorrhoea2018",46165
+4044,"[HIV] Pop4TemplateGonorrhoea2019",47198
+4045,"[HIV] Pop4TemplateGonorrhoea2020",46037
+4046,"[HIV] Pop4TemplateGonorrhoea2021",45383
+4047,"[HIV] Pop4TemplateGonorrhoea2022",40057
+4048,"[HIV] Pop4TemplateGonorrhoea2023",37402
+4049,"[HIV] Pop4TemplateHIVTest2016",1240983
+4050,"[HIV] Pop4TemplateHIVTest2017",1275623
+4051,"[HIV] Pop4TemplateHIVTest2018",1215624
+4052,"[HIV] Pop4TemplateHIVTest2019",1126458
+4053,"[HIV] Pop4TemplateHIVTest2020",1040717
+4054,"[HIV] Pop4TemplateHIVTest2021",966380
+4055,"[HIV] Pop4TemplateHIVTest2022",793311
+4056,"[HIV] Pop4TemplateHIVTest2023",690911
+4057,"[HIV] Pop4TemplateHIVany2016",451202
+4058,"[HIV] Pop4TemplateHIVany2017",452190
+4059,"[HIV] Pop4TemplateHIVany2018",425213
+4060,"[HIV] Pop4TemplateHIVany2019",383775
+4061,"[HIV] Pop4TemplateHIVany2020",352856
+4062,"[HIV] Pop4TemplateHIVany2021",327160
+4063,"[HIV] Pop4TemplateHIVany2022",272791
+4064,"[HIV] Pop4TemplateHIVany2023",233856
+4065,"[HIV] Pop4TemplateOther2016",420191
+4066,"[HIV] Pop4TemplateOther2017",399234
+4067,"[HIV] Pop4TemplateOther2018",359255
+4068,"[HIV] Pop4TemplateOther2019",289939
+4069,"[HIV] Pop4TemplateOther2020",256886
+4070,"[HIV] Pop4TemplateOther2021",237879
+4071,"[HIV] Pop4TemplateOther2022",198292
+4072,"[HIV] Pop4TemplateOther2023",170233
+4073,"[HIV] Pop4TemplateOtherSTI2016",415821
+4074,"[HIV] Pop4TemplateOtherSTI2017",405826
+4075,"[HIV] Pop4TemplateOtherSTI2018",377310
+4076,"[HIV] Pop4TemplateOtherSTI2019",350164
+4077,"[HIV] Pop4TemplateOtherSTI2020",319710
+4078,"[HIV] Pop4TemplateOtherSTI2021",296748
+4079,"[HIV] Pop4TemplateOtherSTI2022",235150
+4080,"[HIV] Pop4TemplateOtherSTI2023",212019
+4081,"[HIV] Pop4TemplatePWID2016",2355763
+4082,"[HIV] Pop4TemplatePWID2017",2253239
+4083,"[HIV] Pop4TemplatePWID2018",2062027
+4084,"[HIV] Pop4TemplatePWID2019",1857412
+4085,"[HIV] Pop4TemplatePWID2020",1673639
+4086,"[HIV] Pop4TemplatePWID2021",1508118
+4087,"[HIV] Pop4TemplatePWID2022",1241247
+4088,"[HIV] Pop4TemplatePWID2023",1082563
+4089,"[HIV] Pop4TemplateSTIany2016",243983
+4090,"[HIV] Pop4TemplateSTIany2017",241692
+4091,"[HIV] Pop4TemplateSTIany2018",227938
+4092,"[HIV] Pop4TemplateSTIany2019",210102
+4093,"[HIV] Pop4TemplateSTIany2020",193110
+4094,"[HIV] Pop4TemplateSTIany2021",180359
+4095,"[HIV] Pop4TemplateSTIany2022",148529
+4096,"[HIV] Pop4TemplateSTIany2023",131182
+4097,"[HIV] Pop4TemplateSyphilis2016",13818
+4098,"[HIV] Pop4TemplateSyphilis2017",14606
+4099,"[HIV] Pop4TemplateSyphilis2018",14636
+4100,"[HIV] Pop4TemplateSyphilis2019",14182
+4101,"[HIV] Pop4TemplateSyphilis2020",13309
+4102,"[HIV] Pop4TemplateSyphilis2021",12918
+4103,"[HIV] Pop4TemplateSyphilis2022",11509
+4104,"[HIV] Pop4TemplateSyphilis2023",10328
+4105,"[HIV] Pop4TemplateTrichomoniasis2016",15308
+4106,"[HIV] Pop4TemplateTrichomoniasis2017",14335
+4107,"[HIV] Pop4TemplateTrichomoniasis2018",12923
+4108,"[HIV] Pop4TemplateTrichomoniasis2019",11076
+4109,"[HIV] Pop4TemplateTrichomoniasis2020",9724
+4110,"[HIV] Pop4TemplateTrichomoniasis2021",8805
+4111,"[HIV] Pop4TemplateTrichomoniasis2022",7309
+4112,"[HIV] Pop4TemplateTrichomoniasis2023",5853
+4113,"[HIV] Pop4TemplateanySTI2016",449685
+4114,"[HIV] Pop4TemplateanySTI2017",439062
+4115,"[HIV] Pop4TemplateanySTI2018",408409
+4116,"[HIV] Pop4TemplateanySTI2019",378246
+4117,"[HIV] Pop4TemplateanySTI2020",345019
+4118,"[HIV] Pop4TemplateanySTI2021",320480
+4119,"[HIV] Pop4TemplateanySTI2022",255594
+4120,"[HIV] Pop4TemplateanySTI2023",229882
+5001,"[HIV] Pop52016",20933
+5002,"[HIV] Pop52017",24933
+5003,"[HIV] Pop52018",23062
+5004,"[HIV] Pop52019",27812
+5005,"[HIV] Pop52020",21488
+5006,"[HIV] Pop52021",20259
+5007,"[HIV] Pop52022",17666
+5008,"[HIV] Pop52023",17659
 1001001,"[HIV] Pop12016 - male patients in cohort 1 Age 15 - 29",2050
 1001002,"[HIV] Pop12016 - male patients in cohort 1 Age 30 - 44",4378
 1001003,"[HIV] Pop12016 - male patients in cohort 1 Age 45 - 55",3979
 1001004,"[HIV] Pop12016 - male patients in cohort 1 Age 55+",3748
-1001005,"[HIV] Pop12016 - male patients in cohort 1 NHW",7130
-1001006,"[HIV] Pop12016 - male patients in cohort 1 NHB",0
-1001007,"[HIV] Pop12016 - male patients in cohort 1 Hispanic",59
-1001008,"[HIV] Pop12016 - male patients in cohort 1 AAPI",779
+1001005,"[HIV] Pop12016 - male patients in cohort 1 White",7130
+1001006,"[HIV] Pop12016 - male patients in cohort 1 Asian",779
+1001007,"[HIV] Pop12016 - male patients in cohort 1 African American",1685
+1001008,"[HIV] Pop12016 - male patients in cohort 1 Hispanic",0
 1001011,"[HIV] Pop12016 - female patients in cohort 1 Age 15 - 29",457
 1001012,"[HIV] Pop12016 - female patients in cohort 1 Age 30 - 44",1054
 1001013,"[HIV] Pop12016 - female patients in cohort 1 Age 45 - 55",1094
 1001014,"[HIV] Pop12016 - female patients in cohort 1 Age 55+",1346
-1001015,"[HIV] Pop12016 - female patients in cohort 1 NHW",1212
-1001016,"[HIV] Pop12016 - female patients in cohort 1 NHB",0
-1001017,"[HIV] Pop12016 - female patients in cohort 1 Hispanic",9
-1001018,"[HIV] Pop12016 - female patients in cohort 1 AAPI",523
+1001015,"[HIV] Pop12016 - female patients in cohort 1 White",1212
+1001016,"[HIV] Pop12016 - female patients in cohort 1 Asian",523
+1001017,"[HIV] Pop12016 - female patients in cohort 1 African American",991
+1001018,"[HIV] Pop12016 - female patients in cohort 1 Hispanic",0
 1002001,"[HIV] Pop12017 - male patients in cohort 1 Age 15 - 29",2595
 1002002,"[HIV] Pop12017 - male patients in cohort 1 Age 30 - 44",5271
 1002003,"[HIV] Pop12017 - male patients in cohort 1 Age 45 - 55",4334
 1002004,"[HIV] Pop12017 - male patients in cohort 1 Age 55+",4258
-1002005,"[HIV] Pop12017 - male patients in cohort 1 NHW",8573
-1002006,"[HIV] Pop12017 - male patients in cohort 1 NHB",0
-1002007,"[HIV] Pop12017 - male patients in cohort 1 Hispanic",61
-1002008,"[HIV] Pop12017 - male patients in cohort 1 AAPI",921
+1002005,"[HIV] Pop12017 - male patients in cohort 1 White",8573
+1002006,"[HIV] Pop12017 - male patients in cohort 1 Asian",921
+1002007,"[HIV] Pop12017 - male patients in cohort 1 African American",1892
+1002008,"[HIV] Pop12017 - male patients in cohort 1 Hispanic",0
 1002011,"[HIV] Pop12017 - female patients in cohort 1 Age 15 - 29",521
 1002012,"[HIV] Pop12017 - female patients in cohort 1 Age 30 - 44",1101
 1002013,"[HIV] Pop12017 - female patients in cohort 1 Age 45 - 55",1158
 1002014,"[HIV] Pop12017 - female patients in cohort 1 Age 55+",1512
-1002015,"[HIV] Pop12017 - female patients in cohort 1 NHW",1364
-1002016,"[HIV] Pop12017 - female patients in cohort 1 NHB",0
-1002017,"[HIV] Pop12017 - female patients in cohort 1 Hispanic",17
-1002018,"[HIV] Pop12017 - female patients in cohort 1 AAPI",606
+1002015,"[HIV] Pop12017 - female patients in cohort 1 White",1364
+1002016,"[HIV] Pop12017 - female patients in cohort 1 Asian",606
+1002017,"[HIV] Pop12017 - female patients in cohort 1 African American",1030
+1002018,"[HIV] Pop12017 - female patients in cohort 1 Hispanic",0
 1003001,"[HIV] Pop12018 - male patients in cohort 1 Age 15 - 29",3098
 1003002,"[HIV] Pop12018 - male patients in cohort 1 Age 30 - 44",5962
 1003003,"[HIV] Pop12018 - male patients in cohort 1 Age 45 - 55",4441
 1003004,"[HIV] Pop12018 - male patients in cohort 1 Age 55+",4633
-1003005,"[HIV] Pop12018 - male patients in cohort 1 NHW",9575
-1003006,"[HIV] Pop12018 - male patients in cohort 1 NHB",0
-1003007,"[HIV] Pop12018 - male patients in cohort 1 Hispanic",46
-1003008,"[HIV] Pop12018 - male patients in cohort 1 AAPI",978
+1003005,"[HIV] Pop12018 - male patients in cohort 1 White",9575
+1003006,"[HIV] Pop12018 - male patients in cohort 1 Asian",978
+1003007,"[HIV] Pop12018 - male patients in cohort 1 African American",2077
+1003008,"[HIV] Pop12018 - male patients in cohort 1 Hispanic",0
 1003011,"[HIV] Pop12018 - female patients in cohort 1 Age 15 - 29",535
 1003012,"[HIV] Pop12018 - female patients in cohort 1 Age 30 - 44",1114
 1003013,"[HIV] Pop12018 - female patients in cohort 1 Age 45 - 55",1146
 1003014,"[HIV] Pop12018 - female patients in cohort 1 Age 55+",1581
-1003015,"[HIV] Pop12018 - female patients in cohort 1 NHW",1458
-1003016,"[HIV] Pop12018 - female patients in cohort 1 NHB",0
-1003017,"[HIV] Pop12018 - female patients in cohort 1 Hispanic",12
-1003018,"[HIV] Pop12018 - female patients in cohort 1 AAPI",584
+1003015,"[HIV] Pop12018 - female patients in cohort 1 White",1458
+1003016,"[HIV] Pop12018 - female patients in cohort 1 Asian",584
+1003017,"[HIV] Pop12018 - female patients in cohort 1 African American",1069
+1003018,"[HIV] Pop12018 - female patients in cohort 1 Hispanic",0
 1004001,"[HIV] Pop12019 - male patients in cohort 1 Age 15 - 29",3094
 1004002,"[HIV] Pop12019 - male patients in cohort 1 Age 30 - 44",6112
 1004003,"[HIV] Pop12019 - male patients in cohort 1 Age 45 - 55",4362
 1004004,"[HIV] Pop12019 - male patients in cohort 1 Age 55+",4987
-1004005,"[HIV] Pop12019 - male patients in cohort 1 NHW",10046
-1004006,"[HIV] Pop12019 - male patients in cohort 1 NHB",0
-1004007,"[HIV] Pop12019 - male patients in cohort 1 Hispanic",49
-1004008,"[HIV] Pop12019 - male patients in cohort 1 AAPI",975
+1004005,"[HIV] Pop12019 - male patients in cohort 1 White",10046
+1004006,"[HIV] Pop12019 - male patients in cohort 1 Asian",975
+1004007,"[HIV] Pop12019 - male patients in cohort 1 African American",1994
+1004008,"[HIV] Pop12019 - male patients in cohort 1 Hispanic",0
 1004011,"[HIV] Pop12019 - female patients in cohort 1 Age 15 - 29",579
 1004012,"[HIV] Pop12019 - female patients in cohort 1 Age 30 - 44",1181
 1004013,"[HIV] Pop12019 - female patients in cohort 1 Age 45 - 55",1128
 1004014,"[HIV] Pop12019 - female patients in cohort 1 Age 55+",1598
-1004015,"[HIV] Pop12019 - female patients in cohort 1 NHW",1551
-1004016,"[HIV] Pop12019 - female patients in cohort 1 NHB",0
-1004017,"[HIV] Pop12019 - female patients in cohort 1 Hispanic",9
-1004018,"[HIV] Pop12019 - female patients in cohort 1 AAPI",564
+1004015,"[HIV] Pop12019 - female patients in cohort 1 White",1551
+1004016,"[HIV] Pop12019 - female patients in cohort 1 Asian",564
+1004017,"[HIV] Pop12019 - female patients in cohort 1 African American",1011
+1004018,"[HIV] Pop12019 - female patients in cohort 1 Hispanic",0
 1005001,"[HIV] Pop12020 - male patients in cohort 1 Age 15 - 29",2587
 1005002,"[HIV] Pop12020 - male patients in cohort 1 Age 30 - 44",5047
 1005003,"[HIV] Pop12020 - male patients in cohort 1 Age 45 - 55",3523
 1005004,"[HIV] Pop12020 - male patients in cohort 1 Age 55+",4551
-1005005,"[HIV] Pop12020 - male patients in cohort 1 NHW",8576
-1005006,"[HIV] Pop12020 - male patients in cohort 1 NHB",0
-1005007,"[HIV] Pop12020 - male patients in cohort 1 Hispanic",20
-1005008,"[HIV] Pop12020 - male patients in cohort 1 AAPI",864
+1005005,"[HIV] Pop12020 - male patients in cohort 1 White",8576
+1005006,"[HIV] Pop12020 - male patients in cohort 1 Asian",864
+1005007,"[HIV] Pop12020 - male patients in cohort 1 African American",1690
+1005008,"[HIV] Pop12020 - male patients in cohort 1 Hispanic",0
 1005011,"[HIV] Pop12020 - female patients in cohort 1 Age 15 - 29",475
 1005012,"[HIV] Pop12020 - female patients in cohort 1 Age 30 - 44",973
 1005013,"[HIV] Pop12020 - female patients in cohort 1 Age 45 - 55",922
 1005014,"[HIV] Pop12020 - female patients in cohort 1 Age 55+",1534
-1005015,"[HIV] Pop12020 - female patients in cohort 1 NHW",1399
-1005016,"[HIV] Pop12020 - female patients in cohort 1 NHB",0
-1005017,"[HIV] Pop12020 - female patients in cohort 1 Hispanic",5
-1005018,"[HIV] Pop12020 - female patients in cohort 1 AAPI",512
+1005015,"[HIV] Pop12020 - female patients in cohort 1 White",1399
+1005016,"[HIV] Pop12020 - female patients in cohort 1 Asian",512
+1005017,"[HIV] Pop12020 - female patients in cohort 1 African American",837
+1005018,"[HIV] Pop12020 - female patients in cohort 1 Hispanic",0
 1006001,"[HIV] Pop12021 - male patients in cohort 1 Age 15 - 29",2443
 1006002,"[HIV] Pop12021 - male patients in cohort 1 Age 30 - 44",4671
 1006003,"[HIV] Pop12021 - male patients in cohort 1 Age 45 - 55",2864
 1006004,"[HIV] Pop12021 - male patients in cohort 1 Age 55+",4103
-1006005,"[HIV] Pop12021 - male patients in cohort 1 NHW",7346
-1006006,"[HIV] Pop12021 - male patients in cohort 1 NHB",0
-1006007,"[HIV] Pop12021 - male patients in cohort 1 Hispanic",2
-1006008,"[HIV] Pop12021 - male patients in cohort 1 AAPI",778
+1006005,"[HIV] Pop12021 - male patients in cohort 1 White",7346
+1006006,"[HIV] Pop12021 - male patients in cohort 1 Asian",778
+1006007,"[HIV] Pop12021 - male patients in cohort 1 African American",1442
+1006008,"[HIV] Pop12021 - male patients in cohort 1 Hispanic",0
 1006011,"[HIV] Pop12021 - female patients in cohort 1 Age 15 - 29",399
 1006012,"[HIV] Pop12021 - female patients in cohort 1 Age 30 - 44",823
 1006013,"[HIV] Pop12021 - female patients in cohort 1 Age 45 - 55",787
 1006014,"[HIV] Pop12021 - female patients in cohort 1 Age 55+",1316
-1006015,"[HIV] Pop12021 - female patients in cohort 1 NHW",1159
-1006016,"[HIV] Pop12021 - female patients in cohort 1 NHB",0
-1006017,"[HIV] Pop12021 - female patients in cohort 1 Hispanic",0
-1006018,"[HIV] Pop12021 - female patients in cohort 1 AAPI",429
+1006015,"[HIV] Pop12021 - female patients in cohort 1 White",1159
+1006016,"[HIV] Pop12021 - female patients in cohort 1 Asian",429
+1006017,"[HIV] Pop12021 - female patients in cohort 1 African American",688
+1006018,"[HIV] Pop12021 - female patients in cohort 1 Hispanic",0
 1007001,"[HIV] Pop12022 - male patients in cohort 1 Age 15 - 29",2235
 1007002,"[HIV] Pop12022 - male patients in cohort 1 Age 30 - 44",4561
 1007003,"[HIV] Pop12022 - male patients in cohort 1 Age 45 - 55",2583
 1007004,"[HIV] Pop12022 - male patients in cohort 1 Age 55+",3779
-1007005,"[HIV] Pop12022 - male patients in cohort 1 NHW",6633
-1007006,"[HIV] Pop12022 - male patients in cohort 1 NHB",0
-1007007,"[HIV] Pop12022 - male patients in cohort 1 Hispanic",1
-1007008,"[HIV] Pop12022 - male patients in cohort 1 AAPI",752
+1007005,"[HIV] Pop12022 - male patients in cohort 1 White",6633
+1007006,"[HIV] Pop12022 - male patients in cohort 1 Asian",752
+1007007,"[HIV] Pop12022 - male patients in cohort 1 African American",1225
+1007008,"[HIV] Pop12022 - male patients in cohort 1 Hispanic",0
 1007011,"[HIV] Pop12022 - female patients in cohort 1 Age 15 - 29",391
 1007012,"[HIV] Pop12022 - female patients in cohort 1 Age 30 - 44",770
 1007013,"[HIV] Pop12022 - female patients in cohort 1 Age 45 - 55",637
 1007014,"[HIV] Pop12022 - female patients in cohort 1 Age 55+",1249
-1007015,"[HIV] Pop12022 - female patients in cohort 1 NHW",1060
-1007016,"[HIV] Pop12022 - female patients in cohort 1 NHB",0
-1007017,"[HIV] Pop12022 - female patients in cohort 1 Hispanic",0
-1007018,"[HIV] Pop12022 - female patients in cohort 1 AAPI",390
+1007015,"[HIV] Pop12022 - female patients in cohort 1 White",1060
+1007016,"[HIV] Pop12022 - female patients in cohort 1 Asian",390
+1007017,"[HIV] Pop12022 - female patients in cohort 1 African American",565
+1007018,"[HIV] Pop12022 - female patients in cohort 1 Hispanic",0
 1008001,"[HIV] Pop12023 - male patients in cohort 1 Age 15 - 29",2370
 1008002,"[HIV] Pop12023 - male patients in cohort 1 Age 30 - 44",5154
 1008003,"[HIV] Pop12023 - male patients in cohort 1 Age 45 - 55",2616
 1008004,"[HIV] Pop12023 - male patients in cohort 1 Age 55+",3732
-1008005,"[HIV] Pop12023 - male patients in cohort 1 NHW",7041
-1008006,"[HIV] Pop12023 - male patients in cohort 1 NHB",0
-1008007,"[HIV] Pop12023 - male patients in cohort 1 Hispanic",0
-1008008,"[HIV] Pop12023 - male patients in cohort 1 AAPI",805
+1008005,"[HIV] Pop12023 - male patients in cohort 1 White",7041
+1008006,"[HIV] Pop12023 - male patients in cohort 1 Asian",805
+1008007,"[HIV] Pop12023 - male patients in cohort 1 African American",1174
+1008008,"[HIV] Pop12023 - male patients in cohort 1 Hispanic",0
 1008011,"[HIV] Pop12023 - female patients in cohort 1 Age 15 - 29",410
 1008012,"[HIV] Pop12023 - female patients in cohort 1 Age 30 - 44",729
 1008013,"[HIV] Pop12023 - female patients in cohort 1 Age 45 - 55",601
 1008014,"[HIV] Pop12023 - female patients in cohort 1 Age 55+",1111
-1008015,"[HIV] Pop12023 - female patients in cohort 1 NHW",945
-1008016,"[HIV] Pop12023 - female patients in cohort 1 NHB",0
-1008017,"[HIV] Pop12023 - female patients in cohort 1 Hispanic",0
-1008018,"[HIV] Pop12023 - female patients in cohort 1 AAPI",409
-2001001,"[HIV] Pop22016 - male patients in cohort 2 Age 15 - 29",1086580
-2001002,"[HIV] Pop22016 - male patients in cohort 2 Age 30 - 44",1319333
-2001003,"[HIV] Pop22016 - male patients in cohort 2 Age 45 - 55",1532415
-2001004,"[HIV] Pop22016 - male patients in cohort 2 Age 55+",4470871
-2001005,"[HIV] Pop22016 - male patients in cohort 1 NHW",5662004
-2001006,"[HIV] Pop22016 - male patients in cohort 1 NHB",0
-2001007,"[HIV] Pop22016 - male patients in cohort 1 Hispanic",40798
-2001008,"[HIV] Pop22016 - male patients in cohort 1 AAPI",157437
-2001011,"[HIV] Pop22016 - female patients in cohort 2 Age 15 - 29",1856836
-2001012,"[HIV] Pop22016 - female patients in cohort 2 Age 30 - 44",2229438
-2001013,"[HIV] Pop22016 - female patients in cohort 2 Age 45 - 55",2139501
-2001014,"[HIV] Pop22016 - female patients in cohort 2 Age 55+",5592921
-2001015,"[HIV] Pop22016 - female patients in cohort 1 NHW",7829738
-2001016,"[HIV] Pop22016 - female patients in cohort 1 NHB",0
-2001017,"[HIV] Pop22016 - female patients in cohort 1 Hispanic",61670
-2001018,"[HIV] Pop22016 - female patients in cohort 1 AAPI",235295
-2002001,"[HIV] Pop22017 - male patients in cohort 2 Age 15 - 29",1041272
-2002002,"[HIV] Pop22017 - male patients in cohort 2 Age 30 - 44",1245988
-2002003,"[HIV] Pop22017 - male patients in cohort 2 Age 45 - 55",1440188
-2002004,"[HIV] Pop22017 - male patients in cohort 2 Age 55+",4418563
-2002005,"[HIV] Pop22017 - male patients in cohort 1 NHW",5538337
-2002006,"[HIV] Pop22017 - male patients in cohort 1 NHB",0
-2002007,"[HIV] Pop22017 - male patients in cohort 1 Hispanic",34819
-2002008,"[HIV] Pop22017 - male patients in cohort 1 AAPI",146309
-2002011,"[HIV] Pop22017 - female patients in cohort 2 Age 15 - 29",1764554
-2002012,"[HIV] Pop22017 - female patients in cohort 2 Age 30 - 44",2114893
-2002013,"[HIV] Pop22017 - female patients in cohort 2 Age 45 - 55",2014940
-2002014,"[HIV] Pop22017 - female patients in cohort 2 Age 55+",5500300
-2002015,"[HIV] Pop22017 - female patients in cohort 1 NHW",7621307
-2002016,"[HIV] Pop22017 - female patients in cohort 1 NHB",0
-2002017,"[HIV] Pop22017 - female patients in cohort 1 Hispanic",53315
-2002018,"[HIV] Pop22017 - female patients in cohort 1 AAPI",220577
-2003001,"[HIV] Pop22018 - male patients in cohort 2 Age 15 - 29",950571
-2003002,"[HIV] Pop22018 - male patients in cohort 2 Age 30 - 44",1150747
-2003003,"[HIV] Pop22018 - male patients in cohort 2 Age 45 - 55",1306429
-2003004,"[HIV] Pop22018 - male patients in cohort 2 Age 55+",4242703
-2003005,"[HIV] Pop22018 - male patients in cohort 1 NHW",5199759
-2003006,"[HIV] Pop22018 - male patients in cohort 1 NHB",0
-2003007,"[HIV] Pop22018 - male patients in cohort 1 Hispanic",19978
-2003008,"[HIV] Pop22018 - male patients in cohort 1 AAPI",136427
-2003011,"[HIV] Pop22018 - female patients in cohort 2 Age 15 - 29",1614271
-2003012,"[HIV] Pop22018 - female patients in cohort 2 Age 30 - 44",1957600
-2003013,"[HIV] Pop22018 - female patients in cohort 2 Age 45 - 55",1836055
-2003014,"[HIV] Pop22018 - female patients in cohort 2 Age 55+",5248511
-2003015,"[HIV] Pop22018 - female patients in cohort 1 NHW",7122657
-2003016,"[HIV] Pop22018 - female patients in cohort 1 NHB",0
-2003017,"[HIV] Pop22018 - female patients in cohort 1 Hispanic",30125
-2003018,"[HIV] Pop22018 - female patients in cohort 1 AAPI",205916
-2004001,"[HIV] Pop22019 - male patients in cohort 2 Age 15 - 29",849132
-2004002,"[HIV] Pop22019 - male patients in cohort 2 Age 30 - 44",1042608
-2004003,"[HIV] Pop22019 - male patients in cohort 2 Age 45 - 55",1170440
-2004004,"[HIV] Pop22019 - male patients in cohort 2 Age 55+",3995650
-2004005,"[HIV] Pop22019 - male patients in cohort 1 NHW",4796241
-2004006,"[HIV] Pop22019 - male patients in cohort 1 NHB",0
-2004007,"[HIV] Pop22019 - male patients in cohort 1 Hispanic",14805
-2004008,"[HIV] Pop22019 - male patients in cohort 1 AAPI",127953
-2004011,"[HIV] Pop22019 - female patients in cohort 2 Age 15 - 29",1425893
-2004012,"[HIV] Pop22019 - female patients in cohort 2 Age 30 - 44",1762161
-2004013,"[HIV] Pop22019 - female patients in cohort 2 Age 45 - 55",1639737
-2004014,"[HIV] Pop22019 - female patients in cohort 2 Age 55+",4887745
-2004015,"[HIV] Pop22019 - female patients in cohort 1 NHW",6509515
-2004016,"[HIV] Pop22019 - female patients in cohort 1 NHB",0
-2004017,"[HIV] Pop22019 - female patients in cohort 1 Hispanic",22680
-2004018,"[HIV] Pop22019 - female patients in cohort 1 AAPI",191727
-2005001,"[HIV] Pop22020 - male patients in cohort 2 Age 15 - 29",748230
-2005002,"[HIV] Pop22020 - male patients in cohort 2 Age 30 - 44",941311
-2005003,"[HIV] Pop22020 - male patients in cohort 2 Age 45 - 55",1045295
-2005004,"[HIV] Pop22020 - male patients in cohort 2 Age 55+",3694476
-2005005,"[HIV] Pop22020 - male patients in cohort 1 NHW",4316279
-2005006,"[HIV] Pop22020 - male patients in cohort 1 NHB",0
-2005007,"[HIV] Pop22020 - male patients in cohort 1 Hispanic",8118
-2005008,"[HIV] Pop22020 - male patients in cohort 1 AAPI",116114
-2005011,"[HIV] Pop22020 - female patients in cohort 2 Age 15 - 29",1274142
-2005012,"[HIV] Pop22020 - female patients in cohort 2 Age 30 - 44",1603882
-2005013,"[HIV] Pop22020 - female patients in cohort 2 Age 45 - 55",1461769
-2005014,"[HIV] Pop22020 - female patients in cohort 2 Age 55+",4468460
-2005015,"[HIV] Pop22020 - female patients in cohort 1 NHW",5851464
-2005016,"[HIV] Pop22020 - female patients in cohort 1 NHB",0
-2005017,"[HIV] Pop22020 - female patients in cohort 1 Hispanic",12244
-2005018,"[HIV] Pop22020 - female patients in cohort 1 AAPI",172487
-2006001,"[HIV] Pop22021 - male patients in cohort 2 Age 15 - 29",712015
-2006002,"[HIV] Pop22021 - male patients in cohort 2 Age 30 - 44",904932
-2006003,"[HIV] Pop22021 - male patients in cohort 2 Age 45 - 55",980613
-2006004,"[HIV] Pop22021 - male patients in cohort 2 Age 55+",3551301
-2006005,"[HIV] Pop22021 - male patients in cohort 1 NHW",4015695
-2006006,"[HIV] Pop22021 - male patients in cohort 1 NHB",0
-2006007,"[HIV] Pop22021 - male patients in cohort 1 Hispanic",958
-2006008,"[HIV] Pop22021 - male patients in cohort 1 AAPI",108970
-2006011,"[HIV] Pop22021 - female patients in cohort 2 Age 15 - 29",1186501
-2006012,"[HIV] Pop22021 - female patients in cohort 2 Age 30 - 44",1526556
-2006013,"[HIV] Pop22021 - female patients in cohort 2 Age 45 - 55",1376094
-2006014,"[HIV] Pop22021 - female patients in cohort 2 Age 55+",4304725
-2006015,"[HIV] Pop22021 - female patients in cohort 1 NHW",5445257
-2006016,"[HIV] Pop22021 - female patients in cohort 1 NHB",0
-2006017,"[HIV] Pop22021 - female patients in cohort 1 Hispanic",1304
-2006018,"[HIV] Pop22021 - female patients in cohort 1 AAPI",162411
-2007001,"[HIV] Pop22022 - male patients in cohort 2 Age 15 - 29",587436
-2007002,"[HIV] Pop22022 - male patients in cohort 2 Age 30 - 44",756344
-2007003,"[HIV] Pop22022 - male patients in cohort 2 Age 45 - 55",820417
-2007004,"[HIV] Pop22022 - male patients in cohort 2 Age 55+",3064373
-2007005,"[HIV] Pop22022 - male patients in cohort 1 NHW",3338452
-2007006,"[HIV] Pop22022 - male patients in cohort 1 NHB",0
-2007007,"[HIV] Pop22022 - male patients in cohort 1 Hispanic",71
-2007008,"[HIV] Pop22022 - male patients in cohort 1 AAPI",88048
-2007011,"[HIV] Pop22022 - female patients in cohort 2 Age 15 - 29",974513
-2007012,"[HIV] Pop22022 - female patients in cohort 2 Age 30 - 44",1266750
-2007013,"[HIV] Pop22022 - female patients in cohort 2 Age 45 - 55",1154633
-2007014,"[HIV] Pop22022 - female patients in cohort 2 Age 55+",3704893
-2007015,"[HIV] Pop22022 - female patients in cohort 1 NHW",4514408
-2007016,"[HIV] Pop22022 - female patients in cohort 1 NHB",0
-2007017,"[HIV] Pop22022 - female patients in cohort 1 Hispanic",82
-2007018,"[HIV] Pop22022 - female patients in cohort 1 AAPI",129777
-2008001,"[HIV] Pop22023 - male patients in cohort 2 Age 15 - 29",525336
-2008002,"[HIV] Pop22023 - male patients in cohort 2 Age 30 - 44",684600
-2008003,"[HIV] Pop22023 - male patients in cohort 2 Age 45 - 55",735194
-2008004,"[HIV] Pop22023 - male patients in cohort 2 Age 55+",2845798
-2008005,"[HIV] Pop22023 - male patients in cohort 1 NHW",3007203
-2008006,"[HIV] Pop22023 - male patients in cohort 1 NHB",0
-2008007,"[HIV] Pop22023 - male patients in cohort 1 Hispanic",4
-2008008,"[HIV] Pop22023 - male patients in cohort 1 AAPI",82251
-2008011,"[HIV] Pop22023 - female patients in cohort 2 Age 15 - 29",861647
-2008012,"[HIV] Pop22023 - female patients in cohort 2 Age 30 - 44",1135785
-2008013,"[HIV] Pop22023 - female patients in cohort 2 Age 45 - 55",1029774
-2008014,"[HIV] Pop22023 - female patients in cohort 2 Age 55+",3391877
-2008015,"[HIV] Pop22023 - female patients in cohort 1 NHW",4022289
-2008016,"[HIV] Pop22023 - female patients in cohort 1 NHB",0
-2008017,"[HIV] Pop22023 - female patients in cohort 1 Hispanic",9
-2008018,"[HIV] Pop22023 - female patients in cohort 1 AAPI",118292
+1008015,"[HIV] Pop12023 - female patients in cohort 1 White",945
+1008016,"[HIV] Pop12023 - female patients in cohort 1 Asian",409
+1008017,"[HIV] Pop12023 - female patients in cohort 1 African American",507
+1008018,"[HIV] Pop12023 - female patients in cohort 1 Hispanic",0
+2001001,"[HIV] Pop22016 - male patients in cohort 2 Age 15 - 29",1092579
+2001002,"[HIV] Pop22016 - male patients in cohort 2 Age 30 - 44",1329328
+2001003,"[HIV] Pop22016 - male patients in cohort 2 Age 45 - 55",1542414
+2001004,"[HIV] Pop22016 - male patients in cohort 2 Age 55+",4480167
+2001005,"[HIV] Pop22016 - male patients in cohort 2 White",5680220
+2001006,"[HIV] Pop22016 - male patients in cohort 2 Asian",159169
+2001007,"[HIV] Pop22016 - male patients in cohort 2 African American",552583
+2001008,"[HIV] Pop22016 - male patients in cohort 2 Hispanic",0
+2001011,"[HIV] Pop22016 - female patients in cohort 2 Age 15 - 29",1858399
+2001012,"[HIV] Pop22016 - female patients in cohort 2 Age 30 - 44",2232435
+2001013,"[HIV] Pop22016 - female patients in cohort 2 Age 45 - 55",2142643
+2001014,"[HIV] Pop22016 - female patients in cohort 2 Age 55+",5596286
+2001015,"[HIV] Pop22016 - female patients in cohort 2 White",7833509
+2001016,"[HIV] Pop22016 - female patients in cohort 2 Asian",236426
+2001017,"[HIV] Pop22016 - female patients in cohort 2 African American",927385
+2001018,"[HIV] Pop22016 - female patients in cohort 2 Hispanic",0
+2002001,"[HIV] Pop22017 - male patients in cohort 2 Age 15 - 29",1048269
+2002002,"[HIV] Pop22017 - male patients in cohort 2 Age 30 - 44",1257832
+2002003,"[HIV] Pop22017 - male patients in cohort 2 Age 45 - 55",1451206
+2002004,"[HIV] Pop22017 - male patients in cohort 2 Age 55+",4429901
+2002005,"[HIV] Pop22017 - male patients in cohort 2 White",5559669
+2002006,"[HIV] Pop22017 - male patients in cohort 2 Asian",148314
+2002007,"[HIV] Pop22017 - male patients in cohort 2 African American",556655
+2002008,"[HIV] Pop22017 - male patients in cohort 2 Hispanic",0
+2002011,"[HIV] Pop22017 - female patients in cohort 2 Age 15 - 29",1766269
+2002012,"[HIV] Pop22017 - female patients in cohort 2 Age 30 - 44",2118334
+2002013,"[HIV] Pop22017 - female patients in cohort 2 Age 45 - 55",2018436
+2002014,"[HIV] Pop22017 - female patients in cohort 2 Age 55+",5504442
+2002015,"[HIV] Pop22017 - female patients in cohort 2 White",7625704
+2002016,"[HIV] Pop22017 - female patients in cohort 2 Asian",221831
+2002017,"[HIV] Pop22017 - female patients in cohort 2 African American",927584
+2002018,"[HIV] Pop22017 - female patients in cohort 2 Hispanic",0
+2003001,"[HIV] Pop22018 - male patients in cohort 2 Age 15 - 29",957858
+2003002,"[HIV] Pop22018 - male patients in cohort 2 Age 30 - 44",1163717
+2003003,"[HIV] Pop22018 - male patients in cohort 2 Age 45 - 55",1317653
+2003004,"[HIV] Pop22018 - male patients in cohort 2 Age 55+",4255499
+2003005,"[HIV] Pop22018 - male patients in cohort 2 White",5222772
+2003006,"[HIV] Pop22018 - male patients in cohort 2 Asian",138530
+2003007,"[HIV] Pop22018 - male patients in cohort 2 African American",547751
+2003008,"[HIV] Pop22018 - male patients in cohort 2 Hispanic",0
+2003011,"[HIV] Pop22018 - female patients in cohort 2 Age 15 - 29",1616027
+2003012,"[HIV] Pop22018 - female patients in cohort 2 Age 30 - 44",1961052
+2003013,"[HIV] Pop22018 - female patients in cohort 2 Age 45 - 55",1839656
+2003014,"[HIV] Pop22018 - female patients in cohort 2 Age 55+",5253011
+2003015,"[HIV] Pop22018 - female patients in cohort 2 White",7127230
+2003016,"[HIV] Pop22018 - female patients in cohort 2 Asian",207161
+2003017,"[HIV] Pop22018 - female patients in cohort 2 African American",905289
+2003018,"[HIV] Pop22018 - female patients in cohort 2 Hispanic",0
+2004001,"[HIV] Pop22019 - male patients in cohort 2 Age 15 - 29",856035
+2004002,"[HIV] Pop22019 - male patients in cohort 2 Age 30 - 44",1055616
+2004003,"[HIV] Pop22019 - male patients in cohort 2 Age 45 - 55",1181000
+2004004,"[HIV] Pop22019 - male patients in cohort 2 Age 55+",4009216
+2004005,"[HIV] Pop22019 - male patients in cohort 2 White",4819254
+2004006,"[HIV] Pop22019 - male patients in cohort 2 Asian",130018
+2004007,"[HIV] Pop22019 - male patients in cohort 2 African American",482787
+2004008,"[HIV] Pop22019 - male patients in cohort 2 Hispanic",0
+2004011,"[HIV] Pop22019 - female patients in cohort 2 Age 15 - 29",1427604
+2004012,"[HIV] Pop22019 - female patients in cohort 2 Age 30 - 44",1765500
+2004013,"[HIV] Pop22019 - female patients in cohort 2 Age 45 - 55",1643148
+2004014,"[HIV] Pop22019 - female patients in cohort 2 Age 55+",4892384
+2004015,"[HIV] Pop22019 - female patients in cohort 2 White",6514070
+2004016,"[HIV] Pop22019 - female patients in cohort 2 Asian",192906
+2004017,"[HIV] Pop22019 - female patients in cohort 2 African American",779137
+2004018,"[HIV] Pop22019 - female patients in cohort 2 Hispanic",0
+2005001,"[HIV] Pop22020 - male patients in cohort 2 Age 15 - 29",754221
+2005002,"[HIV] Pop22020 - male patients in cohort 2 Age 30 - 44",953718
+2005003,"[HIV] Pop22020 - male patients in cohort 2 Age 45 - 55",1054671
+2005004,"[HIV] Pop22020 - male patients in cohort 2 Age 55+",3708072
+2005005,"[HIV] Pop22020 - male patients in cohort 2 White",4338044
+2005006,"[HIV] Pop22020 - male patients in cohort 2 Asian",118076
+2005007,"[HIV] Pop22020 - male patients in cohort 2 African American",439290
+2005008,"[HIV] Pop22020 - male patients in cohort 2 Hispanic",0
+2005011,"[HIV] Pop22020 - female patients in cohort 2 Age 15 - 29",1275716
+2005012,"[HIV] Pop22020 - female patients in cohort 2 Age 30 - 44",1607003
+2005013,"[HIV] Pop22020 - female patients in cohort 2 Age 45 - 55",1464909
+2005014,"[HIV] Pop22020 - female patients in cohort 2 Age 55+",4473208
+2005015,"[HIV] Pop22020 - female patients in cohort 2 White",5855929
+2005016,"[HIV] Pop22020 - female patients in cohort 2 Asian",173604
+2005017,"[HIV] Pop22020 - female patients in cohort 2 African American",709988
+2005018,"[HIV] Pop22020 - female patients in cohort 2 Hispanic",0
+2006001,"[HIV] Pop22021 - male patients in cohort 2 Age 15 - 29",717353
+2006002,"[HIV] Pop22021 - male patients in cohort 2 Age 30 - 44",916695
+2006003,"[HIV] Pop22021 - male patients in cohort 2 Age 45 - 55",988816
+2006004,"[HIV] Pop22021 - male patients in cohort 2 Age 55+",3564589
+2006005,"[HIV] Pop22021 - male patients in cohort 2 White",4035649
+2006006,"[HIV] Pop22021 - male patients in cohort 2 Asian",110814
+2006007,"[HIV] Pop22021 - male patients in cohort 2 African American",415247
+2006008,"[HIV] Pop22021 - male patients in cohort 2 Hispanic",0
+2006011,"[HIV] Pop22021 - female patients in cohort 2 Age 15 - 29",1187794
+2006012,"[HIV] Pop22021 - female patients in cohort 2 Age 30 - 44",1529302
+2006013,"[HIV] Pop22021 - female patients in cohort 2 Age 45 - 55",1378870
+2006014,"[HIV] Pop22021 - female patients in cohort 2 Age 55+",4309188
+2006015,"[HIV] Pop22021 - female patients in cohort 2 White",5449280
+2006016,"[HIV] Pop22021 - female patients in cohort 2 Asian",163397
+2006017,"[HIV] Pop22021 - female patients in cohort 2 African American",672799
+2006018,"[HIV] Pop22021 - female patients in cohort 2 Hispanic",0
+2007001,"[HIV] Pop22022 - male patients in cohort 2 Age 15 - 29",591617
+2007002,"[HIV] Pop22022 - male patients in cohort 2 Age 30 - 44",766600
+2007003,"[HIV] Pop22022 - male patients in cohort 2 Age 45 - 55",827095
+2007004,"[HIV] Pop22022 - male patients in cohort 2 Age 55+",3075847
+2007005,"[HIV] Pop22022 - male patients in cohort 2 White",3354978
+2007006,"[HIV] Pop22022 - male patients in cohort 2 Asian",89619
+2007007,"[HIV] Pop22022 - male patients in cohort 2 African American",343750
+2007008,"[HIV] Pop22022 - male patients in cohort 2 Hispanic",0
+2007011,"[HIV] Pop22022 - female patients in cohort 2 Age 15 - 29",975529
+2007012,"[HIV] Pop22022 - female patients in cohort 2 Age 30 - 44",1268914
+2007013,"[HIV] Pop22022 - female patients in cohort 2 Age 45 - 55",1156777
+2007014,"[HIV] Pop22022 - female patients in cohort 2 Age 55+",3708626
+2007015,"[HIV] Pop22022 - female patients in cohort 2 White",4517614
+2007016,"[HIV] Pop22022 - female patients in cohort 2 Asian",130604
+2007017,"[HIV] Pop22022 - female patients in cohort 2 African American",556117
+2007018,"[HIV] Pop22022 - female patients in cohort 2 Hispanic",0
+2008001,"[HIV] Pop22023 - male patients in cohort 2 Age 15 - 29",528882
+2008002,"[HIV] Pop22023 - male patients in cohort 2 Age 30 - 44",694218
+2008003,"[HIV] Pop22023 - male patients in cohort 2 Age 45 - 55",741109
+2008004,"[HIV] Pop22023 - male patients in cohort 2 Age 55+",2856438
+2008005,"[HIV] Pop22023 - male patients in cohort 2 White",3022151
+2008006,"[HIV] Pop22023 - male patients in cohort 2 Asian",83709
+2008007,"[HIV] Pop22023 - male patients in cohort 2 African American",311042
+2008008,"[HIV] Pop22023 - male patients in cohort 2 Hispanic",0
+2008011,"[HIV] Pop22023 - female patients in cohort 2 Age 15 - 29",862491
+2008012,"[HIV] Pop22023 - female patients in cohort 2 Age 30 - 44",1137620
+2008013,"[HIV] Pop22023 - female patients in cohort 2 Age 45 - 55",1031609
+2008014,"[HIV] Pop22023 - female patients in cohort 2 Age 55+",3395200
+2008015,"[HIV] Pop22023 - female patients in cohort 2 White",4025010
+2008016,"[HIV] Pop22023 - female patients in cohort 2 Asian",119025
+2008017,"[HIV] Pop22023 - female patients in cohort 2 African American",496691
+2008018,"[HIV] Pop22023 - female patients in cohort 2 Hispanic",0
 3001001,"[HIV] Pop3Template2016 - male patients in cohort 3 Age 15 - 29",2389
 3001002,"[HIV] Pop3Template2016 - male patients in cohort 3 Age 30 - 44",4606
 3001003,"[HIV] Pop3Template2016 - male patients in cohort 3 Age 45 - 55",3635
 3001004,"[HIV] Pop3Template2016 - male patients in cohort 3 Age 55+",2816
-3001005,"[HIV] Pop3Template2016 - male patients in cohort 3 NHW",6630
-3001006,"[HIV] Pop3Template2016 - male patients in cohort 3 NHB",0
-3001007,"[HIV] Pop3Template2016 - male patients in cohort 3 Hispanic",42
-3001008,"[HIV] Pop3Template2016 - male patients in cohort 3 AAPI",784
+3001005,"[HIV] Pop3Template2016 - male patients in cohort 3 White",6630
+3001006,"[HIV] Pop3Template2016 - male patients in cohort 3 Asian",784
+3001007,"[HIV] Pop3Template2016 - male patients in cohort 3 African American",2150
+3001008,"[HIV] Pop3Template2016 - male patients in cohort 3 Hispanic",0
 3001011,"[HIV] Pop3Template2016 - female patients in cohort 3 Age 15 - 29",441
 3001012,"[HIV] Pop3Template2016 - female patients in cohort 3 Age 30 - 44",1060
 3001013,"[HIV] Pop3Template2016 - female patients in cohort 3 Age 45 - 55",1032
 3001014,"[HIV] Pop3Template2016 - female patients in cohort 3 Age 55+",949
-3001015,"[HIV] Pop3Template2016 - female patients in cohort 3 NHW",935
-3001016,"[HIV] Pop3Template2016 - female patients in cohort 3 NHB",0
-3001017,"[HIV] Pop3Template2016 - female patients in cohort 3 Hispanic",10
-3001018,"[HIV] Pop3Template2016 - female patients in cohort 3 AAPI",510
+3001015,"[HIV] Pop3Template2016 - female patients in cohort 3 White",935
+3001016,"[HIV] Pop3Template2016 - female patients in cohort 3 Asian",510
+3001017,"[HIV] Pop3Template2016 - female patients in cohort 3 African American",1099
+3001018,"[HIV] Pop3Template2016 - female patients in cohort 3 Hispanic",0
 3001030,"[HIV] Pop3Template2016 - male patients in cohort 3 males",13446
 3001040,"[HIV] Pop3Template2016 - female patients in cohort 3 females",3482
 3002001,"[HIV] Pop3Template2017 - male patients in cohort 3 Age 15 - 29",3109
 3002002,"[HIV] Pop3Template2017 - male patients in cohort 3 Age 30 - 44",5837
 3002003,"[HIV] Pop3Template2017 - male patients in cohort 3 Age 45 - 55",4356
 3002004,"[HIV] Pop3Template2017 - male patients in cohort 3 Age 55+",3531
-3002005,"[HIV] Pop3Template2017 - male patients in cohort 3 NHW",8418
-3002006,"[HIV] Pop3Template2017 - male patients in cohort 3 NHB",0
-3002007,"[HIV] Pop3Template2017 - male patients in cohort 3 Hispanic",59
-3002008,"[HIV] Pop3Template2017 - male patients in cohort 3 AAPI",878
+3002005,"[HIV] Pop3Template2017 - male patients in cohort 3 White",8418
+3002006,"[HIV] Pop3Template2017 - male patients in cohort 3 Asian",878
+3002007,"[HIV] Pop3Template2017 - male patients in cohort 3 African American",3082
+3002008,"[HIV] Pop3Template2017 - male patients in cohort 3 Hispanic",0
 3002011,"[HIV] Pop3Template2017 - female patients in cohort 3 Age 15 - 29",511
 3002012,"[HIV] Pop3Template2017 - female patients in cohort 3 Age 30 - 44",1292
 3002013,"[HIV] Pop3Template2017 - female patients in cohort 3 Age 45 - 55",1203
 3002014,"[HIV] Pop3Template2017 - female patients in cohort 3 Age 55+",1247
-3002015,"[HIV] Pop3Template2017 - female patients in cohort 3 NHW",1158
-3002016,"[HIV] Pop3Template2017 - female patients in cohort 3 NHB",0
-3002017,"[HIV] Pop3Template2017 - female patients in cohort 3 Hispanic",12
-3002018,"[HIV] Pop3Template2017 - female patients in cohort 3 AAPI",502
+3002015,"[HIV] Pop3Template2017 - female patients in cohort 3 White",1158
+3002016,"[HIV] Pop3Template2017 - female patients in cohort 3 Asian",502
+3002017,"[HIV] Pop3Template2017 - female patients in cohort 3 African American",1509
+3002018,"[HIV] Pop3Template2017 - female patients in cohort 3 Hispanic",0
 3002030,"[HIV] Pop3Template2017 - male patients in cohort 3 males",16833
 3002040,"[HIV] Pop3Template2017 - female patients in cohort 3 females",4253
 3003001,"[HIV] Pop3Template2018 - male patients in cohort 3 Age 15 - 29",3467
 3003002,"[HIV] Pop3Template2018 - male patients in cohort 3 Age 30 - 44",6400
 3003003,"[HIV] Pop3Template2018 - male patients in cohort 3 Age 45 - 55",4474
 3003004,"[HIV] Pop3Template2018 - male patients in cohort 3 Age 55+",3953
-3003005,"[HIV] Pop3Template2018 - male patients in cohort 3 NHW",9243
-3003006,"[HIV] Pop3Template2018 - male patients in cohort 3 NHB",0
-3003007,"[HIV] Pop3Template2018 - male patients in cohort 3 Hispanic",39
-3003008,"[HIV] Pop3Template2018 - male patients in cohort 3 AAPI",910
+3003005,"[HIV] Pop3Template2018 - male patients in cohort 3 White",9243
+3003006,"[HIV] Pop3Template2018 - male patients in cohort 3 Asian",910
+3003007,"[HIV] Pop3Template2018 - male patients in cohort 3 African American",3442
+3003008,"[HIV] Pop3Template2018 - male patients in cohort 3 Hispanic",0
 3003011,"[HIV] Pop3Template2018 - female patients in cohort 3 Age 15 - 29",566
 3003012,"[HIV] Pop3Template2018 - female patients in cohort 3 Age 30 - 44",1279
 3003013,"[HIV] Pop3Template2018 - female patients in cohort 3 Age 45 - 55",1197
 3003014,"[HIV] Pop3Template2018 - female patients in cohort 3 Age 55+",1310
-3003015,"[HIV] Pop3Template2018 - female patients in cohort 3 NHW",1221
-3003016,"[HIV] Pop3Template2018 - female patients in cohort 3 NHB",0
-3003017,"[HIV] Pop3Template2018 - female patients in cohort 3 Hispanic",8
-3003018,"[HIV] Pop3Template2018 - female patients in cohort 3 AAPI",501
+3003015,"[HIV] Pop3Template2018 - female patients in cohort 3 White",1221
+3003016,"[HIV] Pop3Template2018 - female patients in cohort 3 Asian",501
+3003017,"[HIV] Pop3Template2018 - female patients in cohort 3 African American",1612
+3003018,"[HIV] Pop3Template2018 - female patients in cohort 3 Hispanic",0
 3003030,"[HIV] Pop3Template2018 - male patients in cohort 3 males",18294
 3003040,"[HIV] Pop3Template2018 - female patients in cohort 3 females",4352
 3004001,"[HIV] Pop3Template2019 - male patients in cohort 3 Age 15 - 29",3285
 3004002,"[HIV] Pop3Template2019 - male patients in cohort 3 Age 30 - 44",6390
 3004003,"[HIV] Pop3Template2019 - male patients in cohort 3 Age 45 - 55",4310
 3004004,"[HIV] Pop3Template2019 - male patients in cohort 3 Age 55+",4150
-3004005,"[HIV] Pop3Template2019 - male patients in cohort 3 NHW",9262
-3004006,"[HIV] Pop3Template2019 - male patients in cohort 3 NHB",0
-3004007,"[HIV] Pop3Template2019 - male patients in cohort 3 Hispanic",38
-3004008,"[HIV] Pop3Template2019 - male patients in cohort 3 AAPI",879
+3004005,"[HIV] Pop3Template2019 - male patients in cohort 3 White",9262
+3004006,"[HIV] Pop3Template2019 - male patients in cohort 3 Asian",879
+3004007,"[HIV] Pop3Template2019 - male patients in cohort 3 African American",3316
+3004008,"[HIV] Pop3Template2019 - male patients in cohort 3 Hispanic",0
 3004011,"[HIV] Pop3Template2019 - female patients in cohort 3 Age 15 - 29",560
 3004012,"[HIV] Pop3Template2019 - female patients in cohort 3 Age 30 - 44",1296
 3004013,"[HIV] Pop3Template2019 - female patients in cohort 3 Age 45 - 55",1141
 3004014,"[HIV] Pop3Template2019 - female patients in cohort 3 Age 55+",1361
-3004015,"[HIV] Pop3Template2019 - female patients in cohort 3 NHW",1285
-3004016,"[HIV] Pop3Template2019 - female patients in cohort 3 NHB",0
-3004017,"[HIV] Pop3Template2019 - female patients in cohort 3 Hispanic",7
-3004018,"[HIV] Pop3Template2019 - female patients in cohort 3 AAPI",472
+3004015,"[HIV] Pop3Template2019 - female patients in cohort 3 White",1285
+3004016,"[HIV] Pop3Template2019 - female patients in cohort 3 Asian",472
+3004017,"[HIV] Pop3Template2019 - female patients in cohort 3 African American",1545
+3004018,"[HIV] Pop3Template2019 - female patients in cohort 3 Hispanic",0
 3004030,"[HIV] Pop3Template2019 - male patients in cohort 3 males",18135
 3004040,"[HIV] Pop3Template2019 - female patients in cohort 3 females",4358
 3005001,"[HIV] Pop3Template2020 - male patients in cohort 3 Age 15 - 29",2636
 3005002,"[HIV] Pop3Template2020 - male patients in cohort 3 Age 30 - 44",5476
 3005003,"[HIV] Pop3Template2020 - male patients in cohort 3 Age 45 - 55",3435
 3005004,"[HIV] Pop3Template2020 - male patients in cohort 3 Age 55+",3935
-3005005,"[HIV] Pop3Template2020 - male patients in cohort 3 NHW",7838
-3005006,"[HIV] Pop3Template2020 - male patients in cohort 3 NHB",0
-3005007,"[HIV] Pop3Template2020 - male patients in cohort 3 Hispanic",14
-3005008,"[HIV] Pop3Template2020 - male patients in cohort 3 AAPI",706
+3005005,"[HIV] Pop3Template2020 - male patients in cohort 3 White",7838
+3005006,"[HIV] Pop3Template2020 - male patients in cohort 3 Asian",706
+3005007,"[HIV] Pop3Template2020 - male patients in cohort 3 African American",2986
+3005008,"[HIV] Pop3Template2020 - male patients in cohort 3 Hispanic",0
 3005011,"[HIV] Pop3Template2020 - female patients in cohort 3 Age 15 - 29",478
 3005012,"[HIV] Pop3Template2020 - female patients in cohort 3 Age 30 - 44",1081
 3005013,"[HIV] Pop3Template2020 - female patients in cohort 3 Age 45 - 55",986
 3005014,"[HIV] Pop3Template2020 - female patients in cohort 3 Age 55+",1305
-3005015,"[HIV] Pop3Template2020 - female patients in cohort 3 NHW",1116
-3005016,"[HIV] Pop3Template2020 - female patients in cohort 3 NHB",0
-3005017,"[HIV] Pop3Template2020 - female patients in cohort 3 Hispanic",3
-3005018,"[HIV] Pop3Template2020 - female patients in cohort 3 AAPI",402
+3005015,"[HIV] Pop3Template2020 - female patients in cohort 3 White",1116
+3005016,"[HIV] Pop3Template2020 - female patients in cohort 3 Asian",402
+3005017,"[HIV] Pop3Template2020 - female patients in cohort 3 African American",1403
+3005018,"[HIV] Pop3Template2020 - female patients in cohort 3 Hispanic",0
 3005030,"[HIV] Pop3Template2020 - male patients in cohort 3 males",15482
 3005040,"[HIV] Pop3Template2020 - female patients in cohort 3 females",3850
 3006001,"[HIV] Pop3Template2021 - male patients in cohort 3 Age 15 - 29",2385
 3006002,"[HIV] Pop3Template2021 - male patients in cohort 3 Age 30 - 44",5005
 3006003,"[HIV] Pop3Template2021 - male patients in cohort 3 Age 45 - 55",2802
 3006004,"[HIV] Pop3Template2021 - male patients in cohort 3 Age 55+",3419
-3006005,"[HIV] Pop3Template2021 - male patients in cohort 3 NHW",6675
-3006006,"[HIV] Pop3Template2021 - male patients in cohort 3 NHB",0
-3006007,"[HIV] Pop3Template2021 - male patients in cohort 3 Hispanic",1
-3006008,"[HIV] Pop3Template2021 - male patients in cohort 3 AAPI",719
+3006005,"[HIV] Pop3Template2021 - male patients in cohort 3 White",6675
+3006006,"[HIV] Pop3Template2021 - male patients in cohort 3 Asian",719
+3006007,"[HIV] Pop3Template2021 - male patients in cohort 3 African American",2522
+3006008,"[HIV] Pop3Template2021 - male patients in cohort 3 Hispanic",0
 3006011,"[HIV] Pop3Template2021 - female patients in cohort 3 Age 15 - 29",374
 3006012,"[HIV] Pop3Template2021 - female patients in cohort 3 Age 30 - 44",896
 3006013,"[HIV] Pop3Template2021 - female patients in cohort 3 Age 45 - 55",747
 3006014,"[HIV] Pop3Template2021 - female patients in cohort 3 Age 55+",1106
-3006015,"[HIV] Pop3Template2021 - female patients in cohort 3 NHW",891
-3006016,"[HIV] Pop3Template2021 - female patients in cohort 3 NHB",0
-3006017,"[HIV] Pop3Template2021 - female patients in cohort 3 Hispanic",0
-3006018,"[HIV] Pop3Template2021 - female patients in cohort 3 AAPI",318
+3006015,"[HIV] Pop3Template2021 - female patients in cohort 3 White",891
+3006016,"[HIV] Pop3Template2021 - female patients in cohort 3 Asian",318
+3006017,"[HIV] Pop3Template2021 - female patients in cohort 3 African American",1129
+3006018,"[HIV] Pop3Template2021 - female patients in cohort 3 Hispanic",0
 3006030,"[HIV] Pop3Template2021 - male patients in cohort 3 males",13611
 3006040,"[HIV] Pop3Template2021 - female patients in cohort 3 females",3123
 3007001,"[HIV] Pop3Template2022 - male patients in cohort 3 Age 15 - 29",2053
 3007002,"[HIV] Pop3Template2022 - male patients in cohort 3 Age 30 - 44",4543
 3007003,"[HIV] Pop3Template2022 - male patients in cohort 3 Age 45 - 55",2344
 3007004,"[HIV] Pop3Template2022 - male patients in cohort 3 Age 55+",2973
-3007005,"[HIV] Pop3Template2022 - male patients in cohort 3 NHW",5796
-3007006,"[HIV] Pop3Template2022 - male patients in cohort 3 NHB",0
-3007007,"[HIV] Pop3Template2022 - male patients in cohort 3 Hispanic",0
-3007008,"[HIV] Pop3Template2022 - male patients in cohort 3 AAPI",659
+3007005,"[HIV] Pop3Template2022 - male patients in cohort 3 White",5796
+3007006,"[HIV] Pop3Template2022 - male patients in cohort 3 Asian",659
+3007007,"[HIV] Pop3Template2022 - male patients in cohort 3 African American",2017
+3007008,"[HIV] Pop3Template2022 - male patients in cohort 3 Hispanic",0
 3007011,"[HIV] Pop3Template2022 - female patients in cohort 3 Age 15 - 29",322
 3007012,"[HIV] Pop3Template2022 - female patients in cohort 3 Age 30 - 44",726
 3007013,"[HIV] Pop3Template2022 - female patients in cohort 3 Age 45 - 55",548
 3007014,"[HIV] Pop3Template2022 - female patients in cohort 3 Age 55+",886
-3007015,"[HIV] Pop3Template2022 - female patients in cohort 3 NHW",736
-3007016,"[HIV] Pop3Template2022 - female patients in cohort 3 NHB",0
-3007017,"[HIV] Pop3Template2022 - female patients in cohort 3 Hispanic",0
-3007018,"[HIV] Pop3Template2022 - female patients in cohort 3 AAPI",296
+3007015,"[HIV] Pop3Template2022 - female patients in cohort 3 White",736
+3007016,"[HIV] Pop3Template2022 - female patients in cohort 3 Asian",296
+3007017,"[HIV] Pop3Template2022 - female patients in cohort 3 African American",802
+3007018,"[HIV] Pop3Template2022 - female patients in cohort 3 Hispanic",0
 3007030,"[HIV] Pop3Template2022 - male patients in cohort 3 males",11913
 3007040,"[HIV] Pop3Template2022 - female patients in cohort 3 females",2482
 3008001,"[HIV] Pop3Template2023 - male patients in cohort 3 Age 15 - 29",2016
 3008002,"[HIV] Pop3Template2023 - male patients in cohort 3 Age 30 - 44",4702
 3008003,"[HIV] Pop3Template2023 - male patients in cohort 3 Age 45 - 55",2267
 3008004,"[HIV] Pop3Template2023 - male patients in cohort 3 Age 55+",2816
-3008005,"[HIV] Pop3Template2023 - male patients in cohort 3 NHW",5836
-3008006,"[HIV] Pop3Template2023 - male patients in cohort 3 NHB",0
-3008007,"[HIV] Pop3Template2023 - male patients in cohort 3 Hispanic",0
-3008008,"[HIV] Pop3Template2023 - male patients in cohort 3 AAPI",678
+3008005,"[HIV] Pop3Template2023 - male patients in cohort 3 White",5836
+3008006,"[HIV] Pop3Template2023 - male patients in cohort 3 Asian",678
+3008007,"[HIV] Pop3Template2023 - male patients in cohort 3 African American",1715
+3008008,"[HIV] Pop3Template2023 - male patients in cohort 3 Hispanic",0
 3008011,"[HIV] Pop3Template2023 - female patients in cohort 3 Age 15 - 29",300
 3008012,"[HIV] Pop3Template2023 - female patients in cohort 3 Age 30 - 44",660
 3008013,"[HIV] Pop3Template2023 - female patients in cohort 3 Age 45 - 55",513
 3008014,"[HIV] Pop3Template2023 - female patients in cohort 3 Age 55+",770
-3008015,"[HIV] Pop3Template2023 - female patients in cohort 3 NHW",640
-3008016,"[HIV] Pop3Template2023 - female patients in cohort 3 NHB",0
-3008017,"[HIV] Pop3Template2023 - female patients in cohort 3 Hispanic",0
-3008018,"[HIV] Pop3Template2023 - female patients in cohort 3 AAPI",320
+3008015,"[HIV] Pop3Template2023 - female patients in cohort 3 White",640
+3008016,"[HIV] Pop3Template2023 - female patients in cohort 3 Asian",320
+3008017,"[HIV] Pop3Template2023 - female patients in cohort 3 African American",693
+3008018,"[HIV] Pop3Template2023 - female patients in cohort 3 Hispanic",0
 3008030,"[HIV] Pop3Template2023 - male patients in cohort 3 males",11801
 3008040,"[HIV] Pop3Template2023 - female patients in cohort 3 females",2243
 3009030,"[HIV] Pop3Template2HR2016 - male patients in cohort 3 males",4922
@@ -799,22 +815,22 @@
 3039040,"[HIV] Pop3Template3HRlookback2022 - female patients in cohort 3 females",74
 3040030,"[HIV] Pop3Template3HRlookback2023 - male patients in cohort 3 males",1444
 3040040,"[HIV] Pop3Template3HRlookback2023 - female patients in cohort 3 females",84
-3041030,"[HIV] Pop3TemplateAnySTI2016 - male patients in cohort 3 males",1901
-3041040,"[HIV] Pop3TemplateAnySTI2016 - female patients in cohort 3 females",139
-3042030,"[HIV] Pop3TemplateAnySTI2017 - male patients in cohort 3 males",2145
-3042040,"[HIV] Pop3TemplateAnySTI2017 - female patients in cohort 3 females",157
-3043030,"[HIV] Pop3TemplateAnySTI2018 - male patients in cohort 3 males",2369
-3043040,"[HIV] Pop3TemplateAnySTI2018 - female patients in cohort 3 females",166
-3044030,"[HIV] Pop3TemplateAnySTI2019 - male patients in cohort 3 males",2392
-3044040,"[HIV] Pop3TemplateAnySTI2019 - female patients in cohort 3 females",180
-3045030,"[HIV] Pop3TemplateAnySTI2020 - male patients in cohort 3 males",1670
-3045040,"[HIV] Pop3TemplateAnySTI2020 - female patients in cohort 3 females",145
-3046030,"[HIV] Pop3TemplateAnySTI2021 - male patients in cohort 3 males",1756
-3046040,"[HIV] Pop3TemplateAnySTI2021 - female patients in cohort 3 females",136
-3047030,"[HIV] Pop3TemplateAnySTI2022 - male patients in cohort 3 males",1845
-3047040,"[HIV] Pop3TemplateAnySTI2022 - female patients in cohort 3 females",155
-3048030,"[HIV] Pop3TemplateAnySTI2023 - male patients in cohort 3 males",2088
-3048040,"[HIV] Pop3TemplateAnySTI2023 - female patients in cohort 3 females",160
+3041030,"[HIV] Pop3TemplateAnySTI2016 - male patients in cohort 3 males",2846
+3041040,"[HIV] Pop3TemplateAnySTI2016 - female patients in cohort 3 females",244
+3042030,"[HIV] Pop3TemplateAnySTI2017 - male patients in cohort 3 males",3201
+3042040,"[HIV] Pop3TemplateAnySTI2017 - female patients in cohort 3 females",262
+3043030,"[HIV] Pop3TemplateAnySTI2018 - male patients in cohort 3 males",3578
+3043040,"[HIV] Pop3TemplateAnySTI2018 - female patients in cohort 3 females",264
+3044030,"[HIV] Pop3TemplateAnySTI2019 - male patients in cohort 3 males",3569
+3044040,"[HIV] Pop3TemplateAnySTI2019 - female patients in cohort 3 females",290
+3045030,"[HIV] Pop3TemplateAnySTI2020 - male patients in cohort 3 males",2637
+3045040,"[HIV] Pop3TemplateAnySTI2020 - female patients in cohort 3 females",242
+3046030,"[HIV] Pop3TemplateAnySTI2021 - male patients in cohort 3 males",2701
+3046040,"[HIV] Pop3TemplateAnySTI2021 - female patients in cohort 3 females",220
+3047030,"[HIV] Pop3TemplateAnySTI2022 - male patients in cohort 3 males",2650
+3047040,"[HIV] Pop3TemplateAnySTI2022 - female patients in cohort 3 females",219
+3048030,"[HIV] Pop3TemplateAnySTI2023 - male patients in cohort 3 males",2852
+3048040,"[HIV] Pop3TemplateAnySTI2023 - female patients in cohort 3 females",222
 3049030,"[HIV] Pop3TemplateAnySTIlookback2016 - male patients in cohort 3 males",1901
 3049040,"[HIV] Pop3TemplateAnySTIlookback2016 - female patients in cohort 3 females",139
 3050030,"[HIV] Pop3TemplateAnySTIlookback2017 - male patients in cohort 3 males",2145
@@ -863,372 +879,388 @@
 3071040,"[HIV] Pop3TemplateGonnorrhoea2022 - female patients in cohort 3 females",78
 3072030,"[HIV] Pop3TemplateGonnorrhoea2023 - male patients in cohort 3 males",1714
 3072040,"[HIV] Pop3TemplateGonnorrhoea2023 - female patients in cohort 3 females",69
-3073030,"[HIV] Pop3TemplateHIVTest2016 - male patients in cohort 3 males",10032
-3073040,"[HIV] Pop3TemplateHIVTest2016 - female patients in cohort 3 females",2032
-3074030,"[HIV] Pop3TemplateHIVTest2017 - male patients in cohort 3 males",13161
-3074040,"[HIV] Pop3TemplateHIVTest2017 - female patients in cohort 3 females",2751
-3075030,"[HIV] Pop3TemplateHIVTest2018 - male patients in cohort 3 males",14709
-3075040,"[HIV] Pop3TemplateHIVTest2018 - female patients in cohort 3 females",2833
-3076030,"[HIV] Pop3TemplateHIVTest2019 - male patients in cohort 3 males",14648
-3076040,"[HIV] Pop3TemplateHIVTest2019 - female patients in cohort 3 females",2960
-3077030,"[HIV] Pop3TemplateHIVTest2020 - male patients in cohort 3 males",12568
-3077040,"[HIV] Pop3TemplateHIVTest2020 - female patients in cohort 3 females",2665
-3078030,"[HIV] Pop3TemplateHIVTest2021 - male patients in cohort 3 males",11252
-3078040,"[HIV] Pop3TemplateHIVTest2021 - female patients in cohort 3 females",2145
-3079030,"[HIV] Pop3TemplateHIVTest2022 - male patients in cohort 3 males",9902
-3079040,"[HIV] Pop3TemplateHIVTest2022 - female patients in cohort 3 females",1656
-3080030,"[HIV] Pop3TemplateHIVTest2023 - male patients in cohort 3 males",9910
-3080040,"[HIV] Pop3TemplateHIVTest2023 - female patients in cohort 3 females",1443
-3081030,"[HIV] Pop3TemplateHIVTestlookback2016 - male patients in cohort 3 males",6525
-3081040,"[HIV] Pop3TemplateHIVTestlookback2016 - female patients in cohort 3 females",1027
-3082030,"[HIV] Pop3TemplateHIVTestlookback2017 - male patients in cohort 3 males",7651
-3082040,"[HIV] Pop3TemplateHIVTestlookback2017 - female patients in cohort 3 females",1106
-3083030,"[HIV] Pop3TemplateHIVTestlookback2018 - male patients in cohort 3 males",8189
-3083040,"[HIV] Pop3TemplateHIVTestlookback2018 - female patients in cohort 3 females",1015
-3084030,"[HIV] Pop3TemplateHIVTestlookback2019 - male patients in cohort 3 males",7924
-3084040,"[HIV] Pop3TemplateHIVTestlookback2019 - female patients in cohort 3 females",1070
-3085030,"[HIV] Pop3TemplateHIVTestlookback2020 - male patients in cohort 3 males",5976
-3085040,"[HIV] Pop3TemplateHIVTestlookback2020 - female patients in cohort 3 females",799
-3086030,"[HIV] Pop3TemplateHIVTestlookback2021 - male patients in cohort 3 males",5488
-3086040,"[HIV] Pop3TemplateHIVTestlookback2021 - female patients in cohort 3 females",646
-3087030,"[HIV] Pop3TemplateHIVTestlookback2022 - male patients in cohort 3 males",5524
-3087040,"[HIV] Pop3TemplateHIVTestlookback2022 - female patients in cohort 3 females",630
-3088030,"[HIV] Pop3TemplateHIVTestlookback2023 - male patients in cohort 3 males",6089
-3088040,"[HIV] Pop3TemplateHIVTestlookback2023 - female patients in cohort 3 females",583
-3089030,"[HIV] Pop3TemplateHIVany2016 - male patients in cohort 3 males",6335
-3089040,"[HIV] Pop3TemplateHIVany2016 - female patients in cohort 3 females",0
-3090030,"[HIV] Pop3TemplateHIVany2017 - male patients in cohort 3 males",7960
-3090040,"[HIV] Pop3TemplateHIVany2017 - female patients in cohort 3 females",0
-3091030,"[HIV] Pop3TemplateHIVany2018 - male patients in cohort 3 males",9105
-3091040,"[HIV] Pop3TemplateHIVany2018 - female patients in cohort 3 females",0
-3092030,"[HIV] Pop3TemplateHIVany2019 - male patients in cohort 3 males",9021
-3092040,"[HIV] Pop3TemplateHIVany2019 - female patients in cohort 3 females",0
-3093030,"[HIV] Pop3TemplateHIVany2020 - male patients in cohort 3 males",7289
-3093040,"[HIV] Pop3TemplateHIVany2020 - female patients in cohort 3 females",0
-3094030,"[HIV] Pop3TemplateHIVany2021 - male patients in cohort 3 males",6780
-3094040,"[HIV] Pop3TemplateHIVany2021 - female patients in cohort 3 females",0
-3095030,"[HIV] Pop3TemplateHIVany2022 - male patients in cohort 3 males",6287
-3095040,"[HIV] Pop3TemplateHIVany2022 - female patients in cohort 3 females",0
-3096030,"[HIV] Pop3TemplateHIVany2023 - male patients in cohort 3 males",6256
-3096040,"[HIV] Pop3TemplateHIVany2023 - female patients in cohort 3 females",0
-3097030,"[HIV] Pop3TemplateHIVanylookback2016 - male patients in cohort 3 males",3778
-3097040,"[HIV] Pop3TemplateHIVanylookback2016 - female patients in cohort 3 females",352
-3098030,"[HIV] Pop3TemplateHIVanylookback2017 - male patients in cohort 3 males",4367
-3098040,"[HIV] Pop3TemplateHIVanylookback2017 - female patients in cohort 3 females",394
-3099030,"[HIV] Pop3TemplateHIVanylookback2018 - male patients in cohort 3 males",4992
-3099040,"[HIV] Pop3TemplateHIVanylookback2018 - female patients in cohort 3 females",382
-3100030,"[HIV] Pop3TemplateHIVanylookback2019 - male patients in cohort 3 males",4904
-3100040,"[HIV] Pop3TemplateHIVanylookback2019 - female patients in cohort 3 females",444
-3101030,"[HIV] Pop3TemplateHIVanylookback2020 - male patients in cohort 3 males",3475
-3101040,"[HIV] Pop3TemplateHIVanylookback2020 - female patients in cohort 3 females",320
-3102030,"[HIV] Pop3TemplateHIVanylookback2021 - male patients in cohort 3 males",3240
-3102040,"[HIV] Pop3TemplateHIVanylookback2021 - female patients in cohort 3 females",273
-3103030,"[HIV] Pop3TemplateHIVanylookback2022 - male patients in cohort 3 males",3471
-3103040,"[HIV] Pop3TemplateHIVanylookback2022 - female patients in cohort 3 females",311
-3104030,"[HIV] Pop3TemplateHIVanylookback2023 - male patients in cohort 3 males",3914
-3104040,"[HIV] Pop3TemplateHIVanylookback2023 - female patients in cohort 3 females",308
-3105030,"[HIV] Pop3TemplateOther2016 - male patients in cohort 3 males",4331
-3105040,"[HIV] Pop3TemplateOther2016 - female patients in cohort 3 females",391
-3106030,"[HIV] Pop3TemplateOther2017 - male patients in cohort 3 males",5198
-3106040,"[HIV] Pop3TemplateOther2017 - female patients in cohort 3 females",451
-3107030,"[HIV] Pop3TemplateOther2018 - male patients in cohort 3 males",6093
-3107040,"[HIV] Pop3TemplateOther2018 - female patients in cohort 3 females",467
-3108030,"[HIV] Pop3TemplateOther2019 - male patients in cohort 3 males",6057
-3108040,"[HIV] Pop3TemplateOther2019 - female patients in cohort 3 females",504
-3109030,"[HIV] Pop3TemplateOther2020 - male patients in cohort 3 males",4652
-3109040,"[HIV] Pop3TemplateOther2020 - female patients in cohort 3 females",399
-3110030,"[HIV] Pop3TemplateOther2021 - male patients in cohort 3 males",4266
-3110040,"[HIV] Pop3TemplateOther2021 - female patients in cohort 3 females",356
-3111030,"[HIV] Pop3TemplateOther2022 - male patients in cohort 3 males",4245
-3111040,"[HIV] Pop3TemplateOther2022 - female patients in cohort 3 females",350
-3112030,"[HIV] Pop3TemplateOther2023 - male patients in cohort 3 males",4510
-3112040,"[HIV] Pop3TemplateOther2023 - female patients in cohort 3 females",290
-3113030,"[HIV] Pop3TemplateOtherSTI2016 - male patients in cohort 3 males",2605
-3113040,"[HIV] Pop3TemplateOtherSTI2016 - female patients in cohort 3 females",305
-3114030,"[HIV] Pop3TemplateOtherSTI2017 - male patients in cohort 3 males",3034
-3114040,"[HIV] Pop3TemplateOtherSTI2017 - female patients in cohort 3 females",373
-3115030,"[HIV] Pop3TemplateOtherSTI2018 - male patients in cohort 3 males",3403
-3115040,"[HIV] Pop3TemplateOtherSTI2018 - female patients in cohort 3 females",406
-3116030,"[HIV] Pop3TemplateOtherSTI2019 - male patients in cohort 3 males",3386
-3116040,"[HIV] Pop3TemplateOtherSTI2019 - female patients in cohort 3 females",431
-3117030,"[HIV] Pop3TemplateOtherSTI2020 - male patients in cohort 3 males",2630
-3117040,"[HIV] Pop3TemplateOtherSTI2020 - female patients in cohort 3 females",382
-3118030,"[HIV] Pop3TemplateOtherSTI2021 - male patients in cohort 3 males",2653
-3118040,"[HIV] Pop3TemplateOtherSTI2021 - female patients in cohort 3 females",318
-3119030,"[HIV] Pop3TemplateOtherSTI2022 - male patients in cohort 3 males",2434
-3119040,"[HIV] Pop3TemplateOtherSTI2022 - female patients in cohort 3 females",278
-3120030,"[HIV] Pop3TemplateOtherSTI2023 - male patients in cohort 3 males",2426
-3120040,"[HIV] Pop3TemplateOtherSTI2023 - female patients in cohort 3 females",241
-3121030,"[HIV] Pop3TemplateOtherlookback2016 - male patients in cohort 3 males",3056
-3121040,"[HIV] Pop3TemplateOtherlookback2016 - female patients in cohort 3 females",264
-3122030,"[HIV] Pop3TemplateOtherlookback2017 - male patients in cohort 3 males",3371
-3122040,"[HIV] Pop3TemplateOtherlookback2017 - female patients in cohort 3 females",278
-3123030,"[HIV] Pop3TemplateOtherlookback2018 - male patients in cohort 3 males",3864
-3123040,"[HIV] Pop3TemplateOtherlookback2018 - female patients in cohort 3 females",279
-3124030,"[HIV] Pop3TemplateOtherlookback2019 - male patients in cohort 3 males",4102
-3124040,"[HIV] Pop3TemplateOtherlookback2019 - female patients in cohort 3 females",310
-3125030,"[HIV] Pop3TemplateOtherlookback2020 - male patients in cohort 3 males",3017
-3125040,"[HIV] Pop3TemplateOtherlookback2020 - female patients in cohort 3 females",221
-3126030,"[HIV] Pop3TemplateOtherlookback2021 - male patients in cohort 3 males",2435
-3126040,"[HIV] Pop3TemplateOtherlookback2021 - female patients in cohort 3 females",204
-3127030,"[HIV] Pop3TemplateOtherlookback2022 - male patients in cohort 3 males",2730
-3127040,"[HIV] Pop3TemplateOtherlookback2022 - female patients in cohort 3 females",219
-3128030,"[HIV] Pop3TemplateOtherlookback2023 - male patients in cohort 3 males",3279
-3128040,"[HIV] Pop3TemplateOtherlookback2023 - female patients in cohort 3 females",207
-3129030,"[HIV] Pop3TemplatePWID2016 - male patients in cohort 3 males",4962
-3129040,"[HIV] Pop3TemplatePWID2016 - female patients in cohort 3 females",1725
-3130030,"[HIV] Pop3TemplatePWID2017 - male patients in cohort 3 males",5572
-3130040,"[HIV] Pop3TemplatePWID2017 - female patients in cohort 3 females",1919
-3131030,"[HIV] Pop3TemplatePWID2018 - male patients in cohort 3 males",5826
-3131040,"[HIV] Pop3TemplatePWID2018 - female patients in cohort 3 females",1934
-3132030,"[HIV] Pop3TemplatePWID2019 - male patients in cohort 3 males",5483
-3132040,"[HIV] Pop3TemplatePWID2019 - female patients in cohort 3 females",1871
-3133030,"[HIV] Pop3TemplatePWID2020 - male patients in cohort 3 males",4506
-3133040,"[HIV] Pop3TemplatePWID2020 - female patients in cohort 3 females",1577
-3134030,"[HIV] Pop3TemplatePWID2021 - male patients in cohort 3 males",4282
-3134040,"[HIV] Pop3TemplatePWID2021 - female patients in cohort 3 females",1302
-3135030,"[HIV] Pop3TemplatePWID2022 - male patients in cohort 3 males",3591
-3135040,"[HIV] Pop3TemplatePWID2022 - female patients in cohort 3 females",1131
-3136030,"[HIV] Pop3TemplatePWID2023 - male patients in cohort 3 males",3249
-3136040,"[HIV] Pop3TemplatePWID2023 - female patients in cohort 3 females",1062
-3137030,"[HIV] Pop3TemplatePWIDlookback2016 - male patients in cohort 3 males",2022
-3137040,"[HIV] Pop3TemplatePWIDlookback2016 - female patients in cohort 3 females",777
-3138030,"[HIV] Pop3TemplatePWIDlookback2017 - male patients in cohort 3 males",2136
-3138040,"[HIV] Pop3TemplatePWIDlookback2017 - female patients in cohort 3 females",829
-3139030,"[HIV] Pop3TemplatePWIDlookback2018 - male patients in cohort 3 males",2300
-3139040,"[HIV] Pop3TemplatePWIDlookback2018 - female patients in cohort 3 females",809
-3140030,"[HIV] Pop3TemplatePWIDlookback2019 - male patients in cohort 3 males",2054
-3140040,"[HIV] Pop3TemplatePWIDlookback2019 - female patients in cohort 3 females",806
-3141030,"[HIV] Pop3TemplatePWIDlookback2020 - male patients in cohort 3 males",1537
-3141040,"[HIV] Pop3TemplatePWIDlookback2020 - female patients in cohort 3 females",640
-3142030,"[HIV] Pop3TemplatePWIDlookback2021 - male patients in cohort 3 males",1442
-3142040,"[HIV] Pop3TemplatePWIDlookback2021 - female patients in cohort 3 females",542
-3143030,"[HIV] Pop3TemplatePWIDlookback2022 - male patients in cohort 3 males",1312
-3143040,"[HIV] Pop3TemplatePWIDlookback2022 - female patients in cohort 3 females",497
-3144030,"[HIV] Pop3TemplatePWIDlookback2023 - male patients in cohort 3 males",1332
-3144040,"[HIV] Pop3TemplatePWIDlookback2023 - female patients in cohort 3 females",508
-3145030,"[HIV] Pop3TemplateSTIany2016 - male patients in cohort 3 males",3681
-3145040,"[HIV] Pop3TemplateSTIany2016 - female patients in cohort 3 females",311
-3146030,"[HIV] Pop3TemplateSTIany2017 - male patients in cohort 3 males",4591
-3146040,"[HIV] Pop3TemplateSTIany2017 - female patients in cohort 3 females",414
-3147030,"[HIV] Pop3TemplateSTIany2018 - male patients in cohort 3 males",5273
-3147040,"[HIV] Pop3TemplateSTIany2018 - female patients in cohort 3 females",445
-3148030,"[HIV] Pop3TemplateSTIany2019 - male patients in cohort 3 males",5228
-3148040,"[HIV] Pop3TemplateSTIany2019 - female patients in cohort 3 females",487
-3149030,"[HIV] Pop3TemplateSTIany2020 - male patients in cohort 3 males",4151
-3149040,"[HIV] Pop3TemplateSTIany2020 - female patients in cohort 3 females",451
-3150030,"[HIV] Pop3TemplateSTIany2021 - male patients in cohort 3 males",4123
-3150040,"[HIV] Pop3TemplateSTIany2021 - female patients in cohort 3 females",370
-3151030,"[HIV] Pop3TemplateSTIany2022 - male patients in cohort 3 males",3742
-3151040,"[HIV] Pop3TemplateSTIany2022 - female patients in cohort 3 females",333
-3152030,"[HIV] Pop3TemplateSTIany2023 - male patients in cohort 3 males",3677
-3152040,"[HIV] Pop3TemplateSTIany2023 - female patients in cohort 3 females",308
-3153030,"[HIV] Pop3TemplateSTIanylookback2016 - male patients in cohort 3 males",1901
-3153040,"[HIV] Pop3TemplateSTIanylookback2016 - female patients in cohort 3 females",139
-3154030,"[HIV] Pop3TemplateSTIanylookback2017 - male patients in cohort 3 males",2145
-3154040,"[HIV] Pop3TemplateSTIanylookback2017 - female patients in cohort 3 females",157
-3155030,"[HIV] Pop3TemplateSTIanylookback2018 - male patients in cohort 3 males",2369
-3155040,"[HIV] Pop3TemplateSTIanylookback2018 - female patients in cohort 3 females",166
-3156030,"[HIV] Pop3TemplateSTIanylookback2019 - male patients in cohort 3 males",2392
-3156040,"[HIV] Pop3TemplateSTIanylookback2019 - female patients in cohort 3 females",180
-3157030,"[HIV] Pop3TemplateSTIanylookback2020 - male patients in cohort 3 males",1670
-3157040,"[HIV] Pop3TemplateSTIanylookback2020 - female patients in cohort 3 females",145
-3158030,"[HIV] Pop3TemplateSTIanylookback2021 - male patients in cohort 3 males",1756
-3158040,"[HIV] Pop3TemplateSTIanylookback2021 - female patients in cohort 3 females",136
-3159030,"[HIV] Pop3TemplateSTIanylookback2022 - male patients in cohort 3 males",1845
-3159040,"[HIV] Pop3TemplateSTIanylookback2022 - female patients in cohort 3 females",155
-3160030,"[HIV] Pop3TemplateSTIanylookback2023 - male patients in cohort 3 males",2088
-3160040,"[HIV] Pop3TemplateSTIanylookback2023 - female patients in cohort 3 females",160
-3161030,"[HIV] Pop3TemplateSyph2016 - male patients in cohort 3 males",1794
-3161040,"[HIV] Pop3TemplateSyph2016 - female patients in cohort 3 females",50
-3162030,"[HIV] Pop3TemplateSyph2017 - male patients in cohort 3 males",2381
-3162040,"[HIV] Pop3TemplateSyph2017 - female patients in cohort 3 females",61
-3163030,"[HIV] Pop3TemplateSyph2018 - male patients in cohort 3 males",2692
-3163040,"[HIV] Pop3TemplateSyph2018 - female patients in cohort 3 females",64
-3164030,"[HIV] Pop3TemplateSyph2019 - male patients in cohort 3 males",2719
-3164040,"[HIV] Pop3TemplateSyph2019 - female patients in cohort 3 females",78
-3165030,"[HIV] Pop3TemplateSyph2020 - male patients in cohort 3 males",2291
-3165040,"[HIV] Pop3TemplateSyph2020 - female patients in cohort 3 females",87
-3166030,"[HIV] Pop3TemplateSyph2021 - male patients in cohort 3 males",2125
-3166040,"[HIV] Pop3TemplateSyph2021 - female patients in cohort 3 females",69
-3167030,"[HIV] Pop3TemplateSyph2022 - male patients in cohort 3 males",1815
-3167040,"[HIV] Pop3TemplateSyph2022 - female patients in cohort 3 females",58
-3168030,"[HIV] Pop3TemplateSyph2023 - male patients in cohort 3 males",1561
-3168040,"[HIV] Pop3TemplateSyph2023 - female patients in cohort 3 females",56
-3169030,"[HIV] Pop3TemplateTrichomoniasis2016 - male patients in cohort 3 males",5
-3169040,"[HIV] Pop3TemplateTrichomoniasis2016 - female patients in cohort 3 females",19
-3170030,"[HIV] Pop3TemplateTrichomoniasis2017 - male patients in cohort 3 males",9
-3170040,"[HIV] Pop3TemplateTrichomoniasis2017 - female patients in cohort 3 females",33
-3171030,"[HIV] Pop3TemplateTrichomoniasis2018 - male patients in cohort 3 males",14
-3171040,"[HIV] Pop3TemplateTrichomoniasis2018 - female patients in cohort 3 females",39
-3172030,"[HIV] Pop3TemplateTrichomoniasis2019 - male patients in cohort 3 males",7
-3172040,"[HIV] Pop3TemplateTrichomoniasis2019 - female patients in cohort 3 females",32
-3173030,"[HIV] Pop3TemplateTrichomoniasis2020 - male patients in cohort 3 males",5
-3173040,"[HIV] Pop3TemplateTrichomoniasis2020 - female patients in cohort 3 females",25
-3174030,"[HIV] Pop3TemplateTrichomoniasis2021 - male patients in cohort 3 males",5
-3174040,"[HIV] Pop3TemplateTrichomoniasis2021 - female patients in cohort 3 females",19
-3175030,"[HIV] Pop3TemplateTrichomoniasis2022 - male patients in cohort 3 males",4
-3175040,"[HIV] Pop3TemplateTrichomoniasis2022 - female patients in cohort 3 females",14
-3176030,"[HIV] Pop3TemplateTrichomoniasis2023 - male patients in cohort 3 males",5
-3176040,"[HIV] Pop3TemplateTrichomoniasis2023 - female patients in cohort 3 females",7
-3177030,"[HIV] Pop3Templatelookback2016 - male patients in cohort 3 males",8321
-3177040,"[HIV] Pop3Templatelookback2016 - female patients in cohort 3 females",1777
-3178030,"[HIV] Pop3Templatelookback2017 - male patients in cohort 3 males",9613
-3178040,"[HIV] Pop3Templatelookback2017 - female patients in cohort 3 females",1909
-3179030,"[HIV] Pop3Templatelookback2018 - male patients in cohort 3 males",10260
-3179040,"[HIV] Pop3Templatelookback2018 - female patients in cohort 3 females",1821
-3180030,"[HIV] Pop3Templatelookback2019 - male patients in cohort 3 males",10032
-3180040,"[HIV] Pop3Templatelookback2019 - female patients in cohort 3 females",1833
-3181030,"[HIV] Pop3Templatelookback2020 - male patients in cohort 3 males",7820
-3181040,"[HIV] Pop3Templatelookback2020 - female patients in cohort 3 females",1433
-3182030,"[HIV] Pop3Templatelookback2021 - male patients in cohort 3 males",7028
-3182040,"[HIV] Pop3Templatelookback2021 - female patients in cohort 3 females",1191
-3183030,"[HIV] Pop3Templatelookback2022 - male patients in cohort 3 males",6879
-3183040,"[HIV] Pop3Templatelookback2022 - female patients in cohort 3 females",1115
-3184030,"[HIV] Pop3Templatelookback2023 - male patients in cohort 3 males",7504
-3184040,"[HIV] Pop3Templatelookback2023 - female patients in cohort 3 females",1063
+3073030,"[HIV] Pop3TemplateGonorrhea2016 - male patients in cohort 3 males",1485
+3073040,"[HIV] Pop3TemplateGonorrhea2016 - female patients in cohort 3 females",42
+3074030,"[HIV] Pop3TemplateGonorrhea2017 - male patients in cohort 3 males",1750
+3074040,"[HIV] Pop3TemplateGonorrhea2017 - female patients in cohort 3 females",55
+3075030,"[HIV] Pop3TemplateGonorrhea2018 - male patients in cohort 3 males",2071
+3075040,"[HIV] Pop3TemplateGonorrhea2018 - female patients in cohort 3 females",56
+3076030,"[HIV] Pop3TemplateGonorrhea2019 - male patients in cohort 3 males",2040
+3076040,"[HIV] Pop3TemplateGonorrhea2019 - female patients in cohort 3 females",75
+3077030,"[HIV] Pop3TemplateGonorrhea2020 - male patients in cohort 3 males",1527
+3077040,"[HIV] Pop3TemplateGonorrhea2020 - female patients in cohort 3 females",64
+3078030,"[HIV] Pop3TemplateGonorrhea2021 - male patients in cohort 3 males",1854
+3078040,"[HIV] Pop3TemplateGonorrhea2021 - female patients in cohort 3 females",73
+3079030,"[HIV] Pop3TemplateGonorrhea2022 - male patients in cohort 3 males",1685
+3079040,"[HIV] Pop3TemplateGonorrhea2022 - female patients in cohort 3 females",78
+3080030,"[HIV] Pop3TemplateGonorrhea2023 - male patients in cohort 3 males",1714
+3080040,"[HIV] Pop3TemplateGonorrhea2023 - female patients in cohort 3 females",69
+3081030,"[HIV] Pop3TemplateHIVTest2016 - male patients in cohort 3 males",7113
+3081040,"[HIV] Pop3TemplateHIVTest2016 - female patients in cohort 3 females",1168
+3082030,"[HIV] Pop3TemplateHIVTest2017 - male patients in cohort 3 males",8400
+3082040,"[HIV] Pop3TemplateHIVTest2017 - female patients in cohort 3 females",1304
+3083030,"[HIV] Pop3TemplateHIVTest2018 - male patients in cohort 3 males",9128
+3083040,"[HIV] Pop3TemplateHIVTest2018 - female patients in cohort 3 females",1222
+3084030,"[HIV] Pop3TemplateHIVTest2019 - male patients in cohort 3 males",8995
+3084040,"[HIV] Pop3TemplateHIVTest2019 - female patients in cohort 3 females",1295
+3085030,"[HIV] Pop3TemplateHIVTest2020 - male patients in cohort 3 males",7194
+3085040,"[HIV] Pop3TemplateHIVTest2020 - female patients in cohort 3 females",1022
+3086030,"[HIV] Pop3TemplateHIVTest2021 - male patients in cohort 3 males",6671
+3086040,"[HIV] Pop3TemplateHIVTest2021 - female patients in cohort 3 females",851
+3087030,"[HIV] Pop3TemplateHIVTest2022 - male patients in cohort 3 males",6547
+3087040,"[HIV] Pop3TemplateHIVTest2022 - female patients in cohort 3 females",814
+3088030,"[HIV] Pop3TemplateHIVTest2023 - male patients in cohort 3 males",7104
+3088040,"[HIV] Pop3TemplateHIVTest2023 - female patients in cohort 3 females",763
+3089030,"[HIV] Pop3TemplateHIVTestlookback2016 - male patients in cohort 3 males",6525
+3089040,"[HIV] Pop3TemplateHIVTestlookback2016 - female patients in cohort 3 females",1027
+3090030,"[HIV] Pop3TemplateHIVTestlookback2017 - male patients in cohort 3 males",7651
+3090040,"[HIV] Pop3TemplateHIVTestlookback2017 - female patients in cohort 3 females",1106
+3091030,"[HIV] Pop3TemplateHIVTestlookback2018 - male patients in cohort 3 males",8189
+3091040,"[HIV] Pop3TemplateHIVTestlookback2018 - female patients in cohort 3 females",1015
+3092030,"[HIV] Pop3TemplateHIVTestlookback2019 - male patients in cohort 3 males",7924
+3092040,"[HIV] Pop3TemplateHIVTestlookback2019 - female patients in cohort 3 females",1070
+3093030,"[HIV] Pop3TemplateHIVTestlookback2020 - male patients in cohort 3 males",5976
+3093040,"[HIV] Pop3TemplateHIVTestlookback2020 - female patients in cohort 3 females",799
+3094030,"[HIV] Pop3TemplateHIVTestlookback2021 - male patients in cohort 3 males",5488
+3094040,"[HIV] Pop3TemplateHIVTestlookback2021 - female patients in cohort 3 females",646
+3095030,"[HIV] Pop3TemplateHIVTestlookback2022 - male patients in cohort 3 males",5524
+3095040,"[HIV] Pop3TemplateHIVTestlookback2022 - female patients in cohort 3 females",630
+3096030,"[HIV] Pop3TemplateHIVTestlookback2023 - male patients in cohort 3 males",6089
+3096040,"[HIV] Pop3TemplateHIVTestlookback2023 - female patients in cohort 3 females",583
+3097030,"[HIV] Pop3TemplateHIVany2016 - male patients in cohort 3 males",2083
+3097040,"[HIV] Pop3TemplateHIVany2016 - female patients in cohort 3 females",394
+3098030,"[HIV] Pop3TemplateHIVany2017 - male patients in cohort 3 males",2924
+3098040,"[HIV] Pop3TemplateHIVany2017 - female patients in cohort 3 females",546
+3099030,"[HIV] Pop3TemplateHIVany2018 - male patients in cohort 3 males",3252
+3099040,"[HIV] Pop3TemplateHIVany2018 - female patients in cohort 3 females",593
+3100030,"[HIV] Pop3TemplateHIVany2019 - male patients in cohort 3 males",3162
+3100040,"[HIV] Pop3TemplateHIVany2019 - female patients in cohort 3 females",595
+3101030,"[HIV] Pop3TemplateHIVany2020 - male patients in cohort 3 males",2827
+3101040,"[HIV] Pop3TemplateHIVany2020 - female patients in cohort 3 females",551
+3102030,"[HIV] Pop3TemplateHIVany2021 - male patients in cohort 3 males",2533
+3102040,"[HIV] Pop3TemplateHIVany2021 - female patients in cohort 3 females",423
+3103030,"[HIV] Pop3TemplateHIVany2022 - male patients in cohort 3 males",1973
+3103040,"[HIV] Pop3TemplateHIVany2022 - female patients in cohort 3 females",330
+3104030,"[HIV] Pop3TemplateHIVany2023 - male patients in cohort 3 males",1521
+3104040,"[HIV] Pop3TemplateHIVany2023 - female patients in cohort 3 females",234
+3105030,"[HIV] Pop3TemplateHIVanylookback2016 - male patients in cohort 3 males",3778
+3105040,"[HIV] Pop3TemplateHIVanylookback2016 - female patients in cohort 3 females",352
+3106030,"[HIV] Pop3TemplateHIVanylookback2017 - male patients in cohort 3 males",4367
+3106040,"[HIV] Pop3TemplateHIVanylookback2017 - female patients in cohort 3 females",394
+3107030,"[HIV] Pop3TemplateHIVanylookback2018 - male patients in cohort 3 males",4992
+3107040,"[HIV] Pop3TemplateHIVanylookback2018 - female patients in cohort 3 females",382
+3108030,"[HIV] Pop3TemplateHIVanylookback2019 - male patients in cohort 3 males",4904
+3108040,"[HIV] Pop3TemplateHIVanylookback2019 - female patients in cohort 3 females",444
+3109030,"[HIV] Pop3TemplateHIVanylookback2020 - male patients in cohort 3 males",3475
+3109040,"[HIV] Pop3TemplateHIVanylookback2020 - female patients in cohort 3 females",320
+3110030,"[HIV] Pop3TemplateHIVanylookback2021 - male patients in cohort 3 males",3240
+3110040,"[HIV] Pop3TemplateHIVanylookback2021 - female patients in cohort 3 females",273
+3111030,"[HIV] Pop3TemplateHIVanylookback2022 - male patients in cohort 3 males",3471
+3111040,"[HIV] Pop3TemplateHIVanylookback2022 - female patients in cohort 3 females",311
+3112030,"[HIV] Pop3TemplateHIVanylookback2023 - male patients in cohort 3 males",3914
+3112040,"[HIV] Pop3TemplateHIVanylookback2023 - female patients in cohort 3 females",308
+3113030,"[HIV] Pop3TemplateOther2016 - male patients in cohort 3 males",4331
+3113040,"[HIV] Pop3TemplateOther2016 - female patients in cohort 3 females",391
+3114030,"[HIV] Pop3TemplateOther2017 - male patients in cohort 3 males",5198
+3114040,"[HIV] Pop3TemplateOther2017 - female patients in cohort 3 females",451
+3115030,"[HIV] Pop3TemplateOther2018 - male patients in cohort 3 males",6093
+3115040,"[HIV] Pop3TemplateOther2018 - female patients in cohort 3 females",467
+3116030,"[HIV] Pop3TemplateOther2019 - male patients in cohort 3 males",6057
+3116040,"[HIV] Pop3TemplateOther2019 - female patients in cohort 3 females",504
+3117030,"[HIV] Pop3TemplateOther2020 - male patients in cohort 3 males",4652
+3117040,"[HIV] Pop3TemplateOther2020 - female patients in cohort 3 females",399
+3118030,"[HIV] Pop3TemplateOther2021 - male patients in cohort 3 males",4266
+3118040,"[HIV] Pop3TemplateOther2021 - female patients in cohort 3 females",356
+3119030,"[HIV] Pop3TemplateOther2022 - male patients in cohort 3 males",4245
+3119040,"[HIV] Pop3TemplateOther2022 - female patients in cohort 3 females",350
+3120030,"[HIV] Pop3TemplateOther2023 - male patients in cohort 3 males",4510
+3120040,"[HIV] Pop3TemplateOther2023 - female patients in cohort 3 females",290
+3121030,"[HIV] Pop3TemplateOtherSTI2016 - male patients in cohort 3 males",2605
+3121040,"[HIV] Pop3TemplateOtherSTI2016 - female patients in cohort 3 females",305
+3122030,"[HIV] Pop3TemplateOtherSTI2017 - male patients in cohort 3 males",3034
+3122040,"[HIV] Pop3TemplateOtherSTI2017 - female patients in cohort 3 females",373
+3123030,"[HIV] Pop3TemplateOtherSTI2018 - male patients in cohort 3 males",3403
+3123040,"[HIV] Pop3TemplateOtherSTI2018 - female patients in cohort 3 females",406
+3124030,"[HIV] Pop3TemplateOtherSTI2019 - male patients in cohort 3 males",3386
+3124040,"[HIV] Pop3TemplateOtherSTI2019 - female patients in cohort 3 females",431
+3125030,"[HIV] Pop3TemplateOtherSTI2020 - male patients in cohort 3 males",2630
+3125040,"[HIV] Pop3TemplateOtherSTI2020 - female patients in cohort 3 females",382
+3126030,"[HIV] Pop3TemplateOtherSTI2021 - male patients in cohort 3 males",2653
+3126040,"[HIV] Pop3TemplateOtherSTI2021 - female patients in cohort 3 females",318
+3127030,"[HIV] Pop3TemplateOtherSTI2022 - male patients in cohort 3 males",2434
+3127040,"[HIV] Pop3TemplateOtherSTI2022 - female patients in cohort 3 females",278
+3128030,"[HIV] Pop3TemplateOtherSTI2023 - male patients in cohort 3 males",2426
+3128040,"[HIV] Pop3TemplateOtherSTI2023 - female patients in cohort 3 females",241
+3129030,"[HIV] Pop3TemplateOtherlookback2016 - male patients in cohort 3 males",3056
+3129040,"[HIV] Pop3TemplateOtherlookback2016 - female patients in cohort 3 females",264
+3130030,"[HIV] Pop3TemplateOtherlookback2017 - male patients in cohort 3 males",3371
+3130040,"[HIV] Pop3TemplateOtherlookback2017 - female patients in cohort 3 females",278
+3131030,"[HIV] Pop3TemplateOtherlookback2018 - male patients in cohort 3 males",3864
+3131040,"[HIV] Pop3TemplateOtherlookback2018 - female patients in cohort 3 females",279
+3132030,"[HIV] Pop3TemplateOtherlookback2019 - male patients in cohort 3 males",4102
+3132040,"[HIV] Pop3TemplateOtherlookback2019 - female patients in cohort 3 females",310
+3133030,"[HIV] Pop3TemplateOtherlookback2020 - male patients in cohort 3 males",3017
+3133040,"[HIV] Pop3TemplateOtherlookback2020 - female patients in cohort 3 females",221
+3134030,"[HIV] Pop3TemplateOtherlookback2021 - male patients in cohort 3 males",2435
+3134040,"[HIV] Pop3TemplateOtherlookback2021 - female patients in cohort 3 females",204
+3135030,"[HIV] Pop3TemplateOtherlookback2022 - male patients in cohort 3 males",2730
+3135040,"[HIV] Pop3TemplateOtherlookback2022 - female patients in cohort 3 females",219
+3136030,"[HIV] Pop3TemplateOtherlookback2023 - male patients in cohort 3 males",3279
+3136040,"[HIV] Pop3TemplateOtherlookback2023 - female patients in cohort 3 females",207
+3137030,"[HIV] Pop3TemplatePWID2016 - male patients in cohort 3 males",4962
+3137040,"[HIV] Pop3TemplatePWID2016 - female patients in cohort 3 females",1725
+3138030,"[HIV] Pop3TemplatePWID2017 - male patients in cohort 3 males",5572
+3138040,"[HIV] Pop3TemplatePWID2017 - female patients in cohort 3 females",1919
+3139030,"[HIV] Pop3TemplatePWID2018 - male patients in cohort 3 males",5826
+3139040,"[HIV] Pop3TemplatePWID2018 - female patients in cohort 3 females",1934
+3140030,"[HIV] Pop3TemplatePWID2019 - male patients in cohort 3 males",5483
+3140040,"[HIV] Pop3TemplatePWID2019 - female patients in cohort 3 females",1871
+3141030,"[HIV] Pop3TemplatePWID2020 - male patients in cohort 3 males",4506
+3141040,"[HIV] Pop3TemplatePWID2020 - female patients in cohort 3 females",1577
+3142030,"[HIV] Pop3TemplatePWID2021 - male patients in cohort 3 males",4282
+3142040,"[HIV] Pop3TemplatePWID2021 - female patients in cohort 3 females",1302
+3143030,"[HIV] Pop3TemplatePWID2022 - male patients in cohort 3 males",3591
+3143040,"[HIV] Pop3TemplatePWID2022 - female patients in cohort 3 females",1131
+3144030,"[HIV] Pop3TemplatePWID2023 - male patients in cohort 3 males",3249
+3144040,"[HIV] Pop3TemplatePWID2023 - female patients in cohort 3 females",1062
+3145030,"[HIV] Pop3TemplatePWIDlookback2016 - male patients in cohort 3 males",2022
+3145040,"[HIV] Pop3TemplatePWIDlookback2016 - female patients in cohort 3 females",777
+3146030,"[HIV] Pop3TemplatePWIDlookback2017 - male patients in cohort 3 males",2136
+3146040,"[HIV] Pop3TemplatePWIDlookback2017 - female patients in cohort 3 females",829
+3147030,"[HIV] Pop3TemplatePWIDlookback2018 - male patients in cohort 3 males",2300
+3147040,"[HIV] Pop3TemplatePWIDlookback2018 - female patients in cohort 3 females",809
+3148030,"[HIV] Pop3TemplatePWIDlookback2019 - male patients in cohort 3 males",2054
+3148040,"[HIV] Pop3TemplatePWIDlookback2019 - female patients in cohort 3 females",806
+3149030,"[HIV] Pop3TemplatePWIDlookback2020 - male patients in cohort 3 males",1537
+3149040,"[HIV] Pop3TemplatePWIDlookback2020 - female patients in cohort 3 females",640
+3150030,"[HIV] Pop3TemplatePWIDlookback2021 - male patients in cohort 3 males",1442
+3150040,"[HIV] Pop3TemplatePWIDlookback2021 - female patients in cohort 3 females",542
+3151030,"[HIV] Pop3TemplatePWIDlookback2022 - male patients in cohort 3 males",1312
+3151040,"[HIV] Pop3TemplatePWIDlookback2022 - female patients in cohort 3 females",497
+3152030,"[HIV] Pop3TemplatePWIDlookback2023 - male patients in cohort 3 males",1332
+3152040,"[HIV] Pop3TemplatePWIDlookback2023 - female patients in cohort 3 females",508
+3153030,"[HIV] Pop3TemplateSTIany2016 - male patients in cohort 3 males",1442
+3153040,"[HIV] Pop3TemplateSTIany2016 - female patients in cohort 3 females",167
+3154030,"[HIV] Pop3TemplateSTIany2017 - male patients in cohort 3 males",1990
+3154040,"[HIV] Pop3TemplateSTIany2017 - female patients in cohort 3 females",242
+3155030,"[HIV] Pop3TemplateSTIany2018 - male patients in cohort 3 males",2256
+3155040,"[HIV] Pop3TemplateSTIany2018 - female patients in cohort 3 females",270
+3156030,"[HIV] Pop3TemplateSTIany2019 - male patients in cohort 3 males",2151
+3156040,"[HIV] Pop3TemplateSTIany2019 - female patients in cohort 3 females",274
+3157030,"[HIV] Pop3TemplateSTIany2020 - male patients in cohort 3 males",1889
+3157040,"[HIV] Pop3TemplateSTIany2020 - female patients in cohort 3 females",270
+3158030,"[HIV] Pop3TemplateSTIany2021 - male patients in cohort 3 males",1749
+3158040,"[HIV] Pop3TemplateSTIany2021 - female patients in cohort 3 females",199
+3159030,"[HIV] Pop3TemplateSTIany2022 - male patients in cohort 3 males",1374
+3159040,"[HIV] Pop3TemplateSTIany2022 - female patients in cohort 3 females",160
+3160030,"[HIV] Pop3TemplateSTIany2023 - male patients in cohort 3 males",1071
+3160040,"[HIV] Pop3TemplateSTIany2023 - female patients in cohort 3 females",111
+3161030,"[HIV] Pop3TemplateSTIanylookback2016 - male patients in cohort 3 males",1901
+3161040,"[HIV] Pop3TemplateSTIanylookback2016 - female patients in cohort 3 females",139
+3162030,"[HIV] Pop3TemplateSTIanylookback2017 - male patients in cohort 3 males",2145
+3162040,"[HIV] Pop3TemplateSTIanylookback2017 - female patients in cohort 3 females",157
+3163030,"[HIV] Pop3TemplateSTIanylookback2018 - male patients in cohort 3 males",2369
+3163040,"[HIV] Pop3TemplateSTIanylookback2018 - female patients in cohort 3 females",166
+3164030,"[HIV] Pop3TemplateSTIanylookback2019 - male patients in cohort 3 males",2392
+3164040,"[HIV] Pop3TemplateSTIanylookback2019 - female patients in cohort 3 females",180
+3165030,"[HIV] Pop3TemplateSTIanylookback2020 - male patients in cohort 3 males",1670
+3165040,"[HIV] Pop3TemplateSTIanylookback2020 - female patients in cohort 3 females",145
+3166030,"[HIV] Pop3TemplateSTIanylookback2021 - male patients in cohort 3 males",1756
+3166040,"[HIV] Pop3TemplateSTIanylookback2021 - female patients in cohort 3 females",136
+3167030,"[HIV] Pop3TemplateSTIanylookback2022 - male patients in cohort 3 males",1845
+3167040,"[HIV] Pop3TemplateSTIanylookback2022 - female patients in cohort 3 females",155
+3168030,"[HIV] Pop3TemplateSTIanylookback2023 - male patients in cohort 3 males",2088
+3168040,"[HIV] Pop3TemplateSTIanylookback2023 - female patients in cohort 3 females",160
+3169030,"[HIV] Pop3TemplateSyph2016 - male patients in cohort 3 males",1794
+3169040,"[HIV] Pop3TemplateSyph2016 - female patients in cohort 3 females",50
+3170030,"[HIV] Pop3TemplateSyph2017 - male patients in cohort 3 males",2381
+3170040,"[HIV] Pop3TemplateSyph2017 - female patients in cohort 3 females",61
+3171030,"[HIV] Pop3TemplateSyph2018 - male patients in cohort 3 males",2692
+3171040,"[HIV] Pop3TemplateSyph2018 - female patients in cohort 3 females",64
+3172030,"[HIV] Pop3TemplateSyph2019 - male patients in cohort 3 males",2719
+3172040,"[HIV] Pop3TemplateSyph2019 - female patients in cohort 3 females",78
+3173030,"[HIV] Pop3TemplateSyph2020 - male patients in cohort 3 males",2291
+3173040,"[HIV] Pop3TemplateSyph2020 - female patients in cohort 3 females",87
+3174030,"[HIV] Pop3TemplateSyph2021 - male patients in cohort 3 males",2125
+3174040,"[HIV] Pop3TemplateSyph2021 - female patients in cohort 3 females",69
+3175030,"[HIV] Pop3TemplateSyph2022 - male patients in cohort 3 males",1815
+3175040,"[HIV] Pop3TemplateSyph2022 - female patients in cohort 3 females",58
+3176030,"[HIV] Pop3TemplateSyph2023 - male patients in cohort 3 males",1561
+3176040,"[HIV] Pop3TemplateSyph2023 - female patients in cohort 3 females",56
+3177030,"[HIV] Pop3TemplateTrichomoniasis2016 - male patients in cohort 3 males",5
+3177040,"[HIV] Pop3TemplateTrichomoniasis2016 - female patients in cohort 3 females",19
+3178030,"[HIV] Pop3TemplateTrichomoniasis2017 - male patients in cohort 3 males",9
+3178040,"[HIV] Pop3TemplateTrichomoniasis2017 - female patients in cohort 3 females",33
+3179030,"[HIV] Pop3TemplateTrichomoniasis2018 - male patients in cohort 3 males",14
+3179040,"[HIV] Pop3TemplateTrichomoniasis2018 - female patients in cohort 3 females",39
+3180030,"[HIV] Pop3TemplateTrichomoniasis2019 - male patients in cohort 3 males",7
+3180040,"[HIV] Pop3TemplateTrichomoniasis2019 - female patients in cohort 3 females",32
+3181030,"[HIV] Pop3TemplateTrichomoniasis2020 - male patients in cohort 3 males",5
+3181040,"[HIV] Pop3TemplateTrichomoniasis2020 - female patients in cohort 3 females",25
+3182030,"[HIV] Pop3TemplateTrichomoniasis2021 - male patients in cohort 3 males",5
+3182040,"[HIV] Pop3TemplateTrichomoniasis2021 - female patients in cohort 3 females",19
+3183030,"[HIV] Pop3TemplateTrichomoniasis2022 - male patients in cohort 3 males",4
+3183040,"[HIV] Pop3TemplateTrichomoniasis2022 - female patients in cohort 3 females",14
+3184030,"[HIV] Pop3TemplateTrichomoniasis2023 - male patients in cohort 3 males",5
+3184040,"[HIV] Pop3TemplateTrichomoniasis2023 - female patients in cohort 3 females",7
+3185030,"[HIV] Pop3Templatelookback2016 - male patients in cohort 3 males",8321
+3185040,"[HIV] Pop3Templatelookback2016 - female patients in cohort 3 females",1777
+3186030,"[HIV] Pop3Templatelookback2017 - male patients in cohort 3 males",9613
+3186040,"[HIV] Pop3Templatelookback2017 - female patients in cohort 3 females",1909
+3187030,"[HIV] Pop3Templatelookback2018 - male patients in cohort 3 males",10260
+3187040,"[HIV] Pop3Templatelookback2018 - female patients in cohort 3 females",1821
+3188030,"[HIV] Pop3Templatelookback2019 - male patients in cohort 3 males",10032
+3188040,"[HIV] Pop3Templatelookback2019 - female patients in cohort 3 females",1833
+3189030,"[HIV] Pop3Templatelookback2020 - male patients in cohort 3 males",7820
+3189040,"[HIV] Pop3Templatelookback2020 - female patients in cohort 3 females",1433
+3190030,"[HIV] Pop3Templatelookback2021 - male patients in cohort 3 males",7028
+3190040,"[HIV] Pop3Templatelookback2021 - female patients in cohort 3 females",1191
+3191030,"[HIV] Pop3Templatelookback2022 - male patients in cohort 3 males",6879
+3191040,"[HIV] Pop3Templatelookback2022 - female patients in cohort 3 females",1115
+3192030,"[HIV] Pop3Templatelookback2023 - male patients in cohort 3 males",7504
+3192040,"[HIV] Pop3Templatelookback2023 - female patients in cohort 3 females",1063
 4001001,"[HIV] Pop4Template2016 - male patients in cohort 4 Age 15 - 29",191405
 4001002,"[HIV] Pop4Template2016 - male patients in cohort 4 Age 30 - 44",227412
 4001003,"[HIV] Pop4Template2016 - male patients in cohort 4 Age 45 - 55",240368
 4001004,"[HIV] Pop4Template2016 - male patients in cohort 4 Age 55+",721101
-4001005,"[HIV] Pop4Template2016 - male patients in cohort 4 NHW",976617
-4001006,"[HIV] Pop4Template2016 - male patients in cohort 4 NHB",0
-4001007,"[HIV] Pop4Template2016 - male patients in cohort 4 Hispanic",8089
-4001008,"[HIV] Pop4Template2016 - male patients in cohort 4 AAPI",22574
+4001005,"[HIV] Pop4Template2016 - male patients in cohort 4 White",976617
+4001006,"[HIV] Pop4Template2016 - male patients in cohort 4 Asian",22574
+4001007,"[HIV] Pop4Template2016 - male patients in cohort 4 African American",124704
+4001008,"[HIV] Pop4Template2016 - male patients in cohort 4 Hispanic",0
 4001011,"[HIV] Pop4Template2016 - female patients in cohort 4 Age 15 - 29",520356
 4001012,"[HIV] Pop4Template2016 - female patients in cohort 4 Age 30 - 44",581463
 4001013,"[HIV] Pop4Template2016 - female patients in cohort 4 Age 45 - 55",378590
 4001014,"[HIV] Pop4Template2016 - female patients in cohort 4 Age 55+",948991
-4001015,"[HIV] Pop4Template2016 - female patients in cohort 4 NHW",1677768
-4001016,"[HIV] Pop4Template2016 - female patients in cohort 4 NHB",0
-4001017,"[HIV] Pop4Template2016 - female patients in cohort 4 Hispanic",17783
-4001018,"[HIV] Pop4Template2016 - female patients in cohort 4 AAPI",47698
+4001015,"[HIV] Pop4Template2016 - female patients in cohort 4 White",1677768
+4001016,"[HIV] Pop4Template2016 - female patients in cohort 4 Asian",47698
+4001017,"[HIV] Pop4Template2016 - female patients in cohort 4 African American",255344
+4001018,"[HIV] Pop4Template2016 - female patients in cohort 4 Hispanic",0
 4001030,"[HIV] Pop4Template2016 - male patients in cohort 4 males",1380286
 4001040,"[HIV] Pop4Template2016 - female patients in cohort 4 females",2429400
 4002001,"[HIV] Pop4Template2017 - male patients in cohort 4 Age 15 - 29",187090
 4002002,"[HIV] Pop4Template2017 - male patients in cohort 4 Age 30 - 44",222424
 4002003,"[HIV] Pop4Template2017 - male patients in cohort 4 Age 45 - 55",228047
 4002004,"[HIV] Pop4Template2017 - male patients in cohort 4 Age 55+",712150
-4002005,"[HIV] Pop4Template2017 - male patients in cohort 4 NHW",955232
-4002006,"[HIV] Pop4Template2017 - male patients in cohort 4 NHB",0
-4002007,"[HIV] Pop4Template2017 - male patients in cohort 4 Hispanic",6843
-4002008,"[HIV] Pop4Template2017 - male patients in cohort 4 AAPI",21938
+4002005,"[HIV] Pop4Template2017 - male patients in cohort 4 White",955232
+4002006,"[HIV] Pop4Template2017 - male patients in cohort 4 Asian",21938
+4002007,"[HIV] Pop4Template2017 - male patients in cohort 4 African American",127988
+4002008,"[HIV] Pop4Template2017 - male patients in cohort 4 Hispanic",0
 4002011,"[HIV] Pop4Template2017 - female patients in cohort 4 Age 15 - 29",493880
 4002012,"[HIV] Pop4Template2017 - female patients in cohort 4 Age 30 - 44",574506
 4002013,"[HIV] Pop4Template2017 - female patients in cohort 4 Age 45 - 55",362739
 4002014,"[HIV] Pop4Template2017 - female patients in cohort 4 Age 55+",936027
-4002015,"[HIV] Pop4Template2017 - female patients in cohort 4 NHW",1632178
-4002016,"[HIV] Pop4Template2017 - female patients in cohort 4 NHB",0
-4002017,"[HIV] Pop4Template2017 - female patients in cohort 4 Hispanic",15513
-4002018,"[HIV] Pop4Template2017 - female patients in cohort 4 AAPI",47224
+4002015,"[HIV] Pop4Template2017 - female patients in cohort 4 White",1632178
+4002016,"[HIV] Pop4Template2017 - female patients in cohort 4 Asian",47224
+4002017,"[HIV] Pop4Template2017 - female patients in cohort 4 African American",260198
+4002018,"[HIV] Pop4Template2017 - female patients in cohort 4 Hispanic",0
 4002030,"[HIV] Pop4Template2017 - male patients in cohort 4 males",1349711
 4002040,"[HIV] Pop4Template2017 - female patients in cohort 4 females",2367152
 4003001,"[HIV] Pop4Template2018 - male patients in cohort 4 Age 15 - 29",170524
 4003002,"[HIV] Pop4Template2018 - male patients in cohort 4 Age 30 - 44",205846
 4003003,"[HIV] Pop4Template2018 - male patients in cohort 4 Age 45 - 55",204256
 4003004,"[HIV] Pop4Template2018 - male patients in cohort 4 Age 55+",671466
-4003005,"[HIV] Pop4Template2018 - male patients in cohort 4 NHW",880297
-4003006,"[HIV] Pop4Template2018 - male patients in cohort 4 NHB",0
-4003007,"[HIV] Pop4Template2018 - male patients in cohort 4 Hispanic",3051
-4003008,"[HIV] Pop4Template2018 - male patients in cohort 4 AAPI",21012
+4003005,"[HIV] Pop4Template2018 - male patients in cohort 4 White",880297
+4003006,"[HIV] Pop4Template2018 - male patients in cohort 4 Asian",21012
+4003007,"[HIV] Pop4Template2018 - male patients in cohort 4 African American",125699
+4003008,"[HIV] Pop4Template2018 - male patients in cohort 4 Hispanic",0
 4003011,"[HIV] Pop4Template2018 - female patients in cohort 4 Age 15 - 29",442702
 4003012,"[HIV] Pop4Template2018 - female patients in cohort 4 Age 30 - 44",534537
 4003013,"[HIV] Pop4Template2018 - female patients in cohort 4 Age 45 - 55",326776
 4003014,"[HIV] Pop4Template2018 - female patients in cohort 4 Age 55+",882709
-4003015,"[HIV] Pop4Template2018 - female patients in cohort 4 NHW",1496110
-4003016,"[HIV] Pop4Template2018 - female patients in cohort 4 NHB",0
-4003017,"[HIV] Pop4Template2018 - female patients in cohort 4 Hispanic",7801
-4003018,"[HIV] Pop4Template2018 - female patients in cohort 4 AAPI",44817
+4003015,"[HIV] Pop4Template2018 - female patients in cohort 4 White",1496110
+4003016,"[HIV] Pop4Template2018 - female patients in cohort 4 Asian",44817
+4003017,"[HIV] Pop4Template2018 - female patients in cohort 4 African American",254915
+4003018,"[HIV] Pop4Template2018 - female patients in cohort 4 Hispanic",0
 4003030,"[HIV] Pop4Template2018 - male patients in cohort 4 males",1252092
 4003040,"[HIV] Pop4Template2018 - female patients in cohort 4 females",2186724
 4004001,"[HIV] Pop4Template2019 - male patients in cohort 4 Age 15 - 29",150771
 4004002,"[HIV] Pop4Template2019 - male patients in cohort 4 Age 30 - 44",186878
 4004003,"[HIV] Pop4Template2019 - male patients in cohort 4 Age 45 - 55",180938
 4004004,"[HIV] Pop4Template2019 - male patients in cohort 4 Age 55+",622759
-4004005,"[HIV] Pop4Template2019 - male patients in cohort 4 NHW",801649
-4004006,"[HIV] Pop4Template2019 - male patients in cohort 4 NHB",0
-4004007,"[HIV] Pop4Template2019 - male patients in cohort 4 Hispanic",2190
-4004008,"[HIV] Pop4Template2019 - male patients in cohort 4 AAPI",19542
+4004005,"[HIV] Pop4Template2019 - male patients in cohort 4 White",801649
+4004006,"[HIV] Pop4Template2019 - male patients in cohort 4 Asian",19542
+4004007,"[HIV] Pop4Template2019 - male patients in cohort 4 African American",108995
+4004008,"[HIV] Pop4Template2019 - male patients in cohort 4 Hispanic",0
 4004011,"[HIV] Pop4Template2019 - female patients in cohort 4 Age 15 - 29",387636
 4004012,"[HIV] Pop4Template2019 - female patients in cohort 4 Age 30 - 44",485531
 4004013,"[HIV] Pop4Template2019 - female patients in cohort 4 Age 45 - 55",286679
 4004014,"[HIV] Pop4Template2019 - female patients in cohort 4 Age 55+",807803
-4004015,"[HIV] Pop4Template2019 - female patients in cohort 4 NHW",1349311
-4004016,"[HIV] Pop4Template2019 - female patients in cohort 4 NHB",0
-4004017,"[HIV] Pop4Template2019 - female patients in cohort 4 Hispanic",5694
-4004018,"[HIV] Pop4Template2019 - female patients in cohort 4 AAPI",39742
+4004015,"[HIV] Pop4Template2019 - female patients in cohort 4 White",1349311
+4004016,"[HIV] Pop4Template2019 - female patients in cohort 4 Asian",39742
+4004017,"[HIV] Pop4Template2019 - female patients in cohort 4 African American",215957
+4004018,"[HIV] Pop4Template2019 - female patients in cohort 4 Hispanic",0
 4004030,"[HIV] Pop4Template2019 - male patients in cohort 4 males",1141346
 4004040,"[HIV] Pop4Template2019 - female patients in cohort 4 females",1967649
 4005001,"[HIV] Pop4Template2020 - male patients in cohort 4 Age 15 - 29",130048
 4005002,"[HIV] Pop4Template2020 - male patients in cohort 4 Age 30 - 44",166590
 4005003,"[HIV] Pop4Template2020 - male patients in cohort 4 Age 45 - 55",158979
 4005004,"[HIV] Pop4Template2020 - male patients in cohort 4 Age 55+",574606
-4005005,"[HIV] Pop4Template2020 - male patients in cohort 4 NHW",720539
-4005006,"[HIV] Pop4Template2020 - male patients in cohort 4 NHB",0
-4005007,"[HIV] Pop4Template2020 - male patients in cohort 4 Hispanic",1215
-4005008,"[HIV] Pop4Template2020 - male patients in cohort 4 AAPI",17506
+4005005,"[HIV] Pop4Template2020 - male patients in cohort 4 White",720539
+4005006,"[HIV] Pop4Template2020 - male patients in cohort 4 Asian",17506
+4005007,"[HIV] Pop4Template2020 - male patients in cohort 4 African American",98023
+4005008,"[HIV] Pop4Template2020 - male patients in cohort 4 Hispanic",0
 4005011,"[HIV] Pop4Template2020 - female patients in cohort 4 Age 15 - 29",340758
 4005012,"[HIV] Pop4Template2020 - female patients in cohort 4 Age 30 - 44",447963
 4005013,"[HIV] Pop4Template2020 - female patients in cohort 4 Age 45 - 55",255997
 4005014,"[HIV] Pop4Template2020 - female patients in cohort 4 Age 55+",745524
-4005015,"[HIV] Pop4Template2020 - female patients in cohort 4 NHW",1217751
-4005016,"[HIV] Pop4Template2020 - female patients in cohort 4 NHB",0
-4005017,"[HIV] Pop4Template2020 - female patients in cohort 4 Hispanic",3080
-4005018,"[HIV] Pop4Template2020 - female patients in cohort 4 AAPI",35508
+4005015,"[HIV] Pop4Template2020 - female patients in cohort 4 White",1217751
+4005016,"[HIV] Pop4Template2020 - female patients in cohort 4 Asian",35508
+4005017,"[HIV] Pop4Template2020 - female patients in cohort 4 African American",197371
+4005018,"[HIV] Pop4Template2020 - female patients in cohort 4 Hispanic",0
 4005030,"[HIV] Pop4Template2020 - male patients in cohort 4 males",1030223
 4005040,"[HIV] Pop4Template2020 - female patients in cohort 4 females",1790242
 4006001,"[HIV] Pop4Template2021 - male patients in cohort 4 Age 15 - 29",117840
 4006002,"[HIV] Pop4Template2021 - male patients in cohort 4 Age 30 - 44",153859
 4006003,"[HIV] Pop4Template2021 - male patients in cohort 4 Age 45 - 55",141847
 4006004,"[HIV] Pop4Template2021 - male patients in cohort 4 Age 55+",522613
-4006005,"[HIV] Pop4Template2021 - male patients in cohort 4 NHW",646291
-4006006,"[HIV] Pop4Template2021 - male patients in cohort 4 NHB",0
-4006007,"[HIV] Pop4Template2021 - male patients in cohort 4 Hispanic",204
-4006008,"[HIV] Pop4Template2021 - male patients in cohort 4 AAPI",15811
+4006005,"[HIV] Pop4Template2021 - male patients in cohort 4 White",646291
+4006006,"[HIV] Pop4Template2021 - male patients in cohort 4 Asian",15811
+4006007,"[HIV] Pop4Template2021 - male patients in cohort 4 African American",91048
+4006008,"[HIV] Pop4Template2021 - male patients in cohort 4 Hispanic",0
 4006011,"[HIV] Pop4Template2021 - female patients in cohort 4 Age 15 - 29",301118
 4006012,"[HIV] Pop4Template2021 - female patients in cohort 4 Age 30 - 44",418309
 4006013,"[HIV] Pop4Template2021 - female patients in cohort 4 Age 45 - 55",232529
 4006014,"[HIV] Pop4Template2021 - female patients in cohort 4 Age 55+",684616
-4006015,"[HIV] Pop4Template2021 - female patients in cohort 4 NHW",1104051
-4006016,"[HIV] Pop4Template2021 - female patients in cohort 4 NHB",0
-4006017,"[HIV] Pop4Template2021 - female patients in cohort 4 Hispanic",365
-4006018,"[HIV] Pop4Template2021 - female patients in cohort 4 AAPI",32262
+4006015,"[HIV] Pop4Template2021 - female patients in cohort 4 White",1104051
+4006016,"[HIV] Pop4Template2021 - female patients in cohort 4 Asian",32262
+4006017,"[HIV] Pop4Template2021 - female patients in cohort 4 African American",182429
+4006018,"[HIV] Pop4Template2021 - female patients in cohort 4 Hispanic",0
 4006030,"[HIV] Pop4Template2021 - male patients in cohort 4 males",936159
 4006040,"[HIV] Pop4Template2021 - female patients in cohort 4 females",1636572
 4007001,"[HIV] Pop4Template2022 - male patients in cohort 4 Age 15 - 29",95442
 4007002,"[HIV] Pop4Template2022 - male patients in cohort 4 Age 30 - 44",129043
 4007003,"[HIV] Pop4Template2022 - male patients in cohort 4 Age 45 - 55",116235
 4007004,"[HIV] Pop4Template2022 - male patients in cohort 4 Age 55+",430237
-4007005,"[HIV] Pop4Template2022 - male patients in cohort 4 NHW",523803
-4007006,"[HIV] Pop4Template2022 - male patients in cohort 4 NHB",0
-4007007,"[HIV] Pop4Template2022 - male patients in cohort 4 Hispanic",10
-4007008,"[HIV] Pop4Template2022 - male patients in cohort 4 AAPI",12442
+4007005,"[HIV] Pop4Template2022 - male patients in cohort 4 White",523803
+4007006,"[HIV] Pop4Template2022 - male patients in cohort 4 Asian",12442
+4007007,"[HIV] Pop4Template2022 - male patients in cohort 4 African American",77212
+4007008,"[HIV] Pop4Template2022 - male patients in cohort 4 Hispanic",0
 4007011,"[HIV] Pop4Template2022 - female patients in cohort 4 Age 15 - 29",239906
 4007012,"[HIV] Pop4Template2022 - female patients in cohort 4 Age 30 - 44",341546
 4007013,"[HIV] Pop4Template2022 - female patients in cohort 4 Age 45 - 55",189747
 4007014,"[HIV] Pop4Template2022 - female patients in cohort 4 Age 55+",562588
-4007015,"[HIV] Pop4Template2022 - female patients in cohort 4 NHW",890397
-4007016,"[HIV] Pop4Template2022 - female patients in cohort 4 NHB",0
-4007017,"[HIV] Pop4Template2022 - female patients in cohort 4 Hispanic",21
-4007018,"[HIV] Pop4Template2022 - female patients in cohort 4 AAPI",24038
+4007015,"[HIV] Pop4Template2022 - female patients in cohort 4 White",890397
+4007016,"[HIV] Pop4Template2022 - female patients in cohort 4 Asian",24038
+4007017,"[HIV] Pop4Template2022 - female patients in cohort 4 African American",150764
+4007018,"[HIV] Pop4Template2022 - female patients in cohort 4 Hispanic",0
 4007030,"[HIV] Pop4Template2022 - male patients in cohort 4 males",770957
 4007040,"[HIV] Pop4Template2022 - female patients in cohort 4 females",1333787
 4008001,"[HIV] Pop4Template2023 - male patients in cohort 4 Age 15 - 29",81888
 4008002,"[HIV] Pop4Template2023 - male patients in cohort 4 Age 30 - 44",112983
 4008003,"[HIV] Pop4Template2023 - male patients in cohort 4 Age 45 - 55",100602
 4008004,"[HIV] Pop4Template2023 - male patients in cohort 4 Age 55+",382038
-4008005,"[HIV] Pop4Template2023 - male patients in cohort 4 NHW",453474
-4008006,"[HIV] Pop4Template2023 - male patients in cohort 4 NHB",0
-4008007,"[HIV] Pop4Template2023 - male patients in cohort 4 Hispanic",1
-4008008,"[HIV] Pop4Template2023 - male patients in cohort 4 AAPI",10935
+4008005,"[HIV] Pop4Template2023 - male patients in cohort 4 White",453474
+4008006,"[HIV] Pop4Template2023 - male patients in cohort 4 Asian",10935
+4008007,"[HIV] Pop4Template2023 - male patients in cohort 4 African American",65819
+4008008,"[HIV] Pop4Template2023 - male patients in cohort 4 Hispanic",0
 4008011,"[HIV] Pop4Template2023 - female patients in cohort 4 Age 15 - 29",198206
 4008012,"[HIV] Pop4Template2023 - female patients in cohort 4 Age 30 - 44",299084
 4008013,"[HIV] Pop4Template2023 - female patients in cohort 4 Age 45 - 55",167110
 4008014,"[HIV] Pop4Template2023 - female patients in cohort 4 Age 55+",498859
-4008015,"[HIV] Pop4Template2023 - female patients in cohort 4 NHW",770102
-4008016,"[HIV] Pop4Template2023 - female patients in cohort 4 NHB",0
-4008017,"[HIV] Pop4Template2023 - female patients in cohort 4 Hispanic",1
-4008018,"[HIV] Pop4Template2023 - female patients in cohort 4 AAPI",20420
+4008015,"[HIV] Pop4Template2023 - female patients in cohort 4 White",770102
+4008016,"[HIV] Pop4Template2023 - female patients in cohort 4 Asian",20420
+4008017,"[HIV] Pop4Template2023 - female patients in cohort 4 African American",127609
+4008018,"[HIV] Pop4Template2023 - female patients in cohort 4 Hispanic",0
 4008030,"[HIV] Pop4Template2023 - male patients in cohort 4 males",677511
 4008040,"[HIV] Pop4Template2023 - female patients in cohort 4 females",1163259
 4009030,"[HIV] Pop4Template2HR2016 - male patients in cohort 4 males",155379
@@ -1279,163 +1311,179 @@
 4031040,"[HIV] Pop4TemplateChlamydia2022 - female patients in cohort 4 females",7196
 4032030,"[HIV] Pop4TemplateChlamydia2023 - male patients in cohort 4 males",5320
 4032040,"[HIV] Pop4TemplateChlamydia2023 - female patients in cohort 4 females",6343
-4033030,"[HIV] Pop4TemplateGonorrhoea2016 - male patients in cohort 4 males",14311
-4033040,"[HIV] Pop4TemplateGonorrhoea2016 - female patients in cohort 4 females",30716
-4034030,"[HIV] Pop4TemplateGonorrhoea2017 - male patients in cohort 4 males",15081
-4034040,"[HIV] Pop4TemplateGonorrhoea2017 - female patients in cohort 4 females",31546
-4035030,"[HIV] Pop4TemplateGonorrhoea2018 - male patients in cohort 4 males",15298
-4035040,"[HIV] Pop4TemplateGonorrhoea2018 - female patients in cohort 4 females",30766
-4036030,"[HIV] Pop4TemplateGonorrhoea2019 - male patients in cohort 4 males",15395
-4036040,"[HIV] Pop4TemplateGonorrhoea2019 - female patients in cohort 4 females",31697
-4037030,"[HIV] Pop4TemplateGonorrhoea2020 - male patients in cohort 4 males",13714
-4037040,"[HIV] Pop4TemplateGonorrhoea2020 - female patients in cohort 4 females",32219
-4038030,"[HIV] Pop4TemplateGonorrhoea2021 - male patients in cohort 4 males",13897
-4038040,"[HIV] Pop4TemplateGonorrhoea2021 - female patients in cohort 4 females",31363
-4039030,"[HIV] Pop4TemplateGonorrhoea2022 - male patients in cohort 4 males",13252
-4039040,"[HIV] Pop4TemplateGonorrhoea2022 - female patients in cohort 4 females",26663
-4040030,"[HIV] Pop4TemplateGonorrhoea2023 - male patients in cohort 4 males",12332
-4040040,"[HIV] Pop4TemplateGonorrhoea2023 - female patients in cohort 4 females",24932
-4041030,"[HIV] Pop4TemplateHIVTest2016 - male patients in cohort 4 males",366360
-4041040,"[HIV] Pop4TemplateHIVTest2016 - female patients in cohort 4 females",872471
-4042030,"[HIV] Pop4TemplateHIVTest2017 - male patients in cohort 4 males",382925
-4042040,"[HIV] Pop4TemplateHIVTest2017 - female patients in cohort 4 females",890316
-4043030,"[HIV] Pop4TemplateHIVTest2018 - male patients in cohort 4 males",369941
-4043040,"[HIV] Pop4TemplateHIVTest2018 - female patients in cohort 4 females",843044
-4044030,"[HIV] Pop4TemplateHIVTest2019 - male patients in cohort 4 males",345611
-4044040,"[HIV] Pop4TemplateHIVTest2019 - female patients in cohort 4 females",778070
-4045030,"[HIV] Pop4TemplateHIVTest2020 - male patients in cohort 4 males",314458
-4045040,"[HIV] Pop4TemplateHIVTest2020 - female patients in cohort 4 females",723278
-4046030,"[HIV] Pop4TemplateHIVTest2021 - male patients in cohort 4 males",290909
-4046040,"[HIV] Pop4TemplateHIVTest2021 - female patients in cohort 4 females",672091
-4047030,"[HIV] Pop4TemplateHIVTest2022 - male patients in cohort 4 males",240519
-4047040,"[HIV] Pop4TemplateHIVTest2022 - female patients in cohort 4 females",549328
-4048030,"[HIV] Pop4TemplateHIVTest2023 - male patients in cohort 4 males",211078
-4048040,"[HIV] Pop4TemplateHIVTest2023 - female patients in cohort 4 females",476344
-4049030,"[HIV] Pop4TemplateHIVany2016 - male patients in cohort 4 males",136034
-4049040,"[HIV] Pop4TemplateHIVany2016 - female patients in cohort 4 females",0
-4050030,"[HIV] Pop4TemplateHIVany2017 - male patients in cohort 4 males",139519
-4050040,"[HIV] Pop4TemplateHIVany2017 - female patients in cohort 4 females",0
-4051030,"[HIV] Pop4TemplateHIVany2018 - male patients in cohort 4 males",134286
-4051040,"[HIV] Pop4TemplateHIVany2018 - female patients in cohort 4 females",0
-4052030,"[HIV] Pop4TemplateHIVany2019 - male patients in cohort 4 males",124605
-4052040,"[HIV] Pop4TemplateHIVany2019 - female patients in cohort 4 females",0
-4053030,"[HIV] Pop4TemplateHIVany2020 - male patients in cohort 4 males",112812
-4053040,"[HIV] Pop4TemplateHIVany2020 - female patients in cohort 4 females",0
-4054030,"[HIV] Pop4TemplateHIVany2021 - male patients in cohort 4 males",104902
-4054040,"[HIV] Pop4TemplateHIVany2021 - female patients in cohort 4 females",0
-4055030,"[HIV] Pop4TemplateHIVany2022 - male patients in cohort 4 males",90095
-4055040,"[HIV] Pop4TemplateHIVany2022 - female patients in cohort 4 females",0
-4056030,"[HIV] Pop4TemplateHIVany2023 - male patients in cohort 4 males",78452
-4056040,"[HIV] Pop4TemplateHIVany2023 - female patients in cohort 4 females",0
-4057030,"[HIV] Pop4TemplateOther2016 - male patients in cohort 4 males",89451
-4057040,"[HIV] Pop4TemplateOther2016 - female patients in cohort 4 females",329997
-4058030,"[HIV] Pop4TemplateOther2017 - male patients in cohort 4 males",88775
-4058040,"[HIV] Pop4TemplateOther2017 - female patients in cohort 4 females",309639
-4059030,"[HIV] Pop4TemplateOther2018 - male patients in cohort 4 males",85373
-4059040,"[HIV] Pop4TemplateOther2018 - female patients in cohort 4 females",273010
-4060030,"[HIV] Pop4TemplateOther2019 - male patients in cohort 4 males",77719
-4060040,"[HIV] Pop4TemplateOther2019 - female patients in cohort 4 females",211382
-4061030,"[HIV] Pop4TemplateOther2020 - male patients in cohort 4 males",69969
-4061040,"[HIV] Pop4TemplateOther2020 - female patients in cohort 4 females",186048
-4062030,"[HIV] Pop4TemplateOther2021 - male patients in cohort 4 males",66469
-4062040,"[HIV] Pop4TemplateOther2021 - female patients in cohort 4 females",170436
-4063030,"[HIV] Pop4TemplateOther2022 - male patients in cohort 4 males",58327
-4063040,"[HIV] Pop4TemplateOther2022 - female patients in cohort 4 females",138977
-4064030,"[HIV] Pop4TemplateOther2023 - male patients in cohort 4 males",51346
-4064040,"[HIV] Pop4TemplateOther2023 - female patients in cohort 4 females",117934
-4065030,"[HIV] Pop4TemplateOtherSTI2016 - male patients in cohort 4 males",89444
-4065040,"[HIV] Pop4TemplateOtherSTI2016 - female patients in cohort 4 females",325502
-4066030,"[HIV] Pop4TemplateOtherSTI2017 - male patients in cohort 4 males",88141
-4066040,"[HIV] Pop4TemplateOtherSTI2017 - female patients in cohort 4 females",316730
-4067030,"[HIV] Pop4TemplateOtherSTI2018 - male patients in cohort 4 males",83234
-4067040,"[HIV] Pop4TemplateOtherSTI2018 - female patients in cohort 4 females",293094
-4068030,"[HIV] Pop4TemplateOtherSTI2019 - male patients in cohort 4 males",77437
-4068040,"[HIV] Pop4TemplateOtherSTI2019 - female patients in cohort 4 females",271780
-4069030,"[HIV] Pop4TemplateOtherSTI2020 - male patients in cohort 4 males",69826
-4069040,"[HIV] Pop4TemplateOtherSTI2020 - female patients in cohort 4 females",248923
-4070030,"[HIV] Pop4TemplateOtherSTI2021 - male patients in cohort 4 males",65514
-4070040,"[HIV] Pop4TemplateOtherSTI2021 - female patients in cohort 4 females",230174
-4071030,"[HIV] Pop4TemplateOtherSTI2022 - male patients in cohort 4 males",54880
-4071040,"[HIV] Pop4TemplateOtherSTI2022 - female patients in cohort 4 females",179183
-4072030,"[HIV] Pop4TemplateOtherSTI2023 - male patients in cohort 4 males",49611
-4072040,"[HIV] Pop4TemplateOtherSTI2023 - female patients in cohort 4 females",161293
-4073030,"[HIV] Pop4TemplatePWID2016 - male patients in cohort 4 males",1016916
-4073040,"[HIV] Pop4TemplatePWID2016 - female patients in cohort 4 females",1334154
-4074030,"[HIV] Pop4TemplatePWID2017 - male patients in cohort 4 males",974017
-4074040,"[HIV] Pop4TemplatePWID2017 - female patients in cohort 4 females",1274133
-4075030,"[HIV] Pop4TemplatePWID2018 - male patients in cohort 4 males",889963
-4075040,"[HIV] Pop4TemplatePWID2018 - female patients in cohort 4 females",1166698
-4076030,"[HIV] Pop4TemplatePWID2019 - male patients in cohort 4 males",803536
-4076040,"[HIV] Pop4TemplatePWID2019 - female patients in cohort 4 females",1048384
-4077030,"[HIV] Pop4TemplatePWID2020 - male patients in cohort 4 males",722175
-4077040,"[HIV] Pop4TemplatePWID2020 - female patients in cohort 4 females",945740
-4078030,"[HIV] Pop4TemplatePWID2021 - male patients in cohort 4 males",649766
-4078040,"[HIV] Pop4TemplatePWID2021 - female patients in cohort 4 females",852213
-4079030,"[HIV] Pop4TemplatePWID2022 - male patients in cohort 4 males",535126
-4079040,"[HIV] Pop4TemplatePWID2022 - female patients in cohort 4 females",699788
-4080030,"[HIV] Pop4TemplatePWID2023 - male patients in cohort 4 males",468250
-4080040,"[HIV] Pop4TemplatePWID2023 - female patients in cohort 4 females",607878
-4081030,"[HIV] Pop4TemplateSTIany2016 - male patients in cohort 4 males",52359
-4081040,"[HIV] Pop4TemplateSTIany2016 - female patients in cohort 4 females",191064
-4082030,"[HIV] Pop4TemplateSTIany2017 - male patients in cohort 4 males",53562
-4082040,"[HIV] Pop4TemplateSTIany2017 - female patients in cohort 4 females",187539
-4083030,"[HIV] Pop4TemplateSTIany2018 - male patients in cohort 4 males",52186
-4083040,"[HIV] Pop4TemplateSTIany2018 - female patients in cohort 4 females",175127
-4084030,"[HIV] Pop4TemplateSTIany2019 - male patients in cohort 4 males",49190
-4084040,"[HIV] Pop4TemplateSTIany2019 - female patients in cohort 4 females",160276
-4085030,"[HIV] Pop4TemplateSTIany2020 - male patients in cohort 4 males",44282
-4085040,"[HIV] Pop4TemplateSTIany2020 - female patients in cohort 4 females",148175
-4086030,"[HIV] Pop4TemplateSTIany2021 - male patients in cohort 4 males",42402
-4086040,"[HIV] Pop4TemplateSTIany2021 - female patients in cohort 4 females",137243
-4087030,"[HIV] Pop4TemplateSTIany2022 - male patients in cohort 4 males",37137
-4087040,"[HIV] Pop4TemplateSTIany2022 - female patients in cohort 4 females",110673
-4088030,"[HIV] Pop4TemplateSTIany2023 - male patients in cohort 4 males",33404
-4088040,"[HIV] Pop4TemplateSTIany2023 - female patients in cohort 4 females",97072
-4089030,"[HIV] Pop4TemplateSyphilis2016 - male patients in cohort 4 males",8988
-4089040,"[HIV] Pop4TemplateSyphilis2016 - female patients in cohort 4 females",4791
-4090030,"[HIV] Pop4TemplateSyphilis2017 - male patients in cohort 4 males",9795
-4090040,"[HIV] Pop4TemplateSyphilis2017 - female patients in cohort 4 females",4765
-4091030,"[HIV] Pop4TemplateSyphilis2018 - male patients in cohort 4 males",10027
-4091040,"[HIV] Pop4TemplateSyphilis2018 - female patients in cohort 4 females",4554
-4092030,"[HIV] Pop4TemplateSyphilis2019 - male patients in cohort 4 males",9879
-4092040,"[HIV] Pop4TemplateSyphilis2019 - female patients in cohort 4 females",4247
-4093030,"[HIV] Pop4TemplateSyphilis2020 - male patients in cohort 4 males",9341
-4093040,"[HIV] Pop4TemplateSyphilis2020 - female patients in cohort 4 females",3913
-4094030,"[HIV] Pop4TemplateSyphilis2021 - male patients in cohort 4 males",9156
-4094040,"[HIV] Pop4TemplateSyphilis2021 - female patients in cohort 4 females",3691
-4095030,"[HIV] Pop4TemplateSyphilis2022 - male patients in cohort 4 males",8229
-4095040,"[HIV] Pop4TemplateSyphilis2022 - female patients in cohort 4 females",3213
-4096030,"[HIV] Pop4TemplateSyphilis2023 - male patients in cohort 4 males",7432
-4096040,"[HIV] Pop4TemplateSyphilis2023 - female patients in cohort 4 females",2832
-4097030,"[HIV] Pop4TemplateTrichomoniasis2016 - male patients in cohort 4 males",1213
-4097040,"[HIV] Pop4TemplateTrichomoniasis2016 - female patients in cohort 4 females",14054
-4098030,"[HIV] Pop4TemplateTrichomoniasis2017 - male patients in cohort 4 males",1205
-4098040,"[HIV] Pop4TemplateTrichomoniasis2017 - female patients in cohort 4 females",13087
-4099030,"[HIV] Pop4TemplateTrichomoniasis2018 - male patients in cohort 4 males",1155
-4099040,"[HIV] Pop4TemplateTrichomoniasis2018 - female patients in cohort 4 females",11723
-4100030,"[HIV] Pop4TemplateTrichomoniasis2019 - male patients in cohort 4 males",860
-4100040,"[HIV] Pop4TemplateTrichomoniasis2019 - female patients in cohort 4 females",10177
-4101030,"[HIV] Pop4TemplateTrichomoniasis2020 - male patients in cohort 4 males",749
-4101040,"[HIV] Pop4TemplateTrichomoniasis2020 - female patients in cohort 4 females",8931
-4102030,"[HIV] Pop4TemplateTrichomoniasis2021 - male patients in cohort 4 males",647
-4102040,"[HIV] Pop4TemplateTrichomoniasis2021 - female patients in cohort 4 females",8109
-4103030,"[HIV] Pop4TemplateTrichomoniasis2022 - male patients in cohort 4 males",593
-4103040,"[HIV] Pop4TemplateTrichomoniasis2022 - female patients in cohort 4 females",6659
-4104030,"[HIV] Pop4TemplateTrichomoniasis2023 - male patients in cohort 4 males",466
-4104040,"[HIV] Pop4TemplateTrichomoniasis2023 - female patients in cohort 4 females",5334
-4105030,"[HIV] Pop4TemplateanySTI2016 - male patients in cohort 4 males",98380
-4105040,"[HIV] Pop4TemplateanySTI2016 - female patients in cohort 4 females",350346
-4106030,"[HIV] Pop4TemplateanySTI2017 - male patients in cohort 4 males",97790
-4106040,"[HIV] Pop4TemplateanySTI2017 - female patients in cohort 4 females",340229
-4107030,"[HIV] Pop4TemplateanySTI2018 - male patients in cohort 4 males",93136
-4107040,"[HIV] Pop4TemplateanySTI2018 - female patients in cohort 4 females",314198
-4108030,"[HIV] Pop4TemplateanySTI2019 - male patients in cohort 4 males",86871
-4108040,"[HIV] Pop4TemplateanySTI2019 - female patients in cohort 4 females",290337
-4109030,"[HIV] Pop4TemplateanySTI2020 - male patients in cohort 4 males",78622
-4109040,"[HIV] Pop4TemplateanySTI2020 - female patients in cohort 4 females",265341
-4110030,"[HIV] Pop4TemplateanySTI2021 - male patients in cohort 4 males",74176
-4110040,"[HIV] Pop4TemplateanySTI2021 - female patients in cohort 4 females",245124
-4111030,"[HIV] Pop4TemplateanySTI2022 - male patients in cohort 4 males",63006
-4111040,"[HIV] Pop4TemplateanySTI2022 - female patients in cohort 4 females",191383
-4112030,"[HIV] Pop4TemplateanySTI2023 - male patients in cohort 4 males",57092
-4112040,"[HIV] Pop4TemplateanySTI2023 - female patients in cohort 4 females",171557
+4033030,"[HIV] Pop4TemplateGonorrhea2016 - male patients in cohort 4 males",14311
+4033040,"[HIV] Pop4TemplateGonorrhea2016 - female patients in cohort 4 females",30716
+4034030,"[HIV] Pop4TemplateGonorrhea2017 - male patients in cohort 4 males",15081
+4034040,"[HIV] Pop4TemplateGonorrhea2017 - female patients in cohort 4 females",31546
+4035030,"[HIV] Pop4TemplateGonorrhea2018 - male patients in cohort 4 males",15298
+4035040,"[HIV] Pop4TemplateGonorrhea2018 - female patients in cohort 4 females",30766
+4036030,"[HIV] Pop4TemplateGonorrhea2019 - male patients in cohort 4 males",15395
+4036040,"[HIV] Pop4TemplateGonorrhea2019 - female patients in cohort 4 females",31697
+4037030,"[HIV] Pop4TemplateGonorrhea2020 - male patients in cohort 4 males",13714
+4037040,"[HIV] Pop4TemplateGonorrhea2020 - female patients in cohort 4 females",32219
+4038030,"[HIV] Pop4TemplateGonorrhea2021 - male patients in cohort 4 males",13897
+4038040,"[HIV] Pop4TemplateGonorrhea2021 - female patients in cohort 4 females",31363
+4039030,"[HIV] Pop4TemplateGonorrhea2022 - male patients in cohort 4 males",13252
+4039040,"[HIV] Pop4TemplateGonorrhea2022 - female patients in cohort 4 females",26663
+4040030,"[HIV] Pop4TemplateGonorrhea2023 - male patients in cohort 4 males",12332
+4040040,"[HIV] Pop4TemplateGonorrhea2023 - female patients in cohort 4 females",24932
+4041030,"[HIV] Pop4TemplateGonorrhoea2016 - male patients in cohort 4 males",14311
+4041040,"[HIV] Pop4TemplateGonorrhoea2016 - female patients in cohort 4 females",30716
+4042030,"[HIV] Pop4TemplateGonorrhoea2017 - male patients in cohort 4 males",15081
+4042040,"[HIV] Pop4TemplateGonorrhoea2017 - female patients in cohort 4 females",31546
+4043030,"[HIV] Pop4TemplateGonorrhoea2018 - male patients in cohort 4 males",15298
+4043040,"[HIV] Pop4TemplateGonorrhoea2018 - female patients in cohort 4 females",30766
+4044030,"[HIV] Pop4TemplateGonorrhoea2019 - male patients in cohort 4 males",15395
+4044040,"[HIV] Pop4TemplateGonorrhoea2019 - female patients in cohort 4 females",31697
+4045030,"[HIV] Pop4TemplateGonorrhoea2020 - male patients in cohort 4 males",13714
+4045040,"[HIV] Pop4TemplateGonorrhoea2020 - female patients in cohort 4 females",32219
+4046030,"[HIV] Pop4TemplateGonorrhoea2021 - male patients in cohort 4 males",13897
+4046040,"[HIV] Pop4TemplateGonorrhoea2021 - female patients in cohort 4 females",31363
+4047030,"[HIV] Pop4TemplateGonorrhoea2022 - male patients in cohort 4 males",13252
+4047040,"[HIV] Pop4TemplateGonorrhoea2022 - female patients in cohort 4 females",26663
+4048030,"[HIV] Pop4TemplateGonorrhoea2023 - male patients in cohort 4 males",12332
+4048040,"[HIV] Pop4TemplateGonorrhoea2023 - female patients in cohort 4 females",24932
+4049030,"[HIV] Pop4TemplateHIVTest2016 - male patients in cohort 4 males",366360
+4049040,"[HIV] Pop4TemplateHIVTest2016 - female patients in cohort 4 females",872471
+4050030,"[HIV] Pop4TemplateHIVTest2017 - male patients in cohort 4 males",382925
+4050040,"[HIV] Pop4TemplateHIVTest2017 - female patients in cohort 4 females",890316
+4051030,"[HIV] Pop4TemplateHIVTest2018 - male patients in cohort 4 males",369941
+4051040,"[HIV] Pop4TemplateHIVTest2018 - female patients in cohort 4 females",843044
+4052030,"[HIV] Pop4TemplateHIVTest2019 - male patients in cohort 4 males",345611
+4052040,"[HIV] Pop4TemplateHIVTest2019 - female patients in cohort 4 females",778070
+4053030,"[HIV] Pop4TemplateHIVTest2020 - male patients in cohort 4 males",314458
+4053040,"[HIV] Pop4TemplateHIVTest2020 - female patients in cohort 4 females",723278
+4054030,"[HIV] Pop4TemplateHIVTest2021 - male patients in cohort 4 males",290909
+4054040,"[HIV] Pop4TemplateHIVTest2021 - female patients in cohort 4 females",672091
+4055030,"[HIV] Pop4TemplateHIVTest2022 - male patients in cohort 4 males",240519
+4055040,"[HIV] Pop4TemplateHIVTest2022 - female patients in cohort 4 females",549328
+4056030,"[HIV] Pop4TemplateHIVTest2023 - male patients in cohort 4 males",211078
+4056040,"[HIV] Pop4TemplateHIVTest2023 - female patients in cohort 4 females",476344
+4057030,"[HIV] Pop4TemplateHIVany2016 - male patients in cohort 4 males",136034
+4057040,"[HIV] Pop4TemplateHIVany2016 - female patients in cohort 4 females",314264
+4058030,"[HIV] Pop4TemplateHIVany2017 - male patients in cohort 4 males",139519
+4058040,"[HIV] Pop4TemplateHIVany2017 - female patients in cohort 4 females",311685
+4059030,"[HIV] Pop4TemplateHIVany2018 - male patients in cohort 4 males",134286
+4059040,"[HIV] Pop4TemplateHIVany2018 - female patients in cohort 4 females",289854
+4060030,"[HIV] Pop4TemplateHIVany2019 - male patients in cohort 4 males",124605
+4060040,"[HIV] Pop4TemplateHIVany2019 - female patients in cohort 4 females",258061
+4061030,"[HIV] Pop4TemplateHIVany2020 - male patients in cohort 4 males",112812
+4061040,"[HIV] Pop4TemplateHIVany2020 - female patients in cohort 4 females",238888
+4062030,"[HIV] Pop4TemplateHIVany2021 - male patients in cohort 4 males",104902
+4062040,"[HIV] Pop4TemplateHIVany2021 - female patients in cohort 4 females",220990
+4063030,"[HIV] Pop4TemplateHIVany2022 - male patients in cohort 4 males",90095
+4063040,"[HIV] Pop4TemplateHIVany2022 - female patients in cohort 4 females",181417
+4064030,"[HIV] Pop4TemplateHIVany2023 - male patients in cohort 4 males",78452
+4064040,"[HIV] Pop4TemplateHIVany2023 - female patients in cohort 4 females",154143
+4065030,"[HIV] Pop4TemplateOther2016 - male patients in cohort 4 males",89451
+4065040,"[HIV] Pop4TemplateOther2016 - female patients in cohort 4 females",329997
+4066030,"[HIV] Pop4TemplateOther2017 - male patients in cohort 4 males",88775
+4066040,"[HIV] Pop4TemplateOther2017 - female patients in cohort 4 females",309639
+4067030,"[HIV] Pop4TemplateOther2018 - male patients in cohort 4 males",85373
+4067040,"[HIV] Pop4TemplateOther2018 - female patients in cohort 4 females",273010
+4068030,"[HIV] Pop4TemplateOther2019 - male patients in cohort 4 males",77719
+4068040,"[HIV] Pop4TemplateOther2019 - female patients in cohort 4 females",211382
+4069030,"[HIV] Pop4TemplateOther2020 - male patients in cohort 4 males",69969
+4069040,"[HIV] Pop4TemplateOther2020 - female patients in cohort 4 females",186048
+4070030,"[HIV] Pop4TemplateOther2021 - male patients in cohort 4 males",66469
+4070040,"[HIV] Pop4TemplateOther2021 - female patients in cohort 4 females",170436
+4071030,"[HIV] Pop4TemplateOther2022 - male patients in cohort 4 males",58327
+4071040,"[HIV] Pop4TemplateOther2022 - female patients in cohort 4 females",138977
+4072030,"[HIV] Pop4TemplateOther2023 - male patients in cohort 4 males",51346
+4072040,"[HIV] Pop4TemplateOther2023 - female patients in cohort 4 females",117934
+4073030,"[HIV] Pop4TemplateOtherSTI2016 - male patients in cohort 4 males",89444
+4073040,"[HIV] Pop4TemplateOtherSTI2016 - female patients in cohort 4 females",325502
+4074030,"[HIV] Pop4TemplateOtherSTI2017 - male patients in cohort 4 males",88141
+4074040,"[HIV] Pop4TemplateOtherSTI2017 - female patients in cohort 4 females",316730
+4075030,"[HIV] Pop4TemplateOtherSTI2018 - male patients in cohort 4 males",83234
+4075040,"[HIV] Pop4TemplateOtherSTI2018 - female patients in cohort 4 females",293094
+4076030,"[HIV] Pop4TemplateOtherSTI2019 - male patients in cohort 4 males",77437
+4076040,"[HIV] Pop4TemplateOtherSTI2019 - female patients in cohort 4 females",271780
+4077030,"[HIV] Pop4TemplateOtherSTI2020 - male patients in cohort 4 males",69826
+4077040,"[HIV] Pop4TemplateOtherSTI2020 - female patients in cohort 4 females",248923
+4078030,"[HIV] Pop4TemplateOtherSTI2021 - male patients in cohort 4 males",65514
+4078040,"[HIV] Pop4TemplateOtherSTI2021 - female patients in cohort 4 females",230174
+4079030,"[HIV] Pop4TemplateOtherSTI2022 - male patients in cohort 4 males",54880
+4079040,"[HIV] Pop4TemplateOtherSTI2022 - female patients in cohort 4 females",179183
+4080030,"[HIV] Pop4TemplateOtherSTI2023 - male patients in cohort 4 males",49611
+4080040,"[HIV] Pop4TemplateOtherSTI2023 - female patients in cohort 4 females",161293
+4081030,"[HIV] Pop4TemplatePWID2016 - male patients in cohort 4 males",1016916
+4081040,"[HIV] Pop4TemplatePWID2016 - female patients in cohort 4 females",1334154
+4082030,"[HIV] Pop4TemplatePWID2017 - male patients in cohort 4 males",974017
+4082040,"[HIV] Pop4TemplatePWID2017 - female patients in cohort 4 females",1274133
+4083030,"[HIV] Pop4TemplatePWID2018 - male patients in cohort 4 males",889963
+4083040,"[HIV] Pop4TemplatePWID2018 - female patients in cohort 4 females",1166698
+4084030,"[HIV] Pop4TemplatePWID2019 - male patients in cohort 4 males",803536
+4084040,"[HIV] Pop4TemplatePWID2019 - female patients in cohort 4 females",1048384
+4085030,"[HIV] Pop4TemplatePWID2020 - male patients in cohort 4 males",722175
+4085040,"[HIV] Pop4TemplatePWID2020 - female patients in cohort 4 females",945740
+4086030,"[HIV] Pop4TemplatePWID2021 - male patients in cohort 4 males",649766
+4086040,"[HIV] Pop4TemplatePWID2021 - female patients in cohort 4 females",852213
+4087030,"[HIV] Pop4TemplatePWID2022 - male patients in cohort 4 males",535126
+4087040,"[HIV] Pop4TemplatePWID2022 - female patients in cohort 4 females",699788
+4088030,"[HIV] Pop4TemplatePWID2023 - male patients in cohort 4 males",468250
+4088040,"[HIV] Pop4TemplatePWID2023 - female patients in cohort 4 females",607878
+4089030,"[HIV] Pop4TemplateSTIany2016 - male patients in cohort 4 males",52359
+4089040,"[HIV] Pop4TemplateSTIany2016 - female patients in cohort 4 females",191064
+4090030,"[HIV] Pop4TemplateSTIany2017 - male patients in cohort 4 males",53562
+4090040,"[HIV] Pop4TemplateSTIany2017 - female patients in cohort 4 females",187539
+4091030,"[HIV] Pop4TemplateSTIany2018 - male patients in cohort 4 males",52186
+4091040,"[HIV] Pop4TemplateSTIany2018 - female patients in cohort 4 females",175127
+4092030,"[HIV] Pop4TemplateSTIany2019 - male patients in cohort 4 males",49190
+4092040,"[HIV] Pop4TemplateSTIany2019 - female patients in cohort 4 females",160276
+4093030,"[HIV] Pop4TemplateSTIany2020 - male patients in cohort 4 males",44282
+4093040,"[HIV] Pop4TemplateSTIany2020 - female patients in cohort 4 females",148175
+4094030,"[HIV] Pop4TemplateSTIany2021 - male patients in cohort 4 males",42402
+4094040,"[HIV] Pop4TemplateSTIany2021 - female patients in cohort 4 females",137243
+4095030,"[HIV] Pop4TemplateSTIany2022 - male patients in cohort 4 males",37137
+4095040,"[HIV] Pop4TemplateSTIany2022 - female patients in cohort 4 females",110673
+4096030,"[HIV] Pop4TemplateSTIany2023 - male patients in cohort 4 males",33404
+4096040,"[HIV] Pop4TemplateSTIany2023 - female patients in cohort 4 females",97072
+4097030,"[HIV] Pop4TemplateSyphilis2016 - male patients in cohort 4 males",8988
+4097040,"[HIV] Pop4TemplateSyphilis2016 - female patients in cohort 4 females",4791
+4098030,"[HIV] Pop4TemplateSyphilis2017 - male patients in cohort 4 males",9795
+4098040,"[HIV] Pop4TemplateSyphilis2017 - female patients in cohort 4 females",4765
+4099030,"[HIV] Pop4TemplateSyphilis2018 - male patients in cohort 4 males",10027
+4099040,"[HIV] Pop4TemplateSyphilis2018 - female patients in cohort 4 females",4554
+4100030,"[HIV] Pop4TemplateSyphilis2019 - male patients in cohort 4 males",9879
+4100040,"[HIV] Pop4TemplateSyphilis2019 - female patients in cohort 4 females",4247
+4101030,"[HIV] Pop4TemplateSyphilis2020 - male patients in cohort 4 males",9341
+4101040,"[HIV] Pop4TemplateSyphilis2020 - female patients in cohort 4 females",3913
+4102030,"[HIV] Pop4TemplateSyphilis2021 - male patients in cohort 4 males",9156
+4102040,"[HIV] Pop4TemplateSyphilis2021 - female patients in cohort 4 females",3691
+4103030,"[HIV] Pop4TemplateSyphilis2022 - male patients in cohort 4 males",8229
+4103040,"[HIV] Pop4TemplateSyphilis2022 - female patients in cohort 4 females",3213
+4104030,"[HIV] Pop4TemplateSyphilis2023 - male patients in cohort 4 males",7432
+4104040,"[HIV] Pop4TemplateSyphilis2023 - female patients in cohort 4 females",2832
+4105030,"[HIV] Pop4TemplateTrichomoniasis2016 - male patients in cohort 4 males",1213
+4105040,"[HIV] Pop4TemplateTrichomoniasis2016 - female patients in cohort 4 females",14054
+4106030,"[HIV] Pop4TemplateTrichomoniasis2017 - male patients in cohort 4 males",1205
+4106040,"[HIV] Pop4TemplateTrichomoniasis2017 - female patients in cohort 4 females",13087
+4107030,"[HIV] Pop4TemplateTrichomoniasis2018 - male patients in cohort 4 males",1155
+4107040,"[HIV] Pop4TemplateTrichomoniasis2018 - female patients in cohort 4 females",11723
+4108030,"[HIV] Pop4TemplateTrichomoniasis2019 - male patients in cohort 4 males",860
+4108040,"[HIV] Pop4TemplateTrichomoniasis2019 - female patients in cohort 4 females",10177
+4109030,"[HIV] Pop4TemplateTrichomoniasis2020 - male patients in cohort 4 males",749
+4109040,"[HIV] Pop4TemplateTrichomoniasis2020 - female patients in cohort 4 females",8931
+4110030,"[HIV] Pop4TemplateTrichomoniasis2021 - male patients in cohort 4 males",647
+4110040,"[HIV] Pop4TemplateTrichomoniasis2021 - female patients in cohort 4 females",8109
+4111030,"[HIV] Pop4TemplateTrichomoniasis2022 - male patients in cohort 4 males",593
+4111040,"[HIV] Pop4TemplateTrichomoniasis2022 - female patients in cohort 4 females",6659
+4112030,"[HIV] Pop4TemplateTrichomoniasis2023 - male patients in cohort 4 males",466
+4112040,"[HIV] Pop4TemplateTrichomoniasis2023 - female patients in cohort 4 females",5334
+4113030,"[HIV] Pop4TemplateanySTI2016 - male patients in cohort 4 males",98380
+4113040,"[HIV] Pop4TemplateanySTI2016 - female patients in cohort 4 females",350346
+4114030,"[HIV] Pop4TemplateanySTI2017 - male patients in cohort 4 males",97790
+4114040,"[HIV] Pop4TemplateanySTI2017 - female patients in cohort 4 females",340229
+4115030,"[HIV] Pop4TemplateanySTI2018 - male patients in cohort 4 males",93136
+4115040,"[HIV] Pop4TemplateanySTI2018 - female patients in cohort 4 females",314198
+4116030,"[HIV] Pop4TemplateanySTI2019 - male patients in cohort 4 males",86871
+4116040,"[HIV] Pop4TemplateanySTI2019 - female patients in cohort 4 females",290337
+4117030,"[HIV] Pop4TemplateanySTI2020 - male patients in cohort 4 males",78622
+4117040,"[HIV] Pop4TemplateanySTI2020 - female patients in cohort 4 females",265341
+4118030,"[HIV] Pop4TemplateanySTI2021 - male patients in cohort 4 males",74176
+4118040,"[HIV] Pop4TemplateanySTI2021 - female patients in cohort 4 females",245124
+4119030,"[HIV] Pop4TemplateanySTI2022 - male patients in cohort 4 males",63006
+4119040,"[HIV] Pop4TemplateanySTI2022 - female patients in cohort 4 females",191383
+4120030,"[HIV] Pop4TemplateanySTI2023 - male patients in cohort 4 males",57092
+4120040,"[HIV] Pop4TemplateanySTI2023 - female patients in cohort 4 females",171557

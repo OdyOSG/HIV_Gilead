@@ -19203,12 +19203,10 @@
 },
 "StartWindow": {
  "Start": {
- "Days": 365,
-"Coeff": -1 
+ "Coeff": -1 
 },
 "End": {
- "Days": 365,
-"Coeff": 1 
+ "Coeff": 1 
 },
 "UseEventEnd": false 
 },

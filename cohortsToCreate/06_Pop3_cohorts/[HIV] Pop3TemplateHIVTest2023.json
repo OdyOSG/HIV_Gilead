@@ -18970,7 +18970,7 @@
 "UseEventEnd": false 
 },
 "Occurrence": {
- "Type": 2,
+ "Type": 0,
 "Count": 0 
 } 
 } 
@@ -19221,13 +19221,6 @@
 } 
 } 
 ],
-"EndStrategy": {
- "CustomEra": {
- "DrugCodesetId": 17,
-"GapDays": 30,
-"Offset": 0 
-} 
-},
 "CensoringCriteria": [],
 "CollapseSettings": {
  "CollapseType": "ERA",

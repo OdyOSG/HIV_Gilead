@@ -18948,6 +18948,37 @@
 },
 "InclusionRules": [
  {
+ "name": "Remove PrEP excluded conditions",
+"description": "Remove non-HIV prep use",
+"expression": {
+ "Type": "ALL",
+"CriteriaList": [
+ {
+ "Criteria": {
+ "ConditionOccurrence": {
+ "CodesetId": 35 
+} 
+},
+"StartWindow": {
+ "Start": {
+ "Coeff": -1 
+},
+"End": {
+ "Coeff": 1 
+},
+"UseEventEnd": false 
+},
+"Occurrence": {
+ "Type": 2,
+"Count": 1 
+} 
+} 
+],
+"DemographicCriteriaList": [],
+"Groups": [] 
+} 
+},
+{
  "name": "Age >=15",
 "expression": {
  "Type": "ALL",

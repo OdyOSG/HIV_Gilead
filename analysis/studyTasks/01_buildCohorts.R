@@ -10,10 +10,13 @@
 ## Load libraries and scripts
 
 library(dplyr)
-source(here::here('analysis/private/_buildCohorts.R'))
-source(here::here('analysis/private/_executeStudy.R'))
-source(here::here('analysis/private/_utilities.R'))
+library(DatabaseConnector)
+install.packages("renv")
+#renv::init()
 
+renv::restore()
+
+source(here::here('analysis/private/_prepareStudy.R'))
 
 # C. Connection ----------------------
 
@@ -23,11 +26,15 @@ configBlock <- "synpuf"
 # >>>
 
 ## Provide connection details
-connectionDetails <- DatabaseConnector::createConnectionDetails(
-  dbms = config::get("dbms", config = configBlock),
-  user = config::get("user", config = configBlock),
-  password = config::get("password", config = configBlock),
-  connectionString = config::get("connectionString", config = configBlock)
+#jdbc_driver_path <- ""
+connectionDetails <- DatabaseConnector::createConnectionDetails (
+  dbms = "",
+  server = "",
+  user = "",
+  password = "",
+  port = "",
+  #pathToDriver = jdbc_driver_path
+
 )
 
 ## Connect to database
@@ -35,37 +42,43 @@ con <- DatabaseConnector::connect(connectionDetails)
 
 
 # D. Study Variables -----------------------
-
-## Administrative Variables
-executionSettings <- config::get(config = configBlock) %>%
-  purrr::discard_at(c("dbms", "user", "password", "connectionString"))
-
-outputFolder <- here::here("results") %>%
-  fs::path(executionSettings$databaseName, "01_buildCohorts") %>%
-  fs::dir_create()
-
+outputFolder <- ''    # output folder for csv files
+incrementalFolder = "" # folder to keep track of generated cohorts "incremental"
 ## Load cohorts
-cohortManifest <- getCohortManifest()
 
-# Needed to execute on Postgres, will be moved in final.
-executionSettings$projectName = tolower(executionSettings$projectName)
-executionSettings$cohortTable = tolower(executionSettings$cohortTable)
-executionSettings$workDatabaseSchema = tolower(executionSettings$workDatabaseSchema)
+executionSettings <- list(
+  projectName = tolower(''),
+  cohortTable = tolower(''),
+  cdmDatabaseSchema = '',
+  vocabDatabaseSchema = '',
+  workDatabaseSchema = "",
+  dbms = "",
+  cohortDatabaseSchema = "",
+  tablePrefix = "",
+  databaseName = ""
+
+)
 
 # E. Script --------------------
 
-### RUN ONCE - Initialize Cohort table ###
-initializeCohortTables(executionSettings = executionSettings, con = con, dropTables = TRUE)
 
-## Generate cohorts
+# Generate yearly and subcohorts from cohortsToCreate/03
 
-generatedCohorts <- generateCohorts(
-  executionSettings = executionSettings,
-  con = con,
-  cohortManifest = cohortManifest,
-  outputFolder = outputFolder
-)
+generateSubCohorts(con = con,
+                   outputFolder = outputFolder,
+                   executionSettings = executionSettings)
 
+# Generate initial csvs based on database specs
+createStrataTable(con = con,
+                  executionsettings = executionsettings)
+
+# Create Hiv neg table shells
+createTableShells1(outputFolder = outputFolder)
+
+# Create Hiv positive table shells
+createTableShells2( con = con,
+                    outputFolder = outputFolder,
+                    executionSettings = executionSettings)
 
 # F. Disconnect ------------------------
 

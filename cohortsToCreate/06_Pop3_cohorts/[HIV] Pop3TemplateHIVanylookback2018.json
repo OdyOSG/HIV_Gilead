@@ -19191,7 +19191,7 @@
 },
 {
  "name": "HIV Testing",
-"description": "HIV Testing+ Any High Risk Behaviors",
+"description": "HIV Testing",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,
@@ -19199,14 +19199,7 @@
  {
  "Criteria": {
  "Measurement": {
- "CorrelatedCriteria": {
- "Type": "AT_LEAST",
-"Count": 1,
-"CriteriaList": [],
-"DemographicCriteriaList": [],
-"Groups": [] 
-},
-"CodesetId": 20 
+ "CodesetId": 20 
 } 
 },
 "StartWindow": {
@@ -19232,8 +19225,8 @@
 } 
 },
 {
- "name": "HIV Testing",
-"description": "2+ HIV Testing+ Any High Risk Behaviors",
+ "name": " Any High Risk Behaviors not HIV testing",
+"description": " Any High Risk Behaviors not HIV testing",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,
@@ -19419,13 +19412,6 @@
 } 
 } 
 ],
-"EndStrategy": {
- "CustomEra": {
- "DrugCodesetId": 17,
-"GapDays": 30,
-"Offset": 0 
-} 
-},
 "CensoringCriteria": [],
 "CollapseSettings": {
  "CollapseType": "ERA",

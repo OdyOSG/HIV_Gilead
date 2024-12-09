@@ -19158,7 +19158,7 @@
 },
 {
  "name": "STI",
-"description": "STI+ Any High Risk Behaviors",
+"description": "STI",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,
@@ -19166,14 +19166,7 @@
  {
  "Criteria": {
  "ConditionOccurrence": {
- "CorrelatedCriteria": {
- "Type": "AT_LEAST",
-"Count": 1,
-"CriteriaList": [],
-"DemographicCriteriaList": [],
-"Groups": [] 
-},
-"CodesetId": 34 
+ "CodesetId": 34 
 } 
 },
 "StartWindow": {
@@ -19196,8 +19189,8 @@
 } 
 },
 {
- "name": "Any High Risk",
-"description": "STI+ Any High Risk Behaviors",
+ "name": "Any High Risk not STI",
+"description": "Any High Risk not STI",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,

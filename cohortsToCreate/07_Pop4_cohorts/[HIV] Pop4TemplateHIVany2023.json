@@ -19157,8 +19157,8 @@
 } 
 },
 {
- "name": "HIV Testing+Any",
-"description": "2+ HIV Testing+ Any High Risk Behaviors",
+ "name": "HIV Testing",
+"description": "HIV Testing",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,
@@ -19189,32 +19189,8 @@
 } 
 },
 {
- "name": "Male",
-"description": "Male",
-"expression": {
- "Type": "ALL",
-"CriteriaList": [],
-"DemographicCriteriaList": [
- {
- "Gender": [
- {
- "CONCEPT_CODE": "M",
-"CONCEPT_ID": 8507,
-"CONCEPT_NAME": "MALE",
-"DOMAIN_ID": "Gender",
-"INVALID_REASON_CAPTION": "Unknown",
-"STANDARD_CONCEPT_CAPTION": "Unknown",
-"VOCABULARY_ID": "Gender" 
-} 
-] 
-} 
-],
-"Groups": [] 
-} 
-},
-{
- "name": "Any High Risk",
-"description": "2+ HIV Testing+ Any High Risk Behaviors",
+ "name": "Any High Risk not HIV testing",
+"description": "Any High Risk not HIV testing",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,
@@ -19385,13 +19361,6 @@
 } 
 } 
 ],
-"EndStrategy": {
- "CustomEra": {
- "DrugCodesetId": 17,
-"GapDays": 30,
-"Offset": 0 
-} 
-},
 "CensoringCriteria": [],
 "CollapseSettings": {
  "CollapseType": "ERA",

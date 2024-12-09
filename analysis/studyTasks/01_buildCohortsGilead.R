@@ -11,9 +11,7 @@
 
 library(dplyr)
 library(DatabaseConnector)
-source(here::here('analysis/private/_buildCohorts.R'))
-source(here::here('analysis/private/_executeStudy.R'))
-source(here::here('analysis/private/_utilities.R'))
+source(here::here('analysis/private/_prepareStudy.R'))
 #install.packages('https://github.com/OHDSI/CohortGenerator/archive/refs/tags/v0.8.1.tar.gz')
 #install.packages('https://github.com/OHDSI/CirceR/archive/refs/tags/v1.3.3.tar.gz')
 # C. Connection ----------------------
@@ -43,12 +41,9 @@ con <- DatabaseConnector::connect(connectionDetails)
 # databaseName: synpuf
 # cohortTable: SurgeryWaitTime_synpuf
 ## Administrative Variables
-executionSettings <- config::get(config = configBlock) %>%
-  purrr::discard_at(c("dbms", "user", "password", "connectionString"))
-
 outputFolder <- 'results'
+incrementalFolder = "incrementalHIV"
 ## Load cohorts
-cohortManifest <- getCohortManifest()
 # Needed to execute on Postgres, will be moved in final.
 executionSettings <- list(
   projectName = tolower('jmt_hiv_gilead'),
@@ -56,27 +51,22 @@ executionSettings <- list(
   cdmDatabaseSchema = 'iqvia_ambulatory_emr_omop_20240501',
   vocabDatabaseSchema = 'iqvia_ambulatory_emr_omop_20240501',
   workDatabaseSchema = "sb_jtelford",
-  dbms = "postgresql",
+  dbms = "redshift",
   cohortDatabaseSchema = "sb_jtelford",
   tablePrefix = "jmt_hiv_gilead",
-  databaseName = "synpuf",
-  cohortTable = "jmt_hiv_gilead_marketscan"
+  databaseName = "synpuf"
 
 )
 
 # E. Script --------------------
 
-### RUN ONCE - Initialize Cohort table ###
-initializeCohortTables(executionSettings = executionSettings, con = con, dropTables = TRUE)
 
 ## Generate cohorts
 
-generatedCohorts <- generateCohorts(
-  executionSettings = executionSettings,
-  con = con,
-  cohortManifest = cohortManifest,
-  outputFolder = outputFolder
-)
+generateSubCohorts(con = con,
+                   outputFolder = outputFolder,
+                   executionSettings = executionSettings)
+
 
 
 # F. Disconnect ------------------------

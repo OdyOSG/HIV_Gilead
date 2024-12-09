@@ -19267,13 +19267,6 @@
 } 
 } 
 ],
-"EndStrategy": {
- "CustomEra": {
- "DrugCodesetId": 17,
-"GapDays": 30,
-"Offset": 0 
-} 
-},
 "CensoringCriteria": [],
 "CollapseSettings": {
  "CollapseType": "ERA",

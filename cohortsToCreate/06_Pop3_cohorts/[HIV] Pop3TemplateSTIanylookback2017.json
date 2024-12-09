@@ -19191,7 +19191,7 @@
 },
 {
  "name": "STI",
-"description": "2+STI+ Any High Risk Behaviors",
+"description": "STI",
 "expression": {
  "Type": "AT_LEAST",
 "Count": 1,
@@ -19434,13 +19434,6 @@
 } 
 } 
 ],
-"EndStrategy": {
- "CustomEra": {
- "DrugCodesetId": 17,
-"GapDays": 30,
-"Offset": 0 
-} 
-},
 "CensoringCriteria": [],
 "CollapseSettings": {
  "CollapseType": "ERA",
