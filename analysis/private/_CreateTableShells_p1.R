@@ -9,7 +9,7 @@
 
 
 # Get cohort counts from DB
-createTableShells1 <- function(outputFolder = outputFolder){
+createTableShells1 <- function(con = con, outputFolder = outputFolder){
   cohort_information = read.csv(paste0(outputFolder,"/cohort_information.csv"))
   # Create a list of row names
   row_names12 <- c("All","15 - 29","30 - 44","45 - 55","55+","Unknown age",

@@ -1,7 +1,7 @@
 # Create racestratacsv
-createStrataTable <- function(connectionDetails = connectionDetails,executionsettings = executionsettings){
+createStrataTable <- function(con = con,executionsettings = executionsettings){
 
-    con <- DatabaseConnector::connect(connectionDetails)
+
 
     query <- paste0("
 
@@ -47,12 +47,10 @@ createStrataTable <- function(connectionDetails = connectionDetails,executionset
       races <- rbind(races, new_row)
     }
     write.csv(races,paste0("analysis/settings/racestrata.csv"))
-    DatabaseConnector::disconnect(connection = con)
 }
 
 
-getLocationIDTable <- function(connectionDetails = connectionDetails, cohorttoRun = cohort,filename = filename,executionsettings){
-  con <- DatabaseConnector::connect(connectionDetails)
+getLocationIDTable <- function(con = con, cohorttoRun = cohort,filename = filename,executionsettings){
   sql_query <- "
 SELECT
      l.state,
@@ -90,7 +88,6 @@ ORDER BY
   locations <- dbGetQuery(con, translated_sql)
   outputlocation = paste0(outputFolder,"/location_results/locations_",filename,".csv")
   write.csv(locations,outputlocation,row.names = FALSE)
-  DatabaseConnector::disconnect(connection = con)
 
 
 }

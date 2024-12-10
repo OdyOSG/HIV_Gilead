@@ -1,6 +1,6 @@
 "cohortId","cohortName","count"
-1001,"[HIV] Pop12016",18133
-1002,"[HIV] Pop12017",20774
+1001,"[HIV] Pop12016",13175
+1002,"[HIV] Pop12017",15952
 1003,"[HIV] Pop12018",22554
 1004,"[HIV] Pop12019",23087
 1005,"[HIV] Pop12020",19658
@@ -15,10 +15,10 @@
 2006,"[HIV] Pop22021",14640798
 2007,"[HIV] Pop22022",12423922
 2008,"[HIV] Pop22023",11304536
-3001,"[HIV] Pop3Template2016",16970
-3001,"[HIV] Pop3Template2016",16970
-3002,"[HIV] Pop3Template2017",21127
-3002,"[HIV] Pop3Template2017",21127
+3001,"[HIV] Pop3Template2016",10344
+3001,"[HIV] Pop3Template2016",10344
+3002,"[HIV] Pop3Template2017",12244
+3002,"[HIV] Pop3Template2017",12244
 3003,"[HIV] Pop3Template2018",22701
 3003,"[HIV] Pop3Template2018",22701
 3004,"[HIV] Pop3Template2019",22549
@@ -31,15 +31,15 @@
 3007,"[HIV] Pop3Template2022",14459
 3008,"[HIV] Pop3Template2023",14097
 3008,"[HIV] Pop3Template2023",14097
-3009,"[HIV] Pop3Template2HR2016",5511
-3010,"[HIV] Pop3Template2HR2017",6350
+3009,"[HIV] Pop3Template2HR2016",4654
+3010,"[HIV] Pop3Template2HR2017",5651
 3011,"[HIV] Pop3Template2HR2018",7037
 3012,"[HIV] Pop3Template2HR2019",7038
 3013,"[HIV] Pop3Template2HR2020",5345
 3014,"[HIV] Pop3Template2HR2021",4991
 3015,"[HIV] Pop3Template2HR2022",5028
 3016,"[HIV] Pop3Template2HR2023",5387
-3017,"[HIV] Pop3Template2HRlookback2016",4208
+3017,"[HIV] Pop3Template2HRlookback2016",3686
 3018,"[HIV] Pop3Template2HRlookback2017",4782
 3019,"[HIV] Pop3Template2HRlookback2018",5352
 3020,"[HIV] Pop3Template2HRlookback2019",5289
@@ -351,35 +351,35 @@
 5006,"[HIV] Pop52021",20259
 5007,"[HIV] Pop52022",17666
 5008,"[HIV] Pop52023",17659
-1001001,"[HIV] Pop12016 - male patients in cohort 1 Age 15 - 29",2050
-1001002,"[HIV] Pop12016 - male patients in cohort 1 Age 30 - 44",4378
-1001003,"[HIV] Pop12016 - male patients in cohort 1 Age 45 - 55",3979
-1001004,"[HIV] Pop12016 - male patients in cohort 1 Age 55+",3748
-1001005,"[HIV] Pop12016 - male patients in cohort 1 White",7130
+1001001,"[HIV] Pop12016 - male patients in cohort 1 Age 15 - 29",1839
+1001002,"[HIV] Pop12016 - male patients in cohort 1 Age 30 - 44",3793
+1001003,"[HIV] Pop12016 - male patients in cohort 1 Age 45 - 55",2803
+1001004,"[HIV] Pop12016 - male patients in cohort 1 Age 55+",2147
+1001005,"[HIV] Pop12016 - male patients in cohort 1 White",0
 1001006,"[HIV] Pop12016 - male patients in cohort 1 Asian",779
 1001007,"[HIV] Pop12016 - male patients in cohort 1 African American",1685
 1001008,"[HIV] Pop12016 - male patients in cohort 1 Hispanic",0
-1001011,"[HIV] Pop12016 - female patients in cohort 1 Age 15 - 29",457
-1001012,"[HIV] Pop12016 - female patients in cohort 1 Age 30 - 44",1054
-1001013,"[HIV] Pop12016 - female patients in cohort 1 Age 45 - 55",1094
-1001014,"[HIV] Pop12016 - female patients in cohort 1 Age 55+",1346
-1001015,"[HIV] Pop12016 - female patients in cohort 1 White",1212
+1001011,"[HIV] Pop12016 - female patients in cohort 1 Age 15 - 29",376
+1001012,"[HIV] Pop12016 - female patients in cohort 1 Age 30 - 44",814
+1001013,"[HIV] Pop12016 - female patients in cohort 1 Age 45 - 55",658
+1001014,"[HIV] Pop12016 - female patients in cohort 1 Age 55+",723
+1001015,"[HIV] Pop12016 - female patients in cohort 1 White",0
 1001016,"[HIV] Pop12016 - female patients in cohort 1 Asian",523
 1001017,"[HIV] Pop12016 - female patients in cohort 1 African American",991
 1001018,"[HIV] Pop12016 - female patients in cohort 1 Hispanic",0
-1002001,"[HIV] Pop12017 - male patients in cohort 1 Age 15 - 29",2595
-1002002,"[HIV] Pop12017 - male patients in cohort 1 Age 30 - 44",5271
-1002003,"[HIV] Pop12017 - male patients in cohort 1 Age 45 - 55",4334
-1002004,"[HIV] Pop12017 - male patients in cohort 1 Age 55+",4258
-1002005,"[HIV] Pop12017 - male patients in cohort 1 White",8573
+1002001,"[HIV] Pop12017 - male patients in cohort 1 Age 15 - 29",2409
+1002002,"[HIV] Pop12017 - male patients in cohort 1 Age 30 - 44",4637
+1002003,"[HIV] Pop12017 - male patients in cohort 1 Age 45 - 55",3302
+1002004,"[HIV] Pop12017 - male patients in cohort 1 Age 55+",2573
+1002005,"[HIV] Pop12017 - male patients in cohort 1 White",0
 1002006,"[HIV] Pop12017 - male patients in cohort 1 Asian",921
 1002007,"[HIV] Pop12017 - male patients in cohort 1 African American",1892
 1002008,"[HIV] Pop12017 - male patients in cohort 1 Hispanic",0
-1002011,"[HIV] Pop12017 - female patients in cohort 1 Age 15 - 29",521
-1002012,"[HIV] Pop12017 - female patients in cohort 1 Age 30 - 44",1101
-1002013,"[HIV] Pop12017 - female patients in cohort 1 Age 45 - 55",1158
-1002014,"[HIV] Pop12017 - female patients in cohort 1 Age 55+",1512
-1002015,"[HIV] Pop12017 - female patients in cohort 1 White",1364
+1002011,"[HIV] Pop12017 - female patients in cohort 1 Age 15 - 29",458
+1002012,"[HIV] Pop12017 - female patients in cohort 1 Age 30 - 44",983
+1002013,"[HIV] Pop12017 - female patients in cohort 1 Age 45 - 55",738
+1002014,"[HIV] Pop12017 - female patients in cohort 1 Age 55+",836
+1002015,"[HIV] Pop12017 - female patients in cohort 1 White",0
 1002016,"[HIV] Pop12017 - female patients in cohort 1 Asian",606
 1002017,"[HIV] Pop12017 - female patients in cohort 1 African American",1030
 1002018,"[HIV] Pop12017 - female patients in cohort 1 Hispanic",0
@@ -483,7 +483,7 @@
 2001002,"[HIV] Pop22016 - male patients in cohort 2 Age 30 - 44",1329328
 2001003,"[HIV] Pop22016 - male patients in cohort 2 Age 45 - 55",1542414
 2001004,"[HIV] Pop22016 - male patients in cohort 2 Age 55+",4480167
-2001005,"[HIV] Pop22016 - male patients in cohort 2 White",5680220
+2001005,"[HIV] Pop22016 - male patients in cohort 2 White",0
 2001006,"[HIV] Pop22016 - male patients in cohort 2 Asian",159169
 2001007,"[HIV] Pop22016 - male patients in cohort 2 African American",552583
 2001008,"[HIV] Pop22016 - male patients in cohort 2 Hispanic",0
@@ -491,7 +491,7 @@
 2001012,"[HIV] Pop22016 - female patients in cohort 2 Age 30 - 44",2232435
 2001013,"[HIV] Pop22016 - female patients in cohort 2 Age 45 - 55",2142643
 2001014,"[HIV] Pop22016 - female patients in cohort 2 Age 55+",5596286
-2001015,"[HIV] Pop22016 - female patients in cohort 2 White",7833509
+2001015,"[HIV] Pop22016 - female patients in cohort 2 White",0
 2001016,"[HIV] Pop22016 - female patients in cohort 2 Asian",236426
 2001017,"[HIV] Pop22016 - female patients in cohort 2 African American",927385
 2001018,"[HIV] Pop22016 - female patients in cohort 2 Hispanic",0
@@ -499,7 +499,7 @@
 2002002,"[HIV] Pop22017 - male patients in cohort 2 Age 30 - 44",1257832
 2002003,"[HIV] Pop22017 - male patients in cohort 2 Age 45 - 55",1451206
 2002004,"[HIV] Pop22017 - male patients in cohort 2 Age 55+",4429901
-2002005,"[HIV] Pop22017 - male patients in cohort 2 White",5559669
+2002005,"[HIV] Pop22017 - male patients in cohort 2 White",0
 2002006,"[HIV] Pop22017 - male patients in cohort 2 Asian",148314
 2002007,"[HIV] Pop22017 - male patients in cohort 2 African American",556655
 2002008,"[HIV] Pop22017 - male patients in cohort 2 Hispanic",0
@@ -507,7 +507,7 @@
 2002012,"[HIV] Pop22017 - female patients in cohort 2 Age 30 - 44",2118334
 2002013,"[HIV] Pop22017 - female patients in cohort 2 Age 45 - 55",2018436
 2002014,"[HIV] Pop22017 - female patients in cohort 2 Age 55+",5504442
-2002015,"[HIV] Pop22017 - female patients in cohort 2 White",7625704
+2002015,"[HIV] Pop22017 - female patients in cohort 2 White",0
 2002016,"[HIV] Pop22017 - female patients in cohort 2 Asian",221831
 2002017,"[HIV] Pop22017 - female patients in cohort 2 African American",927584
 2002018,"[HIV] Pop22017 - female patients in cohort 2 Hispanic",0

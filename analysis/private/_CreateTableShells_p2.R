@@ -1,8 +1,7 @@
 # Begin Building Table shells
 # Pass connection details
 # Tables 51 and 53 not in use.
-createTableShells2 <- function(connectionDetails = connectionDetails, outputFolder = outputFolder,executionSettings = executionSettings){
-  con <- DatabaseConnector::connect(connectionDetails)
+createTableShells2 <- function(con = con, outputFolder = outputFolder,executionSettings = executionSettings){
     cohortDatabaseSchema = executionSettings$cohortDatabaseSchema
     cohortTable     = executionSettings$cohortTable
     dbms = executionSettings$dbms
@@ -123,7 +122,6 @@ createTableShells2 <- function(connectionDetails = connectionDetails, outputFold
       modified_string <- gsub(" ", ", ", first)    # Replace spaces with commas
       return(modified_string)
     })
-    con <- DatabaseConnector::connect(connectionDetails)
     # For each row
     i=1
     for (i in (1:nrow(table1))){
@@ -258,7 +256,6 @@ createTableShells2 <- function(connectionDetails = connectionDetails, outputFold
       modified_string <- gsub(" ", ", ", first)    # Replace spaces with commas
       return(modified_string)
     })
-    con <- DatabaseConnector::connect(connectionDetails)
     # For each row
     for (i in (1:nrow(table2))){
       currentcohorts = table2$modified_string[i]
@@ -390,7 +387,6 @@ createTableShells2 <- function(connectionDetails = connectionDetails, outputFold
         modified_string <- gsub(" ", ", ", first)    # Replace spaces with commas
         return(modified_string)
       })
-      con <- DatabaseConnector::connect(connectionDetails)
       # For each row
       for (i in (1:nrow(table3))){
         currentcohorts = table3$modified_string[i]
@@ -519,7 +515,6 @@ createTableShells2 <- function(connectionDetails = connectionDetails, outputFold
         modified_string <- gsub(" ", ", ", first)    # Replace spaces with commas
         return(modified_string)
       })
-      con <- DatabaseConnector::connect(connectionDetails)
       # For each row
       for (i in (1:nrow(table4))){
         currentcohorts = table4$modified_string[i]
@@ -565,5 +560,4 @@ createTableShells2 <- function(connectionDetails = connectionDetails, outputFold
 
 
     }
-    DatabaseConnector::disconnect(connection = con)
 }

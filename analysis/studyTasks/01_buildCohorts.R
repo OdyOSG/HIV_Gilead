@@ -61,21 +61,21 @@ executionSettings <- list(
 
 # E. Script --------------------
 
-
+# Generate initial csvs based on database specs
+createStrataTable(con = con,
+                  executionsettings = executionsettings)
 # Generate yearly and subcohorts from cohortsToCreate/03
 
 generateSubCohorts(con = con,
                    outputFolder = outputFolder,
                    executionSettings = executionSettings)
 
-# Generate initial csvs based on database specs
-createStrataTable(con = con,
-                  executionsettings = executionsettings)
+
 
 # Create Hiv neg table shells
-createTableShells1(outputFolder = outputFolder)
+createTableShells1(con = con, outputFolder = outputFolder)
 
-# Create Hiv positive table shells
+# Create Hiv positive table shells 2 and 4
 createTableShells2( con = con,
                     outputFolder = outputFolder,
                     executionSettings = executionSettings)

@@ -1,7 +1,5 @@
 library(dplyr)
 library(DatabaseConnector)
-source(here::here('analysis/private/_buildCohorts.R'))
-source(here::here('analysis/private/_buildStrata.R'))
 source(here::here('analysis/private/_utilities.R'))
 source(here::here('analysis/private/_CreateCsvs.R'))
 source(here::here('analysis/private/_CreateTableShells_p1.R'))

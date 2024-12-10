@@ -1,9 +1,8 @@
 # Script for automated cohort generation and subsetting
 
 
-generateSubCohorts <- function(connectionDetails = connectionDetails, outputFolder = outputFolder, executionSettings = executionSettings){
+generateSubCohorts <- function(con = con, outputFolder = outputFolder, executionSettings = executionSettings){
 
-  con <- DatabaseConnector::connect(connectionDetails)
     library(CohortGenerator)
     if (!dir.exists(outputFolder)) {
       dir.create(outputFolder)
@@ -591,19 +590,19 @@ generateSubCohorts <- function(connectionDetails = connectionDetails, outputFold
                              cohortCensorStatsTable = paste0(name, "_censor_stats"))
 
     cohortsetname = definitionlist[1]
-    for (cohortsetname in definitionlist){
-        cohortdefsettouse = get(cohortsetname)
-        cohortdefsettouse <- cohortdefsettouse[grepl("2016", cohortdefsettouse$cohortName) | grepl("2017", cohortdefsettouse$cohortName), ]
-        CohortGenerator::generateCohortSet(
-          connection = con,
-          cdmDatabaseSchema = executionSettings$cdmDatabaseSchema,
-          cohortDatabaseSchema =  executionSettings$workDatabaseSchema,
-          cohortTableNames = cohortTableNames,
-          cohortDefinitionSet = cohortdefsettouse,
-          incremental = TRUE,
-          incrementalFolder = incrementalFolder
-        )
-    }
+    # for (cohortsetname in definitionlist){
+    #     cohortdefsettouse = get(cohortsetname)
+    #     cohortdefsettouse <- cohortdefsettouse[grepl("2016", cohortdefsettouse$cohortName) | grepl("2017", cohortdefsettouse$cohortName), ]
+    #     CohortGenerator::generateCohortSet(
+    #       connection = con,
+    #       cdmDatabaseSchema = executionSettings$cdmDatabaseSchema,
+    #       cohortDatabaseSchema =  executionSettings$workDatabaseSchema,
+    #       cohortTableNames = cohortTableNames,
+    #       cohortDefinitionSet = cohortdefsettouse,
+    #       incremental = TRUE,
+    #       incrementalFolder = incrementalFolder
+    #    )
+    #}
 
     # Collect data on cohort counts
     query <- "SELECT DISTINCT cohort_definition_id FROM sb_jtelford.jmt;"
@@ -646,5 +645,4 @@ generateSubCohorts <- function(connectionDetails = connectionDetails, outputFold
     cohort_information <- merge(cohort_names, cohort_counts, by = "cohortId", all.x = TRUE)
     cohort_information$count[is.na(cohort_information$count)] <- 0
     write.csv(cohort_information,paste0(outputFolder,"/cohort_information.csv"), row.names = FALSE)
-    DatabaseConnector::disconnect(connection = con)
 }

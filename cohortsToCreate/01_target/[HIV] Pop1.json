@@ -5001,20 +5001,6 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Event",
-              "CONCEPT_CODE": "218047001",
-              "CONCEPT_ID": 433934,
-              "CONCEPT_NAME": "Accident caused by needle",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "91947003",
               "CONCEPT_ID": 4241530,
@@ -5141,20 +5127,6 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "365866002",
-              "CONCEPT_ID": 4276586,
-              "CONCEPT_NAME": "Finding of HIV status",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
               "CONCEPT_CLASS_ID": "Disorder",
               "CONCEPT_CODE": "186624004",
               "CONCEPT_ID": 439675,
@@ -5202,20 +5174,6 @@
               "CONCEPT_ID": 36715476,
               "CONCEPT_NAME": "Human immunodeficiency virus complicating pregnancy childbirth and the puerperium",
               "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "313077009",
-              "CONCEPT_ID": 4210151,
-              "CONCEPT_NAME": "Human immunodeficiency virus counseling",
-              "DOMAIN_ID": "Procedure",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
@@ -5384,20 +5342,6 @@
               "CONCEPT_ID": 438350,
               "CONCEPT_NAME": "Pneumocystosis",
               "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "169443000",
-              "CONCEPT_ID": 4061660,
-              "CONCEPT_NAME": "Preventive procedure",
-              "DOMAIN_ID": "Procedure",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
