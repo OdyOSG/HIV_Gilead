@@ -297,8 +297,9 @@ createTableShells2 <- function(con = con, outputFolder = outputFolder,executionS
         table52[i,x]= temp_df[1,1]
       }
     }
-    write.csv(table52,paste0(outputFolder,"/table52.csv"))
-
+    #write.csv(table52,paste0(outputFolder,"/table52.csv"))
+    combinedtable = table51+table52
+    write.csv(combinedtable,paste0(outputFolder,"/table5combined_pop1_pop2.csv"))
 
     # Create table 3
 
